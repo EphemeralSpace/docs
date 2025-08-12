@@ -3,7 +3,7 @@
 # * template https://github.com/kg4zow/mdbook-template/
 
 [book]
-authors                 = ["John Simpson"]
+authors                 = ["EphemeralSpace"]
 language                = "en"
 multilingual            = false
 src                     = "src"
@@ -12,7 +12,7 @@ title                   = "Template"
 [output.html]
 additional-css          = [ "section-lines.css" , "version-commit.css" ]
 curly-quotes            = false
-git-repository-url      = "https://github.com/kg4zow/mdbook-template"
+git-repository-url      = "https://github.com/EphemeralSpace/docs"
 no-section-label        = true
 default-theme           = "rust"
 preferred-dark-theme    = "ayu"

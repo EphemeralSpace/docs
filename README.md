@@ -2,7 +2,7 @@
 
 This is the mdbook-based developer documentation for the Ephemeral Space project. This site contains information for coding, contributing, and design for the project.
 
-The site is currently hosted at https://docs.spacestation14.com.
+The site is currently hosted at https://ephemeralspace.github.io/docs/.
 
 ## License
 
