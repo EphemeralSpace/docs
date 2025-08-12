@@ -1,0 +1,5 @@
+.DS_Store
+._*
+/book/
+/theme/*.hbs
+/debug.txt
