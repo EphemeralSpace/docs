@@ -3,7 +3,7 @@
 # * template https://github.com/kg4zow/mdbook-template/
 
 [book]
-authors                 = ["EphemeralSpace"]
+authors                 = ["Ephemeral Space Contributors"]
 language                = "en"
 multilingual            = false
 src                     = "src"
@@ -12,7 +12,9 @@ title                   = "Template"
 [output.html]
 additional-css          = [ "section-lines.css" , "version-commit.css" ]
 curly-quotes            = false
-git-repository-url      = "https://github.com/EphemeralSpace/docs"
+git-repository-url      = "https://github.com/EphemeralSpace/ephemeral-space"
 no-section-label        = true
-default-theme           = "rust"
+default-theme           = "ayu"
 preferred-dark-theme    = "ayu"
+title = "Ephemeral Space Development Wiki"
+description = "Tutorial & reference for all Space Wizards Federation projects, including the Robust Toolbox engine and its flagship open source game, Space Station 14."

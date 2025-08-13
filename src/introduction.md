@@ -1,23 +1,25 @@
-# Introduction
+<img alt="Ephemeral Space Logo" src="assets/misc/esicon.svg" width=128 style="margin-left:auto;margin-right:auto;display:block"/>
 
-This is a newly created "book" using [mdbook](https://rust-lang.github.io/mdBook/), with the customizations I normally use:
+This is the development wiki for the **Ephemeral Space** project.
+If you're looking for information on game mechanics and guides, seek out the guidebook, accessible on the live server.
 
-* Horizontal bars of varying thickness above `H1`, `H2`, and `H3` headers. (See below for examples of what they look like.)
+### Getting Started
 
-    I find this makes it easier to quickly spot the beginnings of the sections when the lines are used as separators between the sections. I also think it makes more sense to have the bars *above* the section headers instead of below them.
+- [:question: How do I code?](en/general-development/setup/howdoicode.md)
+- [:package: Setting up the Dev Environment](en/general-development/setup/setting-up-a-development-environment.md)
+- [:page_with_curl: Core Game Design](en/space-station-14/core-design.md)
+- [:world_map: Mapping](en/space-station-14/mapping.md)
+- [:chart_with_upwards_trend: Git for the SS14 Developer](en/general-development/setup/git-for-the-ss14-developer.md)
 
-* Automatic git commit and version information at the bottom of the navigation panel on the left, and/or at the bottom of every page. (This template repo has both, so you can see what they look like.)
+### Links
 
-* A `Makefile` with rules to publish the HTML and other files that make up the book, either to a web server or to GitHub Pages.
+Associated websites with the Ephemeral Space project.
 
-[`https://github.com/kg4zow/mdbook-template/`](https://github.com/kg4zow/mdbook-template/) contains more detail about how to use this repo.
+- [Discord](https://discord.gg/jNFV9ap2nX)
+- [Server Repository](https://github.com/EphemeralSpace/ephemeral-space)
+- [Wiki Repository](https://github.com/EphemeralSpace/docs)
 
-The `theme-template/toc.html.hbs` and `theme-template/toc.js.hbs` files also include *commented-out* examples of how you might add a link to a page "outside" the book, at the top of the Table of Contents in the navigation panel. This could be useful if you're writing a set of books and want each one to have a link back to a common "list of books" index page.
+### What should I work on?
 
-Below this are a few example section headers, so you can see what they look like.
-
-# Example H1 Section Header
-
-## Example H2 Section Header
-
-### Example H3 Section Header
+* Check [the list of issues](https://github.com/EphemeralSpace/ephemeral-space/issues) for anything you can work on.
+* Talk to **contributors** and **maintainers** in Discord.

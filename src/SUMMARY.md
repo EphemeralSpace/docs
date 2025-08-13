@@ -1,7 +1,21 @@
 # Summary
 
-[Introduction](introduction.md)
+[Ephemeral Space Development Wiki](introduction.md)
+
+Meta
+====
 
 ---
 
-- [Chapter 1](./chapter_1.md)
+- [Guide to Editing Docs](meta/guide-to-editing-docs.md)
+
+Coding
+====
+
+---
+
+Design
+====
+
+---
+
