@@ -3,13 +3,7 @@
 This is the development wiki for the **Ephemeral Space** project.
 If you're looking for information on game mechanics and guides, seek out the guidebook, accessible on the live server.
 
-### Getting Started
-
-- [:question: How do I code?](en/general-development/setup/howdoicode.md)
-- [:package: Setting up the Dev Environment](en/general-development/setup/setting-up-a-development-environment.md)
-- [:page_with_curl: Core Game Design](en/space-station-14/core-design.md)
-- [:world_map: Mapping](en/space-station-14/mapping.md)
-- [:chart_with_upwards_trend: Git for the SS14 Developer](en/general-development/setup/git-for-the-ss14-developer.md)
+More resources pertaining to general Space Station 14 can be found on the [main project development wiki](https://docs.spacestation14.com/index.html).
 
 ### Links
 

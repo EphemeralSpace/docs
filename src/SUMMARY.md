@@ -1,6 +1,6 @@
 # Summary
 
-[Ephemeral Space Development Wiki](introduction.md)
+## [Ephemeral Space Dev Wiki](introduction.md)
 
 Meta
 ====
@@ -13,6 +13,8 @@ Coding
 ====
 
 ---
+
+- [Conventions](coding/code-conventions.md)
 
 Design
 ====
