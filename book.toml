@@ -16,7 +16,3 @@ git-repository-url      = "https://github.com/EphemeralSpace/docs"
 no-section-label        = true
 default-theme           = "rust"
 preferred-dark-theme    = "ayu"
-
-[preprocessor.version-commit]
-renderers           = [ "html" ]
-command             = "./version-commit"
