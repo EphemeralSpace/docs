@@ -21,3 +21,5 @@ Design
 
 ---
 
+- Equipment
+  - [Clothing](design/equipment/clothing.md)
