@@ -33,9 +33,24 @@ Reducing the number of similar clothing items helps simplify imitating an outfit
 ## Fluff Clothing
 
 Fluff encompasses all clothing that isn't directly associated with a specific role.
-To avoid accumulating excessive fluff clothing, it must meet the following conditions:
-- The clothing must have a unique theme or aesthetic
-- The clothing must have a unique mechanic associated with it
+Overall, the existence of an article of fluff clothing needs to add something substantial in order to justify the maintenance cost.
+For example:
+- The new clothing item should have a unique niche, be generally novel, or otherwise be something that is broadly appealing to wear
+- The new clothing item should not have overlap with already existing clothing items
+- The new clothing item should ideally have interesting mechanics associated with them.
+While this is not a hard requirement, having additional features can serve to give purpose to what would otherwise be fluff clothing
 
-Fluff clothing should always try to be meaningfully distinct from existing clothing.
-New items should refrain from recoloring or mildly riffing on existing assets.
+Fluff clothing should also ideally be limited to individual pieces rather than entire outfits.
+If a single article of clothing is all you need to sell an idea or outfit, then that is all that should be added.
+Refrain from adding "sets" of clothing meant to work together, especially items in the same slot which can't be worn simultaneously.
+
+### Examples
+- **Good |** Sombrero & Poncho: A generally funny set of items that has a specific niche.
+The addition of the accent while worn also gives it an extra comedic mechanical backing.
+- **Bad |** Touhou Clothes: The theme of the outfit is not broadly usable and the reference does not provide value
+- **Good |** Cardborg: Pretending to be a fake robot is a funny idea which integrates will with science and robotics.
+Additionally, the outfit is good for hiding one's identity, which is an interesting niche
+- **Bad |** Animal Masks: Comedic/fluff masks are a role generally already filled by the clown and mime clothing options.
+The theming of the masks are also generally pretty weak, not providing anything novel that isn't accomplished better by existing items
+- **Good |** Colored Caps: Despite being a relatively large and similar array of clothing options, the caps are generally usable for a variety of outfits.
+Additionally, the capacity to recolor the caps is an interesting mechanic that reduces the specific issue of color bloat.
