@@ -24,4 +24,4 @@ Design
 - [Equipment]()
   - [Clothing](design/equipment/clothing.md)
 
-- [Masks]
+- [Masks](design/masks.md)
