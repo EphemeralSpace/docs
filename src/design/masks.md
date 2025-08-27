@@ -27,10 +27,10 @@ Masks are organized into two levels: **genres** and **troupes**.
 
 ### Genres
 
-A **genre** is a high-level category used for distributing masks to players.
+A **genre** is a high-level category used for influencing which masks are given to players.
+Every round, a random genre is selected, which weights certain masks higher than others, making them more likely to appear together.
 
-Masks within a genre do not necessarily need to directly involve each other, but rather are just suited to creating interesting interactions when both present.
-Assignment of masks is always done through the selection of a few genres, so these roles are more likely to be present together.
+Masks within a genre do not necessarily need to directly involve each other, but rather are just suited to creating interesting interactions when both are present.
 
 For example, an assassin's mask would likely be in the same genre as a bodyguard mask.
 The two are not strictly reliant on each other (a bodyguard can function without an assassin, and vice versa), but the presence of both simultaneously creates an interesting situation.
@@ -43,9 +43,10 @@ Not every mask must belong to a troupe, but it is an additional level that can b
 
 Masks that are part of a troupe are always assigned at the same time.
 The purpose of this is to create roles that directly respond to each other.
+Note that while this is can be used for combative roles, it can also include multiple roles that work together with each other in a positive way.
 
-For example, a vampire mask may have an associated vampire-hunter mask that both share a troupe.
-This would mean that the two roles are always going to be forced to respond to the other, which adds to their dynamic.
+For example, a mafia troupe may include both mafia member masks and a godfather mask.
+This lets the roles be designed directly around the relationships between each other rather than simply being an occasional emergent relationship.
 
 ## Assignment
 
@@ -56,6 +57,6 @@ The mask that you receive is fully random, dependent only on the genres which ha
 
 ### Mask Tokens
 When you successfully complete your mask's objectives, you receive a **mask token** that's associated with your account.
-Between rounds, the tokens can be redeemed to pre-select your mask before the round begins.
+Between rounds, the a few round's worth of tokens can be redeemed to pre-select your mask before the round begins.
 
 This provides an incentive for completing mask objectives (to earn tokens) as well as way to occasionally mitigate randomness.
