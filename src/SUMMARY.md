@@ -29,3 +29,4 @@ Design
   - [Gamemodes]()
     - [Multistation Asteroid Control](design/roundflow/gamemodes/asteroid-control.md)
   - [Evac](design/roundflow/evac.md)
+- [Terminology](design/terminology.md)
