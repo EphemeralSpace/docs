@@ -1,4 +1,4 @@
-# Arrivals & Latejoining
+# Arrivals, Roundstart & Latejoining
 
 When the round starts, players are internally split up into two groups. 
 
