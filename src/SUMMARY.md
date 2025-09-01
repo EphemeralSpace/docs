@@ -23,3 +23,7 @@ Design
 
 - [Equipment]()
   - [Clothing](design/equipment/clothing.md)
+- [Roundflow]()
+  - [Lobby & Readying Up](design/roundflow/lobby-roundstart.md)
+  - [Arrivals, Third Parties & Latejoining](design/roundflow/arrivals.md)
+  - [Evac](design/roundflow/evac.md)
