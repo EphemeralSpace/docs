@@ -23,6 +23,8 @@ Design
 
 - [Equipment]()
   - [Clothing](design/equipment/clothing.md)
+- [Masks](design/masks.md)
+- [Terminology](design/terminology.md)
 - [Roundflow]()
   - [Lobby & Readying Up](design/roundflow/lobby-roundstart.md)
   - [Arrivals, Third Parties & Latejoining](design/roundflow/arrivals.md)
