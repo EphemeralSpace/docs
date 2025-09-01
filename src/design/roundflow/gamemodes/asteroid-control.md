@@ -1,3 +1,0 @@
-# Asteroid Control
-
-WIP
