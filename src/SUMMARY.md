@@ -27,5 +27,6 @@ Design
 - [Terminology](design/terminology.md)
 - [Roundflow]()
   - [Lobby & Readying Up](design/roundflow/lobby-readying-up.md)
-  - [Roundstart, Arrivals, & Latejoining](design/roundflow/roundstart-arrivals.md)
+  - [Roundstart, Arrivals, & Latejoining](design/roundflow/roundstart-arrivals-latejoining.md)
+  - [Ghost Roles & The Ghost Bar](design/roundflow/ghost-roles-ghost-bar.md)
   - [Evac & Roundend](design/roundflow/evac-roundend.md)
