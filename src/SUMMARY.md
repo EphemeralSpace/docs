@@ -24,6 +24,8 @@ Design
 - [Equipment]()
   - [Clothing](design/equipment/clothing.md)
 - [Masks](design/masks.md)
+- [Power]()
+  - [AME](design/power/antimatter-engine.md)
 - [Terminology](design/terminology.md)
 - [Roundflow]()
   - [Lobby & Readying Up](design/roundflow/lobby-readying-up.md)
