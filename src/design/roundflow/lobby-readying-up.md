@@ -1,4 +1,4 @@
-# Lobby & Roundstart
+# Lobby
 
 The lobby, instead of just being a UI, is actually a map players can walk around in. 
 All features that were UI buttons/menus previously (readying up, observing, the roundstart timer, etc) are instead diegetic elements contained within the lobby map itself.
@@ -34,17 +34,17 @@ Okay breaking character for a second. Imagine like a roblox lobby or minecraft h
 
 The game where YOU can take care of your Pheemy (a weird round kind of guy) and try to create the rarest pheemy you can while keeping it healthy or killing it allways in all sorts of damaging ways and punching it to death and murdering it. Actions taken in the round can affect your pheemy in nonobvious ways and you can chat with other theatergoers about the state of your pheemies. Or feed it berries.
 
-## Roundstart
+# Readying Up
 
 When all theatergoers entered the lobby from the previous play, the map and gamemode for the next performance has already been selected. Some time before the performance begins, you can adjust which roles (determined from the map and gamemode) you'd be okay with playing by stepping onto the stage and selecting them in a UI (sometimes you do just need a user interface).
 
 This works as a sort of "approval voting" system, and you can see which roles other theatergoers are selecting and adjust your preferences accordingly. There is not necessarily a guarantee you will get the role you desire if you're too picky.
 
-### Readying Up
+## The Stage
 
 Theatergoers can opt to join the performance by entering the theater and simply standing on the stage.
 Others who simply wish to observe can melt into the theater's lush seating, and those who enter the theater during a showing can skulk onto the stage and try their best to fit into the existing performance. However, latejoiners must wait at least 10-15 minutes after the play starts before trying to make their entrance.
 
-### Starting the Play
+## Starting the Play
 
-Once the play begins, the curtains are drawn and all ready are taken into the other world. Roles are randomly selected based on the approval-selection mentioned previously, each theatergoer receives a random Mask, and they are expected to fully act in character, and to not mention the theater from now on. Those who fail to uphold kayfabe may find themselves ousted by the other actors.
+Once the play begins, the curtains are drawn and all ready are taken into the other world. Roles are selected based on the theatergoer's preferences (see [here](design/roundflow/roundstart-arrivals.md) for more), each theatergoer receives a random Mask, and they are expected to fully act in character, including not mentioning the theater from now on. Those who fail to uphold kayfabe may find themselves ousted by the other actors.
