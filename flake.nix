@@ -11,7 +11,7 @@
       let
         pkgs = nixpkgs.legacyPackages.${system};
       in
-      rec {
+      {
         devShells.default = pkgs.mkShellNoCC {
           packages = with pkgs; [
             mdbook
