@@ -9,8 +9,19 @@ multilingual            = false
 src                     = "src"
 title                   = "Ephemeral Space Development Wiki"
 
+[preprocessor.open-on-gh]
+command = "mdbook-open-on-gh"
+renderer = ["html"]
+
+[preprocessor.admonish]
+command = "mdbook-admonish"
+assets_version = "3.1.0" # do not edit: managed by `mdbook-admonish install`
+
+[preprocessor.pagetoc]
+
 [output.html]
-additional-css          = [ "section-lines.css" , "version-commit.css" ]
+additional-css          = [ "theme/section-lines.css" , "theme/version-commit.css" , "theme/mdbook-admonish.css" , "theme/pagetoc.css" ]
+additional-js           = [ "theme/pagetoc.js" ]
 curly-quotes            = false
 git-repository-url      = "https://github.com/EphemeralSpace/ephemeral-space"
 no-section-label        = true
@@ -18,3 +29,7 @@ default-theme           = "coal"
 preferred-dark-theme    = "coal"
 title = "Ephemeral Space Development Wiki"
 description = "Tutorial & reference for all Space Wizards Federation projects, including the Robust Toolbox engine and its flagship open source game, Space Station 14."
+
+# open-on-gh settings
+git-branch = "master"
+open-on-text = "[Edit this page on GitHub]"
