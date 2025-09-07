@@ -19,7 +19,7 @@ assets_version = "3.1.0" # do not edit: managed by `mdbook-admonish install`
 before = ["admonish"] # templates can include these so we run this first
 
 [output.html]
-additional-css          = [ "theme/ephemeral-space.css" , "theme/section-lines.css" , "theme/version-commit.css" , "theme/mdbook-admonish.css" , "theme/pagetoc.css" ]
+additional-css          = [ "theme/ephemeral-space.css" , "theme/section-lines.css" , "theme/mdbook-admonish.css" , "theme/pagetoc.css" ]
 additional-js           = [ "theme/pagetoc.js" ]
 curly-quotes            = false
 git-repository-url      = "https://github.com/EphemeralSpace/ephemeral-space"
@@ -29,4 +29,12 @@ preferred-dark-theme    = "coal"
 title = "Ephemeral Space Development Wiki"
 description = "Reference & design documentation for the SS14 fork Ephemeral Space."
 
+[output.html.print]
+enable = false
+
+[output.html.playground]
+runnable = false
+
 [output.linkcheck]
+traverse-parent-directories = false
+warning-policy = "ignore" # false-positives like hell with absolute links & latex, so.. cant do
