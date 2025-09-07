@@ -17,7 +17,6 @@
             mdbook
             mdbook-pagetoc
             mdbook-admonish
-            mdbook-open-on-gh
           ];
         };
       }
