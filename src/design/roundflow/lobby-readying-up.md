@@ -5,7 +5,7 @@
 The lobby, instead of just being a UI, is actually a map players can walk around in. 
 All features that were UI buttons/menus previously (readying up, observing, the roundstart timer, etc) are instead diegetic elements contained within the lobby map itself.
 
-<span class="es-partially-implemented">Players spawn into the lobby as soon as they connect to the server and are shown a guidebook entry explaining what's happening, since it will ideally feel very strange compared to the regular SS14 experience.</span>
+Players spawn into the lobby as soon as they connect to the server and are shown a guidebook entry explaining what's happening, since it will ideally feel very strange compared to the regular SS14 experience.
 
 ## The Theater
 
@@ -16,23 +16,23 @@ Theatergoers can chat amongst themselves about anything they like.
 The players within the lobby are "theatergoers", who are visiting the theater with the goal of starring in one of the plays. The theatergoers are not human, and the theater as a map is in a sort of "void" of indeterminate quality. 
 The level of in-character "reality" that the theater and its plays are operating on is left up to interpretation.
 
-The theater itself is an unnerving object. Mixed perspective, strange lighting, gaps in space and hallways that lead nowhere, a topology that doesn't quite seem to be possible, rooms with inscrutable function and design that seem to change every time you visit, as well as food items that seem more tangible and real than anything else you've seen. A lovely place to spend eternity.
+<span class="es-partially-implemented">The theater itself is an unnerving object. Mixed perspective, strange lighting, gaps in space and hallways that lead nowhere, a topology that doesn't quite seem to be possible, rooms with inscrutable function and design that seem to change every time you visit, as well as food items that seem more tangible and real than anything else you've seen. A lovely place to spend eternity.</span>
 
-Within the lobby, a piece of 'Lobby Art' designed for the play you're to perform is displayed prominently within the foyer. There is also diegetic 'Lobby Music' of sorts coming from a gramophone in the foyer.
+<span class="es-unimplemented">Within the lobby, a piece of 'Lobby Art' designed for the play you're to perform is displayed prominently within the foyer. There is also diegetic 'Lobby Music' of sorts coming from a gramophone in the foyer.</span>
 
-### NPCs
+### NPCs {.es-unimplemented}
 
 As opposed to the play itself, made up entirely of performers, the theater has many individuals who are simply not sentient and exist only to entertain and perform tasks for the theatergoers, such as opening menus, directing them to areas of the theater, just filling space, or generally spouting cryptic nonsense.
 
-### Accessorizing
+### Accessorizing {.es-unimplemented}
 
 The theatergoer sprite is a strange little sort of guy of undefined gender in a tuxedo and a square head. Players can interact with an NPC in the lobby to customize their lobby character, either by changing the sigil displayed on their face, adding small accessories or markings, or changing clothing.
 
-### Activities
+### Activities {.es-unimplemented}
 
 Okay breaking character for a second. Imagine like a roblox lobby or minecraft hypixel lobby. you get what I mean right. Theres just random shit to do you can wander the backrooms or do weird inscrutable puzzles or engage in..
 
-**Pheemy Pharmer**
+#### Pheemy Pharmer {.es-unimplemented}
 
 The game where YOU can take care of your Pheemy (a weird round kind of guy) and try to create the rarest pheemy you can while keeping it healthy or killing it allways in all sorts of damaging ways and punching it to death and murdering it. Actions taken in the round can affect your pheemy in nonobvious ways and you can chat with other theatergoers about the state of your pheemies. Or feed it berries.
 
