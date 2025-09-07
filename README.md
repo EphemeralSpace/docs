@@ -4,6 +4,10 @@ This is the mdbook-based developer documentation for the Ephemeral Space project
 
 The site is currently hosted at https://ephemeralspace.github.io/docs/.
 
+## Developing
+
+See page at https://ephemeralspace.github.io/docs/meta/guide-to-editing-docs.html for info.
+
 ## License
 
 The Ephemeral Space Development Wiki is released under the Mozilla Public License v2.0.

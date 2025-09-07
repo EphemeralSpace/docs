@@ -33,12 +33,12 @@ If you want to locally build the docs, the necessary dependencies are Rust and s
 
 From cargo, install:
 - `mdbook`
+- `mdbook-pagetoc`
 - `mdbook-admonish`
-- `mdbook-embedify`
-- `mdbook-emojicodes`
 - `mdbook-linkcheck`
-- `mdbook-mermaid`
 - `mdbook-template`
+
+Alternatively, this repo supports nix flakes. If you have nix installed, you can run `nix develop github:EphemeralSpace/docs` to enter a dev shell with all necessary binaries, or just run `nix develop` in the main directory if you have it cloned.
 
 Run `mdbook serve` to build and locally host the documentation from the `book` directory at `localhost:3000`.
 
@@ -46,9 +46,9 @@ Run `mdbook serve` to build and locally host the documentation from the `book` d
 
 If you've made a PR, the easiest way to test your changes, since they're just markdown, is to view them in GitHub's own markdown viewer in the `Files changed` tab. You can also use a local markdown previewer extension for something like [VSCode](https://marketplace.visualstudio.com/items?itemName=shd101wyy.markdown-preview-enhanced).
 
-If you want a slightly more authentic experience, every PR will have the `Test mdBook Build & Upload Artifact` action run, and you can download the built site like so:
+If you want a slightly more authentic experience, every PR will have the `Test mdBook Build & Upload Artifact` action run, and you can download the built site like so (it wont be expired if its recent I just didn't want to bother running another action):
 
-![](../assets/images/meta-artifact-download.png)
+![](../assets/meta/editing-docs-artifact-download.png)
 
 Then, just unzip it and open `index.html`. Our custom CSS and stuff won't work super well but it'll look good enough.
 

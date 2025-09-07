@@ -1,0 +1,11 @@
+.es-unimplemented,
+.es-unimplemented a {
+    color: oklch(40% 60% 40) !important;
+    text-decoration: underline wavy;
+}
+
+.es-partially-implemented,
+.es-partially-implemented a {
+    color: oklch(60% 80% 100) !important;
+    text-decoration: underline dotted;
+}

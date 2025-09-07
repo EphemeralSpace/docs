@@ -3,3 +3,4 @@
 /book/
 /theme/*.hbs
 /debug.txt
+.direnv
