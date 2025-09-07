@@ -1,9 +1,11 @@
 # Lobby
 
+{{#template ../../templates/partially-implemented.md issue=https://github.com/EphemeralSpace/ephemeral-space/issues/69}}
+
 The lobby, instead of just being a UI, is actually a map players can walk around in. 
 All features that were UI buttons/menus previously (readying up, observing, the roundstart timer, etc) are instead diegetic elements contained within the lobby map itself.
 
-Players spawn into the lobby as soon as they connect to the server and are shown a guidebook entry explaining what's happening, since it will ideally feel very strange compared to the regular SS14 experience.
+<span class="es-partially-implemented">Players spawn into the lobby as soon as they connect to the server and are shown a guidebook entry explaining what's happening, since it will ideally feel very strange compared to the regular SS14 experience.</span>
 
 ## The Theater
 
@@ -47,4 +49,4 @@ Others who simply wish to observe can melt into the theater's lush seating, and 
 
 ## Starting the Play
 
-Once the play begins, the curtains are drawn and all ready are taken into the other world. Roles are selected based on the theatergoer's preferences (see [here](design/roundflow/roundstart-arrivals.md) for more), each theatergoer receives a random Mask, and they are expected to fully act in character, including not mentioning the theater from now on. Those who fail to uphold kayfabe may find themselves ousted by the other actors.
+Once the play begins, the curtains are drawn and all ready are taken into the other world. Roles are selected based on the theatergoer's preferences (see [here](./roundstart-arrivals-latejoining.md) for more), each theatergoer receives a random Mask, and they are expected to fully act in character, including not mentioning the theater from now on. Those who fail to uphold kayfabe may find themselves ousted by the other actors.

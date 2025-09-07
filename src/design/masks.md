@@ -1,5 +1,7 @@
 # Masks
 
+{{#template ../templates/partially-implemented.md}}
+
 Masks are roles that function similarly to antagonists in a traditional SS14 experience.
 Their actual design is most similar to the roles in hidden-role games like Town of Salem, Mafia, or Werewolf.
 
@@ -25,7 +27,7 @@ While the end result of an objective may be fixed (killing a certain target), th
 
 Masks are organized into two levels: **genres** and **troupes**.
 
-### Genres
+### Genres { .es-unimplemented }
 
 A **genre** is a high-level category used for influencing which masks are given to players.
 Every round, a random genre is selected, which weights certain masks higher than others, making them more likely to appear together.
@@ -35,8 +37,7 @@ Masks within a genre do not necessarily need to directly involve each other, but
 For example, an assassin's mask would likely be in the same genre as a bodyguard mask.
 The two are not strictly reliant on each other (a bodyguard can function without an assassin, and vice versa), but the presence of both simultaneously creates an interesting situation.
 
-
-### Troupes
+### Troupes { .es-unimplemented }
 
 **Troupes** are the micro-level organization of masks.
 Not every mask must belong to a troupe, but it is an additional level that can be used to group masks together.

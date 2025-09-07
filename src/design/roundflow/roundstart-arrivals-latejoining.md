@@ -15,7 +15,7 @@ Wildcard roles are never considered part of the crew faction at roundstart, are 
 
 *Notes: It probably makes sense to select some roles first, and only shunt players off into the wildcard pool if they only selected roles that are already fully saturated, or once an adequate number of each role has been selected?*
 
-Wildcards will often be humanoids with the same capacity as the station crew, in which case they may opt into having [masks](design/masks.md]). Specific wildcard roles can decide whether they will roll masks, and what subset/weighting of masks they should use. Wildcards may also be nonhumanoid, in which case they should not roll masks.
+Wildcards will often be humanoids with the same capacity as the station crew, in which case they may opt into having [masks](../masks.md). Specific wildcard roles can decide whether they will roll masks, and what subset/weighting of masks they should use. Wildcards may also be nonhumanoid, in which case they should not roll masks.
 
 When the round starts and the players who will be put into the wildcard pool are selected, they are given a selection of wildcard roles and allowed to vote on which to play.
 
