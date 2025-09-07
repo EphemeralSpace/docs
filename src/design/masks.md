@@ -56,7 +56,7 @@ All players receive some mask: not just a small subsection.
 
 The mask that you receive is fully random, dependent only on the genres which have been selected at the start of the round.
 
-### Mask Tokens
+### Mask Tokens {.es-unimplemented }
 When you successfully complete your mask's objectives, you receive a **mask token** that's associated with your account.
 Between rounds, the a few round's worth of tokens can be redeemed to pre-select your mask before the round begins.
 

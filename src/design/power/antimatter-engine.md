@@ -1,5 +1,7 @@
 # Antimatter Engine
 
+{{#template ../../templates/unimplemented.md }}
+
 This version AME is a primary station engine designed to be an upgraded replacement to the traditional SS1X AME.
 While both engines are focused on having an easy-to-setup fuel-based engine, the ES-AME tries to integrate it less of a "magic box."
 
