@@ -18,6 +18,7 @@ Design
 - [Equipment]()
   - [Clothing](design/equipment/clothing.md)
 - [Masks](design/masks.md)
+  - [Traitors](design/masks/traitors.md)
 - [Power]()
   - [AME](design/power/antimatter-engine.md)
 - [Terminology](design/terminology.md)
