@@ -17,7 +17,7 @@ Design
 ---
 - [Equipment]()
   - [Clothing](design/equipment/clothing.md)
-- [Masks](design/masks.md)
+- [Masks](design/masks/masks.md)
   - [Traitors](design/masks/traitors.md)
 - [Power]()
   - [AME](design/power/antimatter-engine.md)

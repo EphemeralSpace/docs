@@ -3,10 +3,10 @@
 {{#template ../../templates/unimplemented.md }}
 
 Traitors are a troupe of masks focused on utilizing subterfuge to further their objectives.
-Though they lack any specialized way to communicate with each other, they can identify each other by seeing that the other player has a corresponding role icon above their head.
+Although every traitor mask receives a unique set of equipment, their primary strength is their ability to identify each other and work together to accomplish their objectives.
 
 As a threat, they are meant to be an omnipresent source of paranoia.
-Truly determining if someone is a traitor is extremely difficult, as most of their equipment has heavy overlap with generic items that can be acquired on-station (even if it is unlikely).
+Truly determining if someone is a traitor is extremely difficult, as most of their equipment has heavy overlap with generic items that can be acquired on-station.
 Ultimately, operatives are meant to push the limits deceit and taking advantage of your environment.
 
 ## Equipment
@@ -14,6 +14,9 @@ To assist in completing their objectives, all traitors are told of the location 
 For example, one mask might get a gun and some ammo, while one another might get a chameleon kit, voice mask, and agent ID.
 
 The items in these caches are largely intended to be static in function, though there may be minor variance (i.e you get a pistol instead of a revolver.)
+
+While the more powerful rare items in each cache should be immediately identifiable as traitor gear, the more common general equipment should have greater overlap.
+This is so that, while finding a core piece of someone's kit is a tell, simply seeing someone fire a gun or blow up a structure doesn't immediately identify them.
 
 ## Objectives
 All players in the traitor troupe, regardless of mask type, share a pool objectives, reminiscent of traditional space station traitor objectives.
