@@ -17,7 +17,7 @@ Design
 ---
 - [Equipment]()
   - [Clothing](design/equipment/clothing.md)
-- [Masks](design/masks.md)
+- [Masks](design/masks/masks.md)
   - [Traitors](design/masks/traitors.md)
 - [Power]()
   - [AME](design/power/antimatter-engine.md)
@@ -27,3 +27,9 @@ Design
   - [Roundstart, Arrivals, & Latejoining](design/roundflow/roundstart-arrivals-latejoining.md)
   - [Ghost Roles & The Ghost Bar](design/roundflow/ghost-roles-ghost-bar.md)
   - [Evac & Roundend](design/roundflow/evac-roundend.md)
+
+Templates
+====
+---
+- [Design]()
+  - [Mask Template](templates/docs/mask-template.md)
