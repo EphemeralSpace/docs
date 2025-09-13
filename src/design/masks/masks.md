@@ -21,13 +21,12 @@ As a general summary, masks define a _goal_ and give the player some tools to wo
 Masks are a core component of the social deduction and intrigue gameplay at the core of Ephemeral Space.
 While the average mechinations of a given job or troupe are easy to identify, masks give the game an additional layer of ambiguity.
 
-Thus, masks should stay away from designs or actions which trivialize this aspect of the system:
-- Masks should not contain elements which make their identification trivial to perform, unless the design of the mask is such that their identification would directly inhibit their ability to complete their objectives.
-- Masks should limit elements which signal their presence in a round without extensive engagement.
-While any late-stage troupe objectives are inevitably going to be noticed, masks should not leave "tells" around the station (such as the effects of an EMAG, for example) which do not have some element of plausible deniability.
-- Masks should encourage gameplay which either seeks to prompt engagement with others or makes the mask itself the target of such things.
-Masks are primarily tools for conflict.
-A mask that does not meaningfully spur conflict is a complete failure.
+As such, masks should limit elements which signal their presence or trivially reveal their identity without first requiring extensive engagement.
+While the effects of accomplishing their objectives are obviously going to leave signs of their presence, masks should not leave "tells" around the station.
+As a rule of thumb, you should not be able to identify someone's mask without at least coming into contact with them.
+
+While a mask does not need to directly create conflict by engaging with other masks or jobs on the station, they should still contribute to the intrigue dynamic through their passive existence.
+A mask which seeks to carry contraband while not explicitly doing harm creates opportunity space for someone else to obscure their intentions.
 
 ### Overlap
 
