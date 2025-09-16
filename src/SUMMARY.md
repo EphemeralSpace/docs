@@ -23,6 +23,7 @@ Design
     - [Assassin](design/masks/traitor/assassin.md)
     - [Infiltrator](design/masks/traitor/infiltrator.md)
     - [Recon](design/masks/traitor/recon.md)
+    - [Spy](design/masks/traitor/spy.md)
 - [Power]()
   - [AME](design/power/antimatter-engine.md)
 - [Terminology](design/terminology.md)
