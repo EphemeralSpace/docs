@@ -22,7 +22,7 @@ Design
     - [Marauder](design/masks/traitor/marauder.md)
     - [Assassin](design/masks/traitor/assassin.md)
     - [Infiltrator](design/masks/traitor/infiltrator.md)
-    - [Recon](design/masks/traitor/infiltrator.md)
+    - [Recon](design/masks/traitor/recon.md)
 - [Power]()
   - [AME](design/power/antimatter-engine.md)
 - [Terminology](design/terminology.md)
