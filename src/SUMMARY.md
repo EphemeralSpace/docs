@@ -21,7 +21,7 @@ Design
   - [Traitors](design/masks/traitors.md)
     - [Marauder](design/masks/traitor/marauder.md)
     - [Assassin](design/masks/traitor/assassin.md)
-    - [Infiltraitor](design/masks/traitor/infiltraitor.md)
+    - [Infiltrator](design/masks/traitor/infiltrator.md)
 - [Power]()
   - [AME](design/power/antimatter-engine.md)
 - [Terminology](design/terminology.md)
