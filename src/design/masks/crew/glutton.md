@@ -1,16 +1,16 @@
-# Mask Name
+# Glutton
 
 {{#template ../../../templates/unimplemented.md }}
 
-> **Name:**
+> **Name:** Glutton
 >
-> **Troupe:** (Add link)
+> **Troupe:** [Crew](../crew.md)
 >
 > **Description:** (1-2 sentence description of what this mask thematically represents)
 >
 > **Objectives:** (List only mask-specific objectives)
 >
-> *(A sentence of flavor text of character dialogue someone with this mask might say in-character)*
+> *All things in this world are either Chef or Glutton. You are more akin to the apollonian Chef. **I** am clearly the dionysian Glutton.*
 
 ## Concept
 Outline the holistic concept of this mask.
