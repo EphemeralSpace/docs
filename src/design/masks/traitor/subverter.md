@@ -16,7 +16,7 @@ The Subverter's goal is to murder people with what few tools they have, followed
 ## Abilities
 The Subverter only starts with a knife, and two brainwashing microchips.
 
-The brainwashing microchip is an item that only works on dead players. When used on a dead player, it will adrenaline-revive them at low health (similar to other masks like the [parasite](design/masks/crew/parasite.md) or the [daredevil](design/masks/crew/daredevil.md)) and introduce them in to the traitor troupe as a "recruit," which is a mask that has same objectives as all other traitors; it only exists as a way to communicate to the player that they weren't a round-start traitor.
+The brainwashing microchip is an item that only works on dead players. When used on a dead player, it will adrenaline-revive them at low health (similar to other masks like the [parasite]((https://github.com/EphemeralSpace/docs/blob/master/src/design/masks/crew/parasite.md) or the [daredevil]((https://github.com/EphemeralSpace/docs/blob/master/src/design/masks/crew/daredevil.md)) and introduce them in to the traitor troupe as a "recruit," which is a mask that has same objectives as all other traitors; it only exists as a way to communicate to the player that they weren't a round-start traitor.
 
 ## Gameplay
 The Subverter has a lot of interesting, granular strategy that can be employed on their side. Since your microchips are limited, you might want to save your chip for an important target - or maybe you just give it to the first person you see, out of desperation, since you're losing and need to enact a desperate play.
