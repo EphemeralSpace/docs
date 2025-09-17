@@ -14,7 +14,7 @@
 
 ## Concept
 
-The general function of the Cannibal is to be a "mask-copier". By eating all of someones organs, the Cannibal transforms their mask into the targets, and has to deal with everything that entails. If a Cannibal succeeds at their objectives, the original victim will count as succeeding as well.
+The general function of the Cannibal is to be a "mask-copier". By eating all of someones organs, the Cannibal transforms their own mask into the targets, and has to deal with everything that entails. If a Cannibal succeeds at their new objectives, the original victim will count as succeeding as well.
 
 ## Abilities
 

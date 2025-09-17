@@ -14,6 +14,8 @@
 
 ```admonish warning
 Not entirely positive how the vengeful phantom's speech should be restricted. Maybe like how the ghost bar messaging will work when we get that (do you guys even remember what I mean)
+
+Maybe the phantom should have some bigger win on their murderer's death, like a limited revive or more power? Not sure
 ```
 
 ## Concept

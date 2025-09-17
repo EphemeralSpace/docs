@@ -10,19 +10,21 @@
 >
 > **Objectives:** Kill or maim someone unrelated in the explosion that occurs once your target enters critical condition.
 >
-> *I'm the bomber! Okay, wait, no, I'm--okay, that was just a reference, dude, it's literally a reference! You guys haven't seen Hunter X Hunter? What? Oh, you're only in the Heaven's Arena arc. The bomber is--he's like, he's from the Greed Island arc and he puts bombs on people and stuff. Anyway I lied and my bombs are super real and you should probably be really freaking scared right now.*
+> *I'm the bomber! Okay, wait, no, I'm--okay, that was just a reference, dude, it's literally a reference! You guys haven't seen Hunter X Hunter? What? Oh, you're only at the Heaven's Arena arc. The bomber is--he's like, he's from the Greed Island arc and he puts bombs on people and stuff. Anyway I lied and my bombs are super real and you should probably be really freaking scared right now.*
 
 ## Concept
 
-The Bomber is a deadly mask with similar mechanics to the [Tracker](./tracker.md). By targeting someone with an action and then speaking one of their random codewords in a sentence while in the target's proximity, a bomb will silently be attached to the target. This bomb will detonate once the target reaches critical condition, and the Bomber's goal is to kill or maim someone else using the explosion.
+The Bomber is a deadly mask with similar mechanics to the [Tracker](./tracker.md).
 
 ## Abilities
 
-See above. The bomber receives a set list of codewords (similar to upstream traitor codewords) that can be used to place a bomb. Two bombs can be placed at a time, and if both are placed one must be disarmed or go off in order to place a new bomb. Bombs can only be disarmed by the Bomber, by speaking the codeword again in proximity of the target.
+The Bomber receives a random list of codewords (similar to upstream traitor codewords) that can be used to place a bomb. By targeting someone with an action and then speaking one of their codewords in a sentence while in the target's proximity, a bomb will silently be attached to the target. This bomb will detonate once the target reaches critical condition, and the Bomber's goal is to kill or maim someone else using the explosion.
+
+Two bombs can be placed at a time, and if both are placed one must be disarmed or go off in order to place a new bomb. Bombs can only be disarmed by the Bomber, by speaking the codeword again in proximity of the target.
 
 ## Gameplay
 
-Forensics can be used to detect if a bomb was placed on someone and several candidates for who could have done it, but this of course requires suspicion that one was placed to begin with, or the body of someone that already succumbed to the bomber. Targets killed by the bomb's explosion (since it triggers on crit) count as being killed by the Bomber for the purposes of on-death masks. If the Bomber dies, their bombs are disarmed and the targets are notified that something occurred.
+Forensics can be used to detect if a bomb was placed on someone and several candidates for who could have done it, but this of course requires suspicion that one was placed to begin with, or the body of someone that already succumbed to the Bomber. Targets killed by the bomb's explosion (since it triggers on crit) count as being killed by the Bomber for the purposes of on-death masks. If the Bomber dies, their bombs are disarmed and drop onto the ground near the targets.
 
 Detecting the Bomber's presence requires an already-existing suspicion that one is present (to check forensics). It's not immediately clear, when someone goes into crit, whether the explosion was the result of the Bomber or something unrelated, but the intent is that it should be possible to infer that it was a Bomber, and for people to take actions accordingly. 
 
