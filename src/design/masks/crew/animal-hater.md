@@ -7,7 +7,7 @@
 > **Troupe:** [Crew](../crew.md)
 >
 > **Description:** Take out your anger by killing small creatures around the station. No one will notice, right?
-
+>
 > **Objectives:** Kill X total small creatures, of Y different types. Kill 1 specific random (from a list) creature.
 >
 > *I was voted 'Most Likely to be a Serial Killer If They Grow Up' when I was in space highschool. Don't you think thats fucked up to say about someone, Ian?*
@@ -18,7 +18,7 @@ The theming here might be a little too much for some people. I'm not really sure
 
 ## Concept
 
-The Animal Hater must seek out and Eliminate small creatures on the station, including pets.
+The Animal Hater must seek out and eliminate small creatures on the station, including pets.
 
 ## Abilities
 

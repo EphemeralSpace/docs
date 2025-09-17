@@ -20,7 +20,7 @@ Maybe the phantom should have some bigger win on their murderer's death, like a 
 
 ## Concept
 
-The Phantom is a jester-type mask. They want to be killed, whereupon they will be revived as a phantom that must annoy the hell out of their murderer in indirect ways, in hopes they will eventually die as a result.
+The Phantom is a jester-type mask. They want to be killed, whereupon they will be revived as a vengeful phantom that must annoy the hell out of their murderer in indirect ways, in hopes they will eventually die as a result.
 
 ## Abilities
 
@@ -28,10 +28,10 @@ The base Phantom has no abilities. However, the vengeful phantom spawned on deat
 
 ## Gameplay
 
-As a jester-type, the Phantom disincentivizes random murder without cause. It also provides ambiguity for other jester-type masks like the [Parasite](./parasite.md).
+As a jester-type mask, the Phantom disincentivizes random murder without cause. It also provides ambiguity for other jester-type masks like the [Parasite](./parasite.md).
 
 The vengeful phantom's gameplay is meant to be mostly indirect--it cannot harm anyone, or even really cause anything that directly harms people, and can only interact with objects in a very limited and basic way. It can talk, but this is restricted, and it has no real incentive to give people accurate information anyhow. Though it cannot die, being dematerialized after being bapped is an inconvenience that any vengeful phantom would like to avoid if it can.
 
-The Phantom is incentivized to attempt to relay information to other crewmembers that results in their murderer's death in some way, be it lies or truth. This process is generally quite funny to all involved. They may also prefer to try and kill their murderer more directly, perhaps by opening dangerous doors around them or giving their position away to an enemy. Of course, they may also kill their murderer through them being annoyed enough by the phantom's antics to leave this mortal plane entirely.
+The Phantom is incentivized to attempt to relay information to other crewmembers that results in their murderer's death in some way, be it lies or truth. This process is generally quite funny to all involved. They may also prefer to try and kill their murderer more directly, perhaps by opening dangerous doors around them or giving their position away to an enemy. Of course, they may also kill their murderer through them being annoyed enough by the Phantom's antics to leave this mortal plane entirely.
 
 The vengeful phantom is equivalent to a Ghost ghost-role (if we get those, emo knows what I mean) in scope and abilities, but it still has a mask and the objectives of a Phantom.

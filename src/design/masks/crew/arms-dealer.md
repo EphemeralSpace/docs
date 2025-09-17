@@ -6,11 +6,11 @@
 >
 > **Troupe:** [Crew](../crew.md)
 >
-> **Description:** Give out guns to the needy--just make sure they use it LATER, not HERE, on the STATION.
+> **Description:** Give out guns to the needy--just make sure they use it LATER, not HERE on the STATION.
 >
 > **Objectives:** Give out guns to X total crewmembers, and ensure that fewer than Y murders occur as a result.
 >
-> *This one here's a fine little iron. What'd you say you needed this for--varmint hunting? Come on now. Be responsible.*
+> *This one here's a fine little peashooter. What'd you say you needed this for--varmint hunting? Come on now. Just be responsible.*
 
 ## Concept
 
@@ -18,7 +18,7 @@ The Arms Dealer provides an avenue for crew to obtain weapons that are hard to o
 
 ## Abilities
 
-The Arms Dealer can materialize a random specific type of small firearm from a hidden cache, once in some medium-length timeframe. If someone stashes an Arms Dealer's gun in their backpack, that gun counts as being "given out". Any kills of crewmembers using an Arms Dealer-spawned gun count towards their fail condition, even to those who guns were not explicitly given to. An Arms Dealers' guns can not be directly identified as being from an Arms Dealer, or some other source.
+The Arms Dealer can materialize a random specific type of small firearm from a hidden cache, once per some medium-length timeframe. If someone stashes an Arms Dealer's gun in their backpack, that gun counts as being "given out". Any kills of crewmembers using an Arms Dealer-spawned gun count towards their fail condition, even to those who guns were not explicitly given to. An Arms Dealers' guns cannot be directly identified as being from an Arms Dealer, or some other source.
 
 ## Gameplay
 

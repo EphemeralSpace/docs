@@ -18,7 +18,7 @@ The general function of the Cannibal is to be a "mask-copier". By eating all of 
 
 ## Abilities
 
-The Cannibal can naturally butcher creatures for their organs, and if they eat all of one crewmember's organs, will take their mask as their own, including objective completion. The original victim will count as succeeding if the cannibal succeeds.
+The Cannibal can naturally butcher creatures for their organs, and if they eat all of one crewmember's organs, will take their mask as their own, including objective completion. The original victim will count as succeeding if the Cannibal succeeds.
 
 ## Gameplay
 

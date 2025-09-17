@@ -14,11 +14,11 @@
 
 ## Concept
 
-The Amnesiac has no objectives, abilities, items, or background.. at first. After 10-20 minutes, the Amnesiac suddenly remembers their true self, generating a backstory, relationships, and **a new mask**, random from any of the troupes present in the round. They inherit all objectives and abilities of this new mask and must now be careful to not make their new knowledge too obvious while still completing their true objectives.
+The Amnesiac has no objectives, abilities, items, or background.. at first. After 10-20 minutes, the Amnesiac suddenly remembers their true self, generating a backstory, relationships, and **a new mask**, random from any of the troupes present in the round. They inherit all objectives and abilities of this new mask and must now be careful to not make their new knowledge too obvious while completing their true objectives.
 
 ## Abilities
 
-The Amnesiac inherits all abilities from their new mask once the time comes. If their new mask has items, the Amnesiac will receive a prompt informing them that they now remember the location of a cache of supplies placed sometime before they lost their memory, or by an ally. This uses the same system as [traitor](../traitors.md) caches. This cache only spawns once the Amnesiac remembers, and contains the items they would normally have received at roundstart.
+The Amnesiac inherits all abilities from their new mask once the time comes. If their new mask has items, the Amnesiac will receive a prompt informing them that they now remember the location of a cache of supplies placed sometime before they lost their memory, perhaps by an ally. This uses the same system as [Traitor](../traitors.md) caches. This cache only spawns once the Amnesiac remembers, and contains the items they would normally have received at roundstart.
 
 ## Gameplay
 

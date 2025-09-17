@@ -22,7 +22,7 @@ The Avenger is always notified when their target dies, and where, even if the de
 
 ## Gameplay
 
-As a guardian-type mask, the avenger provides some incentive for crew to not randomly murder people, in case it might invoke the Avenger's wrath, among other reasons.
+As a guardian-type mask, the Avenger provides some incentive for crew to not randomly murder people, in case it might invoke the Avenger's wrath, among other reasons.
 
 Since certain masks may actually desire to be murdered, if the Avenger targets them some funny conflict may arise. Consider a [Parasite](./parasite.md) who is being protected by an Avenger. If the Parasite is murdered and swaps places with their murderer, they may now found themselves being targeted by their own protector.
 

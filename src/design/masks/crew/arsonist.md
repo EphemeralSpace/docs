@@ -27,6 +27,6 @@ Receives a matchbox and some fuel in a soda can as part of their items.
 
 ## Gameplay
 
-Lends ambiguity to situations where fires occur. Normally, they might be the result of miscellaneous sabotage, power incidents, random machinery mishaps, or just random events/wildcards--but what if there's actually an arsonist aboard? Also directly provides reactive gameplay for engineers/atmospheric technicians.
+Lends ambiguity to situations where fires occur. Normally, they might be the result of miscellaneous sabotage, power incidents, random machinery mishaps, or just random events/wildcards--but what if there's actually an Arsonist aboard? Also directly provides reactive gameplay for engineers/atmospheric technicians.
 
-Their items are nothing special, and could be randomized heavily or omitted entirely to make identifying an arsonist directly more difficult.
+Their items are nothing special, and could be randomized heavily or omitted entirely to make identifying an Arsonist directly more difficult.

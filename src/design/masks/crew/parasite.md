@@ -4,7 +4,7 @@
 
 > **Name:** Parasite
 >
-> **Troupe:** [Parasite](./parasite.md)
+> **Troupe:** [Crew](./parasite.md)
 >
 > **Description:** Pawn your parasite onto and swap bodies with someone in the heat of battle by having them kill you.
 >
