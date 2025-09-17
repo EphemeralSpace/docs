@@ -1,4 +1,4 @@
-# (nfiltrator 
+# Infiltrator 
 
 {{#template ../../templates/unimplemented.md }}
 
@@ -9,6 +9,7 @@
 > **Description:** Decieve people with your chameleon kit. Break in to places.
 >
 > **Objectives:** The same ones every traitor gets
+
 ## Concept
 The infiltrator's kit is centered around abusing the identity system. The chameleon kit allows them to appear to take on the identity of anyone at notice, making them a master at deception & escaping the consequences of their actions. Furthering this, their doorjack gives them additional utility, allowing them to break in to areas quickly & get out, hopefully without needing to arouse any suspicsion aimed at their true identity. To make up for their powerful special items, they lack any real offensive capability.
 
