@@ -22,7 +22,7 @@ See above. The bomber receives a set list of codewords (similar to upstream trai
 
 ## Gameplay
 
-Forensics can be used to detect if a bomb was placed on someone and several candidates for who could have done it, but this of course requires suspicion that one was placed to begin with, or the body of someone that already succumbed to the bomber. Targets killed by the bomb's explosion (since it triggers on crit) count as being killed by the Bomber for the purposes of on-death masks. If the Bomber dies, their bombs are disarmed and the targets are notified that something occurred. The Bomber receives no penalty if the bomb fails to kill anyone else--they simply must get one eventually for their objective to pass. 
+Forensics can be used to detect if a bomb was placed on someone and several candidates for who could have done it, but this of course requires suspicion that one was placed to begin with, or the body of someone that already succumbed to the bomber. Targets killed by the bomb's explosion (since it triggers on crit) count as being killed by the Bomber for the purposes of on-death masks. If the Bomber dies, their bombs are disarmed and the targets are notified that something occurred.
 
 Detecting the Bomber's presence requires an already-existing suspicion that one is present (to check forensics). It's not immediately clear, when someone goes into crit, whether the explosion was the result of the Bomber or something unrelated, but the intent is that it should be possible to infer that it was a Bomber, and for people to take actions accordingly. 
 

@@ -10,7 +10,7 @@
 >
 > **Objectives:** Inherits objectives from new mask. See below.
 >
-> *Man... cryosleep fucked me up real bad. Who the hell am I, again?*
+> *Man... cryosleep fucked me up reeeeeal bad. Who the hell am I, again?*
 
 ## Concept
 
