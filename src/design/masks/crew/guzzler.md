@@ -8,13 +8,13 @@
 >
 > **Description:** Life is just an infinite series of new bevs to try. Drink the world.
 >
-> **Objectives:** Consume X amounts of reagent total, along with ensuring you try at least Y types of reagents. You must guzzle at least 1 specific random reagent.
+> **Objectives:** Consume X amounts of reagent total, along with ensuring you try at least Y types of reagents. You must guzzle at least 1 specific random reagent (from a list).
 >
 > *I'm the guzzler, baby! WOO! I'm the fucking guzzler!*
 
 ## Concept
 
-The Guzzler serves the interest of the Universal Beverage Sommelier Coalition (not really) and must drink all kinds of heavenly mana from all kinds of sources. The Guzzler may tail a janitor as they mop the floor, before swooping in to consume all the delicious water and whatever the hell else is in the puddle before it's wasted on evaporation. The Guzzler may bother the bartender endlessly for drinks, inviting some suspicion, before just deciding to break in and steal the entire boozevendor anyway. One thing is for certain: it's guzzlin' time.
+The Guzzler serves the interest of the Universal Beverage Sommelier Coalition (not really) and must drink all kinds of heavenly mana from all kinds of sources, functioning as a sort of drink variant of the [Glutton](./glutton.md). The Guzzler may tail a janitor as they mop the floor, before swooping in to consume all the delicious water and whatever the hell else is in the puddle before it's wasted on evaporation. The Guzzler may bother the bartender endlessly for drinks, inviting some suspicion, before just deciding to break in and steal the entire boozevendor anyway. One thing is for certain: it's guzzlin' time.
 
 ## Abilities
 
