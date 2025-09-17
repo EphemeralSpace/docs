@@ -12,6 +12,10 @@
 >
 > *I was voted 'Most Likely to be a Serial Killer If They Grow Up' when I was in space highschool. Don't you think thats fucked up to say about someone, Ian?*
 
+```admonish warning
+The theming here might be a little too much for some people. I'm not really sure how to make it more whimsical/less serious, but people do take animal murder a lot more seriously in games than other kinds of murder and might be way more uncomfortable with getting this compared to a Traitor mask. Not sure how best to solve that, since I think a mask that does something like this is good for ambiguity reasons.
+```
+
 ## Concept
 
 The Animal Hater must seek out and Eliminate small creatures on the station, including pets.
