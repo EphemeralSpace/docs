@@ -18,7 +18,7 @@ Parasite is a jester-type mind-swapper. If they're killed by someone else, the P
 
 ## Abilities
 
-Parasitism and adrenaline-revival as mentioned above
+Parasitism and adrenaline-revival as mentioned above.
 
 ## Gameplay
 
