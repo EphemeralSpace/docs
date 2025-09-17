@@ -28,4 +28,4 @@ Forensics can be used to detect if a tracker was placed on someone and several c
 
 As a guardian-type mask, Trackers provide a strong means of locating someone who has been hurt and ensuring that they get out of the situation safely, creating interesting interactions with many masks. However, placing a tracker isn't trivial. It's hard to tell someone ahead of time that you're doing it, as they may assume you're a [Bomber](./bomber.md), whose codeword-marking functions identically and is indistinguishable until critical condition is reached. Those who suspect others are using codewords can never be positive whether it's to harm them or help them.
 
-If a Tracker comes to someone's rescue, this could be viewed as suspicious, as they might have learned of the target's location through another means, like a Traitor or Cult item/ability.
+If a Tracker comes to someone's rescue, this could be viewed as suspicious, as they might have learned of the target's location through another means, like a [Traitor](../traitors.md) item.

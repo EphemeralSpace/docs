@@ -14,11 +14,11 @@
 
 ## Concept
 
-The Avenger is a guardian-type mask, but specifically for their target being murdered. If the target dies from environmental hazards, they still succeed. However, in the event that a murder occurs, they can seek out the perpetrator and enact revenge.
+The Avenger is a guardian-type mask, but specifically for their target being murdered. If the target dies from environmental hazards, the Avenger still succeeds. However, in the event that a murder of their target occurs, they must seek out the perpetrator and enact revenge.
 
 ## Abilities
 
-The Avenger is always notified when their target dies, and where, even if the death wasn't a murder. However, if the death was a murder, the Avenger receives an action that allows them to periodically detect how close the perpetrator is to them. If the perpetrator is killed by the Avenger, the Avenger is notified that they feel at peace. However, if the perpetrator dies by any other means, the Avenger can no longer succeed at their objectives. It must be a perfect vengeance.
+The Avenger is always notified if their target dies, and where, even if the death wasn't a murder. However, if the death was a murder, the Avenger receives an action that allows them to periodically detect how close the perpetrator is to them. If the perpetrator is killed by the Avenger, the Avenger is notified that they feel at peace. However, if the perpetrator dies by any other means, the Avenger can no longer succeed at their objectives. It must be a perfect vengeance.
 
 ## Gameplay
 

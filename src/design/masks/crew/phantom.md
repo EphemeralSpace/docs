@@ -26,6 +26,8 @@ The Phantom is a jester-type mask. They want to be killed, whereupon they will b
 
 The base Phantom has no abilities. However, the vengeful phantom spawned on death is incorporeal and can walk through walls, but can manifest itself for a small time in order to interact with objects in very very basic ways, as well as with the crew in general. Being hit will cause the phantom to dematerialize, but it cannot die. If the Phantom's murderer dies, the Phantom succeeds and may rest in peace (or continue existing as a funny ghost).
 
+If the Phantom dies with no murderer, they still spawn as a vengeful phantom, but can no longer succeed at their objectives.
+
 ## Gameplay
 
 As a jester-type mask, the Phantom disincentivizes random murder without cause. It also provides ambiguity for other jester-type masks like the [Parasite](./parasite.md).

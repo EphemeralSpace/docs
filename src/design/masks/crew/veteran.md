@@ -22,8 +22,8 @@ Starts with a small sidearm and a good amount of spare ammo.
 
 ## Gameplay
 
-The Veteran provides ambiguity for other masks with weapons or which seek to murder others, like the [Avenger](./avenger.md) or various [Traitor](../traitors.md) masks.
+The Veteran provides ambiguity for other masks with weapons or that seek to murder others, like the [Avenger](./avenger.md) or various [Traitor](../traitors.md) masks.
 
-Veterans are unlikely to be particularly lenient with usage of their weapon, as they have a solid bunch of ammo and no reason not to just fire indiscriminately on people they're suspicious of, beyond that they might get caught doing it. This makes them a key instigator of conflict, as well as a deterrent for evildoer troupes and an incentive to scope out what their target is capable of being jumping them.
+Veterans are unlikely to be particularly lenient with usage of their weapon, as they have a bunch of ammo and no reason not to just fire indiscriminately on people they're suspicious of, beyond that they might get caught doing it. This makes them a frequent instigator of conflict, as well as a deterrent for evildoer troupes and an incentive for would-be murderers to scope out what their target is capable of doing before jumping them.
 
 Ambiguously actually a Veteran. Could very well have just found the gun somewhere. Go nuts.

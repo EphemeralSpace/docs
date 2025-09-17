@@ -4,13 +4,17 @@
 
 > **Name:** Parasite
 >
-> **Troupe:** [Crew](./parasite.md)
+> **Troupe:** [Crew](../crew.md)
 >
 > **Description:** Pawn your parasite onto and swap bodies with someone in the heat of battle by having them kill you.
 >
 > **Objectives:** Have someone kill you, and swap bodies with them. Then, complete their objectives as if you were them.
 >
 > *YEAH, UH, THIS IS YOUR PARASITE SPEAKING. YOU SEE THAT ACTIVE NUKE SITUATION? OKAY YEAH I'M GONNA NEED YOU TO UH-YEAH I NEED YOU TO WALK OVER THERE AND GET SHOT. YEAH I'M TIRED OF DEALING WITH YOUR INDECISIVE ASS AND I WANT A MIND THAT CAN MAKE REAL SHIT HAPPEN. ALRIGHT JUST LETTING YOU KNOW. LOVE YA*
+
+```admonish warning
+This is kind of a confusing concept to read but I swear it makes sense. I will do a better job of explaining it later
+```
 
 ## Concept
 

@@ -30,4 +30,4 @@ Detecting the Bomber's presence requires an already-existing suspicion that one 
 
 The intrigue comes from determining who the Bomber could be by narrowing down options from forensics or using basic logic, whether what someone is saying could potentially be a hidden code phrase, and trying to figure out if you were inflicted with a bomb so you can avoid going into crit.
 
-Additionally, the Bomber provides ambiguity for the [Tracker](./tracker.md)'s gameplay, as their codeword-marking functions identically. Those who suspect others are using codewords can never be positive whether it's to harm them or help them.
+Additionally, the Bomber provides ambiguity with the [Tracker](./tracker.md)'s gameplay, as their codeword-marking functions identically. Those who suspect others are using codewords can never be positive whether it's to harm them or help them.

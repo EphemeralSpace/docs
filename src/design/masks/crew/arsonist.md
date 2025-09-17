@@ -19,7 +19,7 @@ This mask is technically dependent on tile fires existing to function properly.
 
 ## Concept
 
-The Arsonist lights fires around the station, and tries to leave the scene of the crime before anyone notices what occurs.
+The Arsonist lights fires around the station, and tries to leave the scene of the crime before anyone notices what occurred.
 
 ## Abilities
 

@@ -8,7 +8,7 @@
 >
 > **Description:** Engage in brash feats of self-endangerment. Try not to die in the process.
 >
-> **Objectives:** Take X damage of different types, or some amount of total damage. Be harmed by at least Y specific random (from a list) sources of damage.
+> **Objectives:** Take X damage of different types, and some amount of total damage. Be harmed by at least Y specific random (from a list) sources of damage.
 >
 > *Hey. You're an engineer right? So, uh, that antimatter stuff.. does it kill you -instantly-?*
 
@@ -26,6 +26,6 @@ One-time adrenaline if in critical condition like the [Parasite](./parasite.md).
 
 ## Gameplay
 
-The Daredevil comes into conflict with many jobs and masks as a result of their antics. Medical might be fine with it the first few times, but will quickly become less pleased with having to treat the increasingly exotic wounds that the Daredevil sustains. Because the Daredevil appears totally willing to enter very dangerous situations, they may appear like a jester-type mask, but they're actually not always cool with death. Even still, they'll be the first to volunteer to throw themselves at an armed nuke or a blob.
+The Daredevil comes into conflict with many jobs and masks as a result of their antics. Medical might be fine with it the first few times, but will quickly become less pleased with having to treat the increasingly exotic wounds that the Daredevil sustains. Because the Daredevil is often totally willing to throw themselves into very dangerous situations, they may appear like a jester-type mask, but they're actually not always cool with death. Even still, they'll be the first to volunteer to fight against an armed nuke or a blob.
 
 Overall, this mask mostly serves to push the Daredevil player's gameplay in a weirder, less cautious direction, which can lead to fun situations.
