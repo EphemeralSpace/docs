@@ -9,6 +9,8 @@
 > **Description:** (1-2 sentence description of what this mask thematically represents)
 >
 > **Objectives:** (List only mask-specific objectives)
+>
+> *(A sentence of flavor text of character dialogue someone with this mask might say in-character)*
 
 ## Concept
 Outline the holistic concept of this mask.
@@ -20,6 +22,6 @@ This does not need to be super specific: it can be as vague as "a strong sidearm
 Just outline any mechanical differences between the base character and someone with this mask.
 
 ## Gameplay
-Describe the type of gameplay this mask is supposed to create.
-Outline any relevant relationships with other jobs or masks.
-This is the point where you want to outline the type of interactions that this mask is meant to be creating.
+Describe the type of social deduction gameplay this mask is supposed to create.
+Outline any relevant relationships with other systems or masks.
+Elaborate on the inherent intrigue--how does the mask obscure itself, or generate ambiguity?
