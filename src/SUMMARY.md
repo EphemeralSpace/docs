@@ -36,6 +36,7 @@ Design
     - [Glutton](design/masks/crew/glutton.md)
     - [Guzzler](design/masks/crew/guzzler.md)
     - [Parasite](design/masks/crew/parasite.md)
+    - [Petitioner](design/masks/crew/petitioner.md)
     - [Phantom](design/masks/crew/phantom.md)
     - [Tracker](design/masks/crew/tracker.md)
     - [Veteran](design/masks/crew/veteran.md)
