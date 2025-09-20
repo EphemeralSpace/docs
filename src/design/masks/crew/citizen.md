@@ -4,7 +4,7 @@
 
 > **Name:** Citizen
 >
- **Troupe:** [Crew](../crew.md)
+> **Troupe:** [Crew](../crew.md)
 >
 > **Description:** Show people your citizenship card to prove your innocence in time of need.
 >
