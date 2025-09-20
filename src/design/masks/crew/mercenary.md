@@ -4,7 +4,7 @@
 
 > **Name:** Mercenary
 >
- **Troupe:** [Crew](../crew.md)
+> **Troupe:** [Crew](../crew.md)
 >
 > **Description:** Get sent a traitor goods cache. Use it to help the crew. Try not to get the blame pinned on yourself.
 >
