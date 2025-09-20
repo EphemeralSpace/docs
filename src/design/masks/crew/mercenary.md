@@ -13,7 +13,7 @@
 > *Silenced Pistol? I'm the assassin? What are you talking about, I found it in maintenance!*
 
 ## Concept
-At the beginning of the round, the mercenary gets a random [traitor](../traitor.md) gear cache, corresponding to an existing traitor mask.
+At the beginning of the round, the mercenary gets a random [traitor](../traitors.md) gear cache, corresponding to an existing traitor mask.
 
 ## Abilities
 The mercenary has no other special abilities or objectives other then their round-start traitor cache.
