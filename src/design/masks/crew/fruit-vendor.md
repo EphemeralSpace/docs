@@ -13,10 +13,10 @@
 > *I'm the fruit vendor, which means I love giving fruits to the crew!*
 
 ## Concept
-The fruit vendor is a mask that starts with a bluespace fruit bag. They can take fruits out of it (limited by a cooldown.)
+The fruit vendor is a mask that gives out fruit to people.
 
 ## Abilities
-See above section.
+Like the [Arms Dealer](../crew/arms-dealer.md), the fruit vendor can materialize a fruit from a hidden cache, once per some medium-length timeframe.
 
 ## Gameplay
 The fruit vendor acts as another kind of "soft-safe-check," much like the [citizen](../crew/citizen.md). As a result, the interactions this mask creates are mostly similar, with the caveat that this mask can have subverted versions (neutral and chaotic fruit vendor) that change the viability of the fruits. This makes the completion of their objective more difficult then it otherwise would be, and introduces a new layer of humorous social deduction. Sure, maybe you can be confident that the fruit vendor isn't a traitor, but can you ever really trust their fruits?
