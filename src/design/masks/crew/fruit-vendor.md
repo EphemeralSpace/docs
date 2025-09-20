@@ -4,7 +4,7 @@
 
 > **Name:** Fruit Vendor
 >
- **Troupe:** [Crew](../crew.md)
+> **Troupe:** [Crew](../crew.md)
 >
 > **Description:** Give people your delicious fruits.
 >
