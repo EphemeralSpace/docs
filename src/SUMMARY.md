@@ -25,7 +25,7 @@ Design
     - [Recon](design/masks/traitor/recon.md)
 	- [Recruit](design/masks/traitor/recruit.md)
     - [Spy](design/masks/traitor/spy.md)
-	- [Subverter](design/masks/traitor/subverter.md)
+    - [Subverter](design/masks/traitor/subverter.md)
   - [Crew](design/masks/crew.md)
     - [Amnesiac](design/masks/crew/amnesiac.md)
     - [Animal Hater](design/masks/crew/animal-hater.md)
