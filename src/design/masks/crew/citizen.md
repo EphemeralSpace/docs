@@ -6,17 +6,25 @@
 >
 > **Troupe:** [Crew](../crew.md)
 >
-> **Description:** Show people your citizenship card to prove your innocence in time of need.
+> **Description:** Be the lone shred of normalcy on the station.
 >
-> **Objectives:** None.
+> **Objectives:** None
 >
-> *No, look I'm innocent! See? That's my CITIZENSHIP card! I'm the citizen! I couldn't possibly be a bad guy, guys!*
+> *I just wanted to have a normal shift! Why does something always have to go wrong?*
 
 ## Concept
-The citizen is a mask that starts with a citizenship card with their name on it. This card does nothing other then acting as a meta-confirmation that they're the citizen, as only the citizen can spawn with the card. They have no other special abilities or objectives.
+The Citizen is a true neutral mask akin to something like the "innocent" in mafia.
+They make up a consistently high proportion of the crew troupe, decreasing the total number of masks that you might see in a round.
+
+Note however that Citizens are not inherently "good" people.
+Although they won't blow up the station in a nuclear blast, they are more than happy to do what they will to fulfill their own selfish desires.
 
 ## Abilities
-See above section.
+None
 
 ## Gameplay
-The citizen acts as a sort of "soft-safe-check" and sets the stage for social intruige relating to its card. For example, the citizen might use their card to confirm their innocence at a crucial time.... or maybe, someone's stolen the citizen's card and is trying to use it to do the same, which acts as a seed for further social intruige.
+The Citizen is a very basic role that brings the baseline level of chaos down to a more reasonable level.
+They serve to introduce a very neutral "default" for players to inhabit that allows them to more directly focus on their job and the troupe objective.
+
+In terms of intrigue, the Citizen is the most obvious role to try to pretend to be.
+Since they lack any tells or goals, someone can always be a Citizen with no way of proving they are not short of confirming something else.
