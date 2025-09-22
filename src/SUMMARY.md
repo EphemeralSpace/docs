@@ -23,7 +23,7 @@ Design
     - [Infiltrator](design/masks/traitor/infiltrator.md)
     - [Marauder](design/masks/traitor/marauder.md)
     - [Recon](design/masks/traitor/recon.md)
-	- [Recruit](design/masks/traitor/recruit.md)
+    - [Recruit](design/masks/traitor/recruit.md)
     - [Spy](design/masks/traitor/spy.md)
     - [Subverter](design/masks/traitor/subverter.md)
   - [Crew](design/masks/crew.md)
