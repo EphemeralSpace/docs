@@ -17,6 +17,8 @@ Design
 ---
 - [Equipment]()
   - [Clothing](design/equipment/clothing.md)
+- [Jobs]()
+  - [Cargo](design/jobs/cargo.md)
 - [Masks](design/masks/masks.md)
   - [Traitors](design/masks/traitors.md)
     - [Marauder](design/masks/traitor/marauder.md)
