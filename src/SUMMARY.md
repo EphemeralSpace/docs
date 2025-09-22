@@ -52,6 +52,7 @@ Design
   - [Roundstart, Arrivals, & Latejoining](design/roundflow/roundstart-arrivals-latejoining.md)
   - [Ghost Roles & The Ghost Bar](design/roundflow/ghost-roles-ghost-bar.md)
   - [Evac & Roundend](design/roundflow/evac-roundend.md)
+  - [Station Objective](design/roundflow/station-objective.md)
 
 Templates
 ====
