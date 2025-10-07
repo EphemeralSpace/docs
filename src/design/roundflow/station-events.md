@@ -10,6 +10,10 @@ The vast majority of station events should not involve or rely upon player-contr
 Unlike mid-round threats, station events can occur with any number of available ghost role players, including zero.
 As such, rely on either environmental hazards or sole NPCs which can deliver the effects of the event.
 
+## Reactable Threats
+Players should always be aware of station events happening during a round, typically through an announcement beforehand.
+This gives them a chance to react to what's happening, which mitigates the danger they can cause.
+
 ## Destruction
 Station events should never dramatically alter the course of gameplay.
 While their effects, compounded by the normal things happening on station, may lead to the crew being entirely overwhelmed, they should not be solely responsible.
@@ -18,7 +22,7 @@ As such, refrain from events which can unilaterally destroy or kill large parts 
 ## Examples
 - **Good |** Meteors: Serves as a gradual destruction of exterior fixtures and provides low-stakes repair gameplay on the external parts of the station.
 - **Bad |** Immovable Rod: Essentially a meteor turned up way too high. A single rod can not only kill several people, but instantly cripple core station infrastructure with no way to recover or repair it.
+- **Good |** Vent Clog: The event is dangerous, but is clearly called out in advance and can be countered given you have appropriate gear or access to maintenance.
+- **Bad |** Space Dust: The dust itself can break windows or hit spacefaring players at any point, without giving them a fair warning.
 - **Good |** Radiation Storm: While it can be deadly, the event alerts the people on station and provides an opportunity to evade it.
-- **Bad |** Vent Critters: The various mobs are often too powerful to realistically be defeated by players, leading to them causing an excessive amount of damage.
-- **Good |** Carp Migration: The carps are relatively easy to defeat and their AI is able to accomplish their behavior.
-- **Bad |** Closet Skeleton: The skeleton's efficacy and impact is determined entirely be the player who gets the role, leading to wildly different power level and impact from round to round.
+- **Bad |** Closet Skeleton: The skeleton can vary in danger greatly depending on who's playing it, leading to wildly different power level and impact from round to round.
