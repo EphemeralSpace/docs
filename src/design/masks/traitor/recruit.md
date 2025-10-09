@@ -1,6 +1,6 @@
 # Recruit
 
-{{#template ../../templates/unimplemented.md }}
+{{#template ../../../templates/unimplemented.md }}
 
 > **Name:** Recruit
 >
