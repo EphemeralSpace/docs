@@ -34,7 +34,7 @@ Design
     - [Avenger](design/masks/crew/avenger.md)
     - [Bomber](design/masks/crew/bomber.md)
     - [Cannibal](design/masks/crew/cannibal.md)
-    - [Cannibal](design/masks/crew/citizen.md)
+    - [Citizen](design/masks/crew/citizen.md)
     - [Daredevil](design/masks/crew/daredevil.md)
     - [Fruit Vendor](design/masks/crew/fruit-vendor.md)
     - [Glutton](design/masks/crew/glutton.md)
