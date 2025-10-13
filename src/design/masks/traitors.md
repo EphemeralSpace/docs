@@ -38,7 +38,7 @@ While these objectives are dynamic and can vary in what they request from round-
 
 ## Destroy the Pylons
 Though the syndicate would love to send you the nuke disk pinpointer and its codes once your objectives have been completed, there are pesky **cryptographic communications towers** scattered across the map that intercept their ability to give you them.
-You must hack all of the towers to disable the interference.
+These towers are mainly located in generic secure areas (i.e Vault, Tech Storage, Telecomms.) You must hack all of the towers to disable the interference.
 Once hacked, if the tower is examined closely, there are telltale signs that illicit tampering has occured. Because of this, it is generally inadvisable to hack any of them until the last possible moment.
 
 From a game design perspective, the towers are meant to serve as a sort of generic gameplay macguffin for any troupe objective that needs some kind of limiting mechanic.
