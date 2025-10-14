@@ -7,7 +7,7 @@ Although every traitor mask receives a unique set of equipment, their primary st
 
 As a threat, they are meant to be an omnipresent source of paranoia.
 Truly determining if someone is a traitor is notably difficult, as most of their equipment has heavy overlap with generic items that can be acquired on-station.
-Ultimately, traitors are meant to push the limits deceit and take advantage of your environment.
+Ultimately, traitors are meant to push the limits of deceit and take advantage of their environment.
 
 ## Equipment
 To assist in completing their objectives, all traitors are told of the location of a hidden item cache in maintenance, containing illicit equipment related that varies depending on their mask.
@@ -30,19 +30,20 @@ These objectives generally involve extraction, including things like:
 - Steal the sensitive salvage magnet data
 - Steal a tank's worth of plasma
 - Steal the core of an antimatter pylon
-- Steal the vault's secret documents (you need C4 to open up the vault to access them. If misplaced, these instantly cause all of command and security to fail, so protect them with your life!)
 - Steal the armory's experimental weapon
-- Neutralize an anomaly and steal its core
 
+For the item-based objectives, to confirm their completion, they will need to be placed in a crate and teleported away to the syndicate.
 While these objectives are dynamic and can vary in what they request from round-to-round, one objective is static and omni-present: the detonation of the station's nuke - the final capstone to end the syndicate's perfect heist.
 
 ## Destroy the Pylons
-Though the syndicate would love to send you the nuke disk pinpointer and its codes once your objectives have been completed, there are pesky **cryptographic communications towers** scattered across the map that intercept their ability to give you them.
+Though the syndicate would love to send you the nuke codes once your objectives have been completed, there are pesky **cryptographic communications towers** scattered across the map that intercept their ability to give you them.
 These towers are mainly located in generic secure areas, such as Vault, Tech Storage, or Telecomms. You must hack all of the towers to disable the interference.
 Once hacked, if the tower is examined closely, there are telltale signs that illicit tampering has occured. Because of this, it is generally inadvisable to hack any of them until the last possible moment.
 
-From a game design perspective, the towers are meant to serve as a sort of generic gameplay macguffin for any troupe objective that needs some kind of limiting mechanic.
-In the case of traitors, they act as an additional buffer for the detonation of the nuke, and as a sign that things have probably reached their boiling point. If you notice any towers hacked as crew, you should probably remain extremely weary.
+Rather convienently, these towers also point to the location of the nuke disk, making them exceptionally valuable for your mission - but also useful to other non-traitors. You will need to be exceptionally careful around a paranoid crew, as they could easily use the towers against you.
+
+From a game design perspective, the towers are meant to serve as a sort of generic gameplay macguffin for any troupe objective that needs some kind of limiting mechanic. The nuke disk pinpointing functionality also makes them more valuable as key "control points" and gives them a reason to exist besides being hacked.
+In the case of how they relate to traitors, they act as an additional buffer for the detonation of the nuke, and as a sign that things have probably reached their boiling point. If you notice any towers hacked as crew, you should probably remain extremely weary.
 
 ## Detonation
 
