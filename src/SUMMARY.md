@@ -12,6 +12,12 @@ Coding
 ---
 - [Conventions](coding/code-conventions.md)
 
+Guidelines
+====
+---
+- [Mapping](guidelines/mapping.md)
+
+
 Design
 ====
 ---
