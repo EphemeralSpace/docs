@@ -15,6 +15,7 @@ Coding
 Design
 ====
 ---
+- [Design Principles](design/pillars.md)
 - [Equipment]()
   - [Clothing](design/equipment/clothing.md)
 - [Masks](design/masks/masks.md)
