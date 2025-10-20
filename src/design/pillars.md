@@ -43,7 +43,7 @@ Mechanics should not be tasks designed to pad time for jobs, but rather general 
 Create limited numbers of game elements with large amounts of potential interactions.
 Maximizing what one thing can do creates greater potential for elements to interact without bloating the number of different elements in the game.
 
-```admonish danger
+```admonish tip
 Simulationism in this context is not a literal desire to accurately simulate various elements of the game.
 
 The appeal of realism is how it offers intuitive ways to approach problems, a key appeal of games in the **immersive sim** genre.
