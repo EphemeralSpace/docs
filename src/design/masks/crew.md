@@ -36,5 +36,7 @@ Portal Events are activated through a console attached to the portal generator i
 
 Starting the event will immediately allow the portal generator to continue charging, but it will also spawn a threat somewhere on the station.
 These threats fulfill the same purpose as a traditional midround antagonist: they escalate the chaos within the round and provide clear targets for the station to rally against.
+Keep in mind that, while these are _akin_ to midrounds, they are not _literally_ midrounds.
+A portal event can pull in strange aliens, dangerous anomalies, or even teleport in chunks of another world.
 
 Once the charge has completely filled up (taking the duration of an average round), the portal generator will be able to activate once more, teleporting the station out of danger and starting the evacuation sequence and ending the round.
