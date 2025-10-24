@@ -79,11 +79,12 @@ Quarter-tile decals are your best friend and should be your go-to for when you n
 
 *Do not line every single room in departmentally colored decals with complex patterns!* While floor designs can be extremely useful and pretty, it can get really overbearing and messy quickly if you are forcing every room to have some kind of crazy pattern to stand out.
 
-Additionally--you should completely avoid using trim decals (at least, while they exist here--there's no way to remove them for now without breaking map compatibility with other forks). They are a lot less visually cohesive and versatile then quarter-tile decals, and when used for patterns often look *extremely noisy and overdetailed.* While they can be fine when used in isolation, they look fairly inconsistent when mixed with quarter-tile decals, making them not worth using.
+Additionally--you should **completely avoid using trim decals** (at least, while they exist here--there's no way to remove them for now without breaking map compatibility with other forks).
+While these *theoretically* have their uses in delinating the boundary between tile changes, I see mappers footgun themselves by using them in basically every situation that is not that, and even *in* those situations they tend to look fairly ugly. Effectively, they are worse then quarter-tile decals in basically every situation - they are more visually noisy, less versatile, and look terrible when doing anything complex with them.
 
-## Atmos Piping
-For maximum ease-of-use and readability, piping should generally be easy to access as possible for anyone wanting to tinker with it. Because of this, you should avoid piping over structures and crossing other pipes (especially within departments!) when possible, and only use layers / pipe through windows when absolutely required.
+### Atmos Piping
+For maximum ease-of-access and readability, piping should generally avoid going over anything that can obstruct it, like structures or other atmos devices. You should also generally avoid using pipe layers / piping under windows unless absolutely nessecary, and **avoid piping under walls at all costs.**
 
-Avoid piping through walls at all costs, as it is a gigantic pain to deal with as a player.
+You should also aim to make your pipe setups simple to understand & tinker with, and completely avoid using advanced components like pneumatic valves unless absolutely nessecary. It's important to make sure even players with the most basic knowledge of atmospherics are capable of understanding how a setup looks.
 
-On Toast, all vents go through the front of the department, and all scrubbers go through maint. This is mostly superficial, and you can technically do it in any order, but while mapping atmos it personally helped with avoiding the "atmos sins" listed above.
+P.S: On Toast, all vents go through the front of the department, and all scrubbers go through maint. This is mostly superficial, and you can technically do it in any order, but while mapping atmos it personally helped me with avoiding the "atmos sins" listed above.
