@@ -83,7 +83,8 @@ Additionally--you should **completely avoid using trim decals** (at least, while
 While these *theoretically* have their uses in delinating the boundary between tile changes, I see mappers footgun themselves by using them in basically every situation that is not that, and even *in* those situations they tend to look fairly ugly. Effectively, they are worse then quarter-tile decals in basically every situation - they are more visually noisy, less versatile, and look terrible when doing anything complex with them.
 
 ### Atmos Piping
-For maximum ease-of-access and readability, piping should generally avoid going over anything that can obstruct it, like structures or other atmos devices. You should also generally avoid using pipe layers / piping under windows unless absolutely nessecary, and **avoid piping under walls at all costs.**
+For maximum ease-of-access and readability, piping should generally avoid going over anything that can obstruct it, like structures or other atmos devices. You should also generally avoid using pipe layers / piping under windows unless absolutely nessecary.
+To be explicit: **avoid piping under tables, vending machines, and ESPECIALLY walls at all costs.** These things are obnoxious to remove and cover the entire tile - anyone who has to work with pipes and deal with these things in-round will get massively irritated over this.
 
 You should also aim to make your pipe setups simple to understand & tinker with, and completely avoid using advanced components like pneumatic valves unless absolutely nessecary. It's important to make sure even players with the most basic knowledge of atmospherics are capable of understanding how a setup looks.
 
