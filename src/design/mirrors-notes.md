@@ -88,11 +88,11 @@ I think what people really mean when they decry "realism" is that it's *really* 
 
 Note that, in my opinion, simulation doesn't stop science-fictioney or fantasy aspects of the game from existing. In fact, a lot of these more speculative mechanics work better when laid on top of a groundwork of systems based in reality.
 
-### The what
+### What the hell are you talking about
 
-What does an 'integrated' environment look like compared to a relatively 'unintegrated' one?
+To keep things a little more concrete: what does an 'integrated' environment look like compared to a relatively 'unintegrated' one?
 
-Unintegrated environments are static, uninteractive, seem more like set dressing than objects in a real world, but generally require little real effort to actually create. However, they often incur more maintenance effort, due to the need to hardcode interactions more often than letting them emerge naturally.
+Unintegrated environments are static, uninteractive, seem more like set dressing than objects in a real world, but generally require little real effort to actually create. However, they often incur more maintenance effort, due to the need to hardcode interactions rather than letting them emerge naturally.
 
 Integrated environments are far more dynamic, immersive, and have many options for players and possible scenarios that can be created. Players existing in them have a rough idea of what's possible, just based on intuition (and some basic game knowledge). Very strange and fun gameplay situations can emerge out of relatively simple interactions occurring, because almost everything is connected in some way.
 
@@ -140,7 +140,7 @@ If you want to mitigate this, you **need to reduce scope as much as possible** a
 
 ---
 
-If there's one thing I would like to hammer home above anything else, it's that, inherently, SS1X is a multiplayer game to its core. This is a fact that should be key to the design process, above almost all other considerations. If you're designing a feature, and you find that it plays exactly the same in a singleplayer test environment as it does in a multiplayer one, you are doing something horribly wrong.
+If there's one thing I would like to hammer home above all else, it's that, inherently, SS1X is a multiplayer game to its core. This is a fact that should be key to the design process, above almost all other considerations. If you're designing a feature, and you find that it plays exactly the same in a singleplayer test environment as it does in a multiplayer one, you are doing something horribly wrong.
 
 The multiplayer aspect of the game is this important because it introduces the inherent volatility and variance that comes along with being human and with social dynamics. This aspect of the game, I would argue, is why people keep coming back to SS1X despite its many design failures: people make it fun anyway. Nobody ever shared an engaging story about SS1X that didn't involve a single other player in some capacity.
 
@@ -172,7 +172,7 @@ wip
 
 wip
 
-## The Toy-Dolls Dichotomy
+## The Toys-Dolls Dichotomy
 
 wip
 
