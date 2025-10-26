@@ -134,7 +134,7 @@ A lot of features are *huge* and require months or years of incremental improvem
 
 If you want to mitigate this, you **need to reduce scope as much as possible** and you **NEED to empower your designers with real artistic control**. Reducing scope can mean a lot of things--not bikeshedding microbalance, removing features which incur massive design debt for no benefit, freezes, compartmentalizing design when possible to avoid having to change Everything when one aspect changes, reducing mapcount or the amount of fluff items to reduce designer burden when adding new dimensions of gameplay, etc. Empowering designers means you just need to trust people that have a vision, and give them the power to actually enact it. This is a bit abstract and difficult for all the usual reasons development politicking is difficult, but it's necessary if you want an experience that actually feels coherent and soulful.
 
-## Plato's Allegory of the Gooncave
+## Spatio's Allegory of the Gooncave
 
 ![](../assets/design/mirrors-notes-subgame.png)
 
@@ -171,6 +171,8 @@ wip
 ## Sisyphean Projectslop
 
 wip
+
+## The Toy-Dolls Dichotomy
 
 ## Bunny Planet
 
