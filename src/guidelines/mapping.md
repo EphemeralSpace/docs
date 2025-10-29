@@ -92,7 +92,7 @@ Quarter-tile decals are your best friend and should be your go-to for when you n
 Additionally--you should **completely avoid using trim decals** (at least, while they exist here--there's no way to remove them for now without breaking map compatibility with other forks).
 While these *theoretically* have their uses in delineating the boundary between tile changes, I see mappers footgun themselves by using them in basically every situation that is not that, and even *in* those situations they tend to look fairly ugly. Effectively, they are worse then quarter-tile decals in basically every situation - they are more visually noisy, less versatile, and look terrible when doing anything complex with them.
 
-### Wall Usage
+## Wall Usage
 This is half map design and half visual aesthetic thing. In the same way that you should avoid mapping 1-tile maints, you should avoid mapping 2-tile-thick walls, unless it is otherwise an intentional map design element. They have a tendency to look fairly ugly and are also fairly annoying to break through.
 
 You should *especially* avoid doing this for reinforced walls (again, unless it's intentional, like is usually the case in armory or the AI core.) Needing to break through 2 reinforced walls at once unnexpectedly can feel absolutely soul-crushing.
