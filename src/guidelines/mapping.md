@@ -44,7 +44,6 @@ For mapping maintenance, **using upstream random spawners over ES ones with simi
 ## Visuals & Aesthetic
 Above all else: *simplicity is king.* It's perfectly fine to use only basic steel tiles and simple-to-no-decaling for a given room--in fact, that is what you generally should be doing 90% of the time. The game's art style generally massively benefits from not pushing things too far, so you should generally always try to be a little bit restrained if you're trying to get experimental.
 
-
 ### Themes & Tilesets
 ```admonish warning "Disclaimer"
 Ideally, there would be guidelines on each individual theme, but there are simply too many to list in this document right now. This presently only really elaborates on the most common ones.
@@ -93,7 +92,14 @@ Quarter-tile decals are your best friend and should be your go-to for when you n
 Additionally--you should **completely avoid using trim decals** (at least, while they exist here--there's no way to remove them for now without breaking map compatibility with other forks).
 While these *theoretically* have their uses in delineating the boundary between tile changes, I see mappers footgun themselves by using them in basically every situation that is not that, and even *in* those situations they tend to look fairly ugly. Effectively, they are worse then quarter-tile decals in basically every situation - they are more visually noisy, less versatile, and look terrible when doing anything complex with them.
 
-### Atmos Piping
+### Wall Usage
+This is half map design and half visual aesthetic thing. In the same way that you should avoid mapping 1-tile maints, you should avoid mapping 2-tile-thick walls, unless it is otherwise an intentional map design element. They have a tendency to look fairly ugly and are also fairly annoying to break through.
+
+You should *especially* avoid doing this for reinforced walls (again, unless it's intentional, like is usually the case in armory or the AI core.) Needing to break through 2 reinforced walls at once unnexpectedly can feel absolutely soul-crushing.
+
+All of your walls should also have corners--not putting any generally looks extremely strange and feels bad. If you are ever in a situation where you feel like you need to do this to avoid making a double wall, you should rework your layout to accomodate for it.
+
+## Atmos Piping
 For maximum ease-of-access and readability, piping should generally avoid going over anything that can obstruct it, like structures or other atmos devices. You should also generally avoid using pipe layers/piping under windows unless absolutely necessary.
 To be explicit: **avoid piping under tables, vending machines, and ESPECIALLY walls at all costs.** These things are obnoxious to remove and cover the entire tile - anyone who has to work with pipes and deal with these things in-round will get massively irritated over this.
 
