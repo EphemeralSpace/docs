@@ -18,6 +18,8 @@ Design
 - [Design Principles](design/pillars.md)
 - [Equipment]()
   - [Clothing](design/equipment/clothing.md)
+- [Jobs]()
+  - [Bartender](design/jobs/roles/bartender.md)
 - [Masks](design/masks/masks.md)
   - [Traitors](design/masks/traitors.md)
     - [Assassin](design/masks/traitor/assassin.md)
