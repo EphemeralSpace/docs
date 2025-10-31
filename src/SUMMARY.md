@@ -16,6 +16,7 @@ Design
 ====
 ---
 - [Design Principles](design/pillars.md)
+- [Mirror's Notes on Design](design/mirrors-notes.md)
 - [Equipment]()
   - [Clothing](design/equipment/clothing.md)
 - [Jobs]()
