@@ -1,6 +1,6 @@
 # Traitors
 
-{{#template ../../templates/unimplemented.md }}
+{{#template ../../templates/implemented.md }}
 
 Traitors are a troupe of masks focused on utilizing subterfuge to further their objectives.
 Although every traitor mask receives a unique set of equipment, their primary strength is their ability to identify each other and work together to accomplish their objectives.
