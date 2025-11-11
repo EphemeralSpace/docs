@@ -21,6 +21,7 @@ Design
   - [Clothing](design/equipment/clothing.md)
 - [Jobs]()
   - [Bartender](design/jobs/roles/bartender.md)
+  - [Scientist](design/jobs/roles/scientist.md)
 - [Masks](design/masks/masks.md)
   - [Traitors](design/masks/traitors.md)
     - [Assassin](design/masks/traitor/assassin.md)
