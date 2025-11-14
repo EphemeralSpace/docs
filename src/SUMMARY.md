@@ -16,6 +16,7 @@ Design
 ====
 ---
 - [Design Principles](design/pillars.md)
+- [Mirror's Notes on Design](design/mirrors-notes.md)
 - [Characters](design/characters.md)
   - [Naming](design/characters/naming.md)
   - [Backstories]()
@@ -23,6 +24,9 @@ Design
   - [Traits]()
 - [Equipment]()
   - [Clothing](design/equipment/clothing.md)
+- [Jobs]()
+  - [Bartender](design/jobs/roles/bartender.md)
+  - [Scientist](design/jobs/roles/scientist.md)
 - [Power]()
   - [AME](design/power/antimatter-engine.md)
 - [Terminology](design/terminology.md)
@@ -60,9 +64,3 @@ Design
     - [Phantom](design/masks/crew/phantom.md)
     - [Tracker](design/masks/crew/tracker.md)
     - [Veteran](design/masks/crew/veteran.md)
-
-Templates
-====
----
-- [Design]()
-  - [Mask Template](templates/docs/mask-template.md)
