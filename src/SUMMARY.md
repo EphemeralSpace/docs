@@ -16,8 +16,12 @@ Design
 ====
 ---
 - [Design Principles](design/pillars.md)
+- [Mirror's Notes on Design](design/mirrors-notes.md)
 - [Equipment]()
   - [Clothing](design/equipment/clothing.md)
+- [Jobs]()
+  - [Bartender](design/jobs/roles/bartender.md)
+  - [Scientist](design/jobs/roles/scientist.md)
 - [Masks](design/masks/masks.md)
   - [Traitors](design/masks/traitors.md)
     - [Assassin](design/masks/traitor/assassin.md)

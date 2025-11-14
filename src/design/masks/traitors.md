@@ -1,6 +1,6 @@
 # Traitors
 
-{{#include ../../templates/unimplemented.md }}
+{{#include ../../templates/implemented.md }}
 
 Traitors are a troupe of masks focused on utilizing subterfuge to further their objectives.
 Although every traitor mask receives a unique set of equipment, their primary strength is their ability to identify each other and work together to accomplish their objectives.
@@ -23,24 +23,29 @@ All players in the traitor troupe, regardless of mask type, share a pool objecti
 These objectives generally involve extraction, including things like:
 - Kill a specific player
 - Steal the medical records data
-- Steal the sensitive crew manfiest data from the ID console
+- Steal the sensitive crew manifest data from the ID console
 - Steal the station trajectory from the communications console
 - Steal the security records data from the security records console
 - Steal the encrypted communications logs from telecomms
-- Steal the sensitive salvage magnet data
-- Steal a tank's worth of plasma
-- Steal the core of an antimatter pylon
-- Steal the armory's experimental weapon
 
-For the item-based objectives, to confirm their completion, they will need to be placed in a crate and teleported away to the syndicate.
 While these objectives are dynamic and can vary in what they request from round-to-round, one objective is static and omni-present: the detonation of the station's nuke - the final capstone to end the syndicate's perfect heist.
+Each of these objectives should not be enough to sound the alarm bells of the presence of the syndicate, but rather when observed as a pattern, should cause the station to be wary.
+
+### Plausible Deniability
+For objectives that function on an arbitrary hacking/sabotage/interception mechanic, there's a bit of a balance that must be struck.
+While you do not want the effects of these sabotages to be invisible (since you want the crew to be affected and take notice of things which spell out their eventual doom), you also must ensure that they are not obvious tells.
+
+The solution to this is to leverage systems handling the random degradation of the station to integrate with these effects.
+Any consequence of completing an objective should be covered by either a station event or random degradation event.
+Does fucking with the communications console send a scary message on the comms?
+Make the same thing occur at random when someone tries to send a message.
 
 ## Destroy the Pylons
 Though the syndicate would love to send you the nuke codes once your objectives have been completed, there are pesky **cryptographic communications towers** scattered across the map that intercept their ability to give you them.
-These towers are mainly located in generic secure areas, such as Vault, Tech Storage, or Telecomms. You must hack all of the towers to disable the interference.
+These towers are mainly located in generic secure areas, such as Vault, Tech Storage, or Telecomms. You must hack all the towers to disable the interference.
 Once hacked, if the tower is examined closely, there are telltale signs that illicit tampering has occured. Because of this, it is generally inadvisable to hack any of them until the last possible moment.
 
-Rather convienently, these towers also point to the location of the nuke disk, making them exceptionally valuable for your mission - but also useful to other non-traitors. You will need to be exceptionally careful around a paranoid crew, as they could easily use the towers against you.
+Rather conveniently, these towers also point to the location of the nuke disk, making them exceptionally valuable for your mission - but also useful to other non-traitors. You will need to be exceptionally careful around a paranoid crew, as they could easily use the towers against you.
 
 From a game design perspective, the towers are meant to serve as a sort of generic gameplay macguffin for any troupe objective that needs some kind of limiting mechanic. The nuke disk pinpointing functionality also makes them more valuable as key "control points" and gives them a reason to exist besides being hacked.
 In the case of how they relate to traitors, they act as an additional buffer for the detonation of the nuke, and as a sign that things have probably reached their boiling point. If you notice any towers hacked as crew, you should probably remain extremely weary.
