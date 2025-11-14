@@ -1,6 +1,6 @@
 # Naming
 
-{{#include ../../templates/implemented.md}}
+{{#template ../../templates/implemented.md}}
 
 Names are randomly generated as part of [character generation](../characters.md) in Ephemeral Space. The algorithm for doing so is much more complicated than upstream, though easy to understand, and all facets of it have a far weirder and more varied dataset.
 
