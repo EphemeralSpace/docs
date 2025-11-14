@@ -1,6 +1,6 @@
 # Parasite
 
-{{#template ../../../templates/unimplemented.md }}
+{{#include ../../../templates/unimplemented.md }}
 
 > **Name:** Parasite
 >

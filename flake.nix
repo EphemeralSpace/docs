@@ -4,10 +4,9 @@
   inputs = {
     nixpkgs.url = "github:nixos/nixpkgs?ref=nixos-unstable";
     flake-utils.url = "github:numtide/flake-utils";
-    mdbook-template.url = "github:sgoudham/mdbook-template";
   };
 
-  outputs = { self, nixpkgs, flake-utils, mdbook-template }:
+  outputs = { self, nixpkgs, flake-utils }:
     flake-utils.lib.eachDefaultSystem (system:
       let
         pkgs = nixpkgs.legacyPackages.${system};
@@ -19,7 +18,6 @@
             mdbook-pagetoc
             mdbook-admonish
             mdbook-linkcheck
-            mdbook-template.packages.${system}.default
           ];
         };
       }

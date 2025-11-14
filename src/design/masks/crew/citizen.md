@@ -1,6 +1,6 @@
 # Citizen
 
-{{#template ../../../templates/unimplemented.md }}
+{{#include ../../../templates/unimplemented.md }}
 
 > **Name:** Citizen
 >

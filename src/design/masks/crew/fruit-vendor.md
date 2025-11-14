@@ -1,6 +1,6 @@
 # Fruit Vendor
 
-{{#template ../../../templates/unimplemented.md }}
+{{#include ../../../templates/unimplemented.md }}
 
 > **Name:** Fruit Vendor
 >

@@ -1,6 +1,6 @@
 # Crew
 
-{{#template ../../templates/unimplemented.md }}
+{{#include ../../templates/unimplemented.md }}
 
 The crew is a troupe that serves as the "default" state for typical gameplay.
 While every crew mask shares the same win condition, they are not stringently aligned like [traitors](traitors.md).

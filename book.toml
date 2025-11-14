@@ -15,9 +15,6 @@ assets_version = "3.1.0" # do not edit: managed by `mdbook-admonish install`
 
 [preprocessor.pagetoc]
 
-[preprocessor.template]
-before = ["admonish"] # templates can include these so we run this first
-
 [output.html]
 additional-css          = [ "theme/ephemeral-space.css" , "theme/section-lines.css" , "theme/mdbook-admonish.css" , "theme/pagetoc.css" ]
 additional-js           = [ "theme/pagetoc.js" ]

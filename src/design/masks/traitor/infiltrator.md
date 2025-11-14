@@ -1,6 +1,6 @@
 # Infiltrator
 
-{{#template ../../../templates/implemented.md }}
+{{#include ../../../templates/implemented.md }}
 
 > **Name: Infiltrator**
 >

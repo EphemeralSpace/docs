@@ -1,6 +1,6 @@
 # Roundstart
 
-{{#template ../../templates/unimplemented.md }}
+{{#include ../../templates/unimplemented.md }}
 
 When the round starts, players are internally split up into two groups.  The first are those that will play the station roles (split across multiple groups in the case of multistation). This group ideally comprises around **75%** of the total readied-up population.
 

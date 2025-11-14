@@ -1,6 +1,6 @@
 # Assassin
 
-{{#template ../../../templates/implemented.md }}
+{{#include ../../../templates/implemented.md }}
 
 > **Name: Assassin**
 >

@@ -1,6 +1,6 @@
 # Phantom
 
-{{#template ../../../templates/unimplemented.md }}
+{{#include ../../../templates/unimplemented.md }}
 
 > **Name:** Phantom
 >

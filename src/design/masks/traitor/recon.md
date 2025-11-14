@@ -1,6 +1,6 @@
 # Recon
 
-{{#template ../../../templates/unimplemented.md }}
+{{#include ../../../templates/unimplemented.md }}
 
 > **Name: Recon**
 >

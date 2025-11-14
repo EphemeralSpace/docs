@@ -1,6 +1,10 @@
 # Lobby
 
-{{#template ../../templates/partially-implemented.md issue=https://github.com/EphemeralSpace/ephemeral-space/issues/69}}
+{{#include ../../templates/partially-implemented.md}}
+
+```admonish info
+Tracking issue: https://github.com/EphemeralSpace/ephemeral-space/issues/69
+```
 
 The lobby, instead of just being a UI, is actually a map players can walk around in. 
 All features that were UI buttons/menus previously (readying up, observing, the roundstart timer, etc) are instead diegetic elements contained within the lobby map itself.
