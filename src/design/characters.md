@@ -1,6 +1,6 @@
 # Characters
 
-{{#include ../../templates/partially-implemented.md}}
+{{#include ../templates/partially-implemented.md}}
 
 In Ephemeral Space, characters are **entirely randomly generated**. This includes their [name](characters/naming.md), appearance, <span class="es-partially-implemented">background, relationships to other characters</span>, <span class="es-unimplemented">traits</span>, job, and [mask](../design/masks/masks.md). This is in stark contrast to almost all other forks, where advanced character creation options can be a draw on their own. However, we really truly believe that the benefits of doing it this way are monumental, that doing it can unearth intriguing and engaging gameplay that would otherwise be impossible, and that the concept deserves more exploration in SS1X design than it has currently received (almost zero). 
 
