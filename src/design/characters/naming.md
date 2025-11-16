@@ -101,4 +101,4 @@ Again: **not strictly Law!!!** If a name is funny, it can violate these tenets--
 5) Random only sometimes equals funny--keysmashing, literally or figuratively, does not make particularly good names.
 6) Less is more when it comes to things like branded names or weird guideline-breaking names like "The Answer" or "Mario's". These only work *because* there aren't very many of them.
 7) First names & last names should be funny and/or interesting in the context of many other names--names should not be added simply because of a single combination that might happen randomly.
-8) Last names that are everyday items/concepts/words etc should generally be nouns rather than adjectives
+8) Last names that are everyday items/concepts/words etc should generally be nouns rather than adjectives.
