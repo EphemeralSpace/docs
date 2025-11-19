@@ -51,8 +51,51 @@ Lots of people write documents as shopping lists: a list of features which in co
 This, however, is pretty much a failure of a design doc and only a success as a bullet list to check off with each PR merged.
 
 When you are writing a design doc, the elements you want to focus on are interactions: how different bits of the game collide and make _gameplay_ occur.
-Don't stop at describing **what** the player is doing, describe how other players respond and the world reacts to it.
+Don't stop at describing **what** the player is doing, describe how other players **respond** and how the world **reacts**.
 The game is not single-player: the effect on others is equally (if not more) important to the effects on the primary player.
 
 What you _really_ want out of a design document is a self-replicating blueprint.
 You want to not only lay out the design of how your given mechanic should work, but also how it is compromised and assembled, so that people in the future can observe and build on top of that information.
+
+Something of note is that, since your design is a series of interactions and expected outcomes between players and mechanics, it is perfectly logical to leave the details of **features** up to whoever codes or implements the design.
+In this scenario, there is a distinction made between the **mechanics** of the game (overarching systems and objects of the game itself) and **features** (the realization of the intersections between systems).
+Your document which outlines how an antagonist will function does not need to specify every single possible feature that can be extrapolated from the basic design.
+
+If anything, it is best to leave these things as the realm of exploration and field-testing.
+Any feature that has merit (_read: is consistent with base design principles and the outlined design_) should be given the opportunity to be tested and observed in a natural game environment.
+Once you have the guidelines of design and intention, you are free to open up more wild experiemntation, as there are now bounds to explore and push.
+
+## Coder Versus Reality
+
+Or: _No plan survives contact with the enemy. unfortunately, your enemy is the real world_
+
+After you've penned your shining joy of a design doc, toiled away for many months implementing it, and finally completed your magnum opus: you may be faced with a terrifying reality.
+It just might not be good.
+
+Even the best writing may not be perfectly accurate in capturing every element of the game.
+Bugs and coding issues aside, there may just be underlying factors and game design elements that were not considered.
+Even worse, it may just **not work** for some ineffable reason!
+
+The fact of the matter is that the game is in fact a _thing_ that exists in the real world.
+Your intent and the reality of the matter are two separate things, but they should certainly be hand in hand getting sloppy with their tongues.
+Supplement what you do not understand with what you can see with your eyes.
+Observe gameplay, gather information, and derive conclusions.
+Is something _really good_ on paper but has middling adoption?
+Perhaps the item isn't providing anything useful, is too obscure, or too cumbersome to utilize.
+
+The designs you are creating must not only contend with reality, but bend to it.
+You are not carving stone, but digging channels on the beach.
+As water flows through them and carves new forms, you have to respond accordingly and adjust.
+And this means (I say this with both hands gripping your (YES, YOU!) face deeply) you must adopt an iterative process with design **and documentation.**
+
+```admonish danger
+I say this with love in my heart but daggers in my eyes: some people get far too comfortable designing from a point that is completely disconnected from the game.
+This is obviously necessary in some cases (you should be designing *before* the feature exists, to start) but it's not something to make a habit.
+If issues arise in testing from a new element, you should either be deciding how to change A) the new element or B) some other part of the game.
+
+Something which you think works in practice does not overrule the practical results of what is occuring in game.
+Reality is the master and will gladly make you its bitch.
+Your goal is not to write the best theory but rather to create the best design.
+
+Don't get overconfident.
+```
