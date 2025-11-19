@@ -5,6 +5,7 @@
 Meta
 ====
 ---
+- [Why?](meta/why.md)
 - [Guide to Editing Docs](meta/guide-to-editing-docs.md)
 
 Coding
