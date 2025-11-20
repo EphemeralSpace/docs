@@ -1,6 +1,6 @@
 # Masks
 
-{{#template ../../templates/partially-implemented.md}}
+{{#template ../templates/partially-implemented.md}}
 
 Masks are an additional layer on top of traditional jobs that serves to give greater indivudal direction to players.
 In the context of SS1X as a whole, they function most similarly to antagonists, though their design is much closer to the roles found in social deduction games like TTT, Town of Salem, or Mafia.
