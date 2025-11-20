@@ -1,44 +1,50 @@
 # Summary
 
 ## [Ephemeral Space Dev Wiki](introduction.md)
+---
 
 Meta
 ====
----
 - [Why?](meta/why.md)
 - [Guide to Editing Docs](meta/guide-to-editing-docs.md)
 
 Coding
 ====
----
 - [Conventions](coding/code-conventions.md)
 
+---
 Design
 ====
----
 - [Design Principles](design/pillars.md)
 - [Mirror's Notes on Design](design/mirrors-notes.md)
+- [Terminology](design/terminology.md)
+---
+- [Interaction]()
+  - [Verbs]()
+  - [Actions]()
+  - [Smart Equip]()
+  - [Contextual Binds]()
+  - [Examining]()
 - [Characters](design/characters.md)
   - [Naming](design/characters/naming.md)
   - [Backstories]()
   - [Relationships]()
   - [Traits]()
-- [Equipment]()
-  - [Clothing](design/equipment/clothing.md)
-- [Jobs]()
-  - [Bartender](design/jobs/roles/bartender.md)
-  - [Scientist](design/jobs/roles/scientist.md)
-- [Power]()
-  - [AME](design/power/antimatter-engine.md)
-- [Terminology](design/terminology.md)
 - [Roundflow]()
   - [Lobby & Readying Up](design/roundflow/lobby-readying-up.md)
   - [Roundstart, Arrivals, & Latejoining](design/roundflow/roundstart-arrivals-latejoining.md)
-  - [Ghost Roles & The Ghost Bar](design/roundflow/ghost-roles-ghost-bar.md)
-  - [Evac & Roundend](design/roundflow/evac-roundend.md)
-  - [Events]()
-    - [Station Events](design/roundflow/station-events.md)
-- [Masks](design/masks/masks.md)
+  - [Ghost Roles & The Ghost Bar]()
+  - [Evac & Roundend]()
+- [Power]()
+  - [Antimatter Engine](design/power/antimatter-engine.md)
+- [Clothing](design/clothing.md)
+- [Combat]()
+- [Stats]()
+---
+- [Jobs]()
+  - [Bartender](design/jobs/roles/bartender.md)
+  - [Scientist](design/jobs/roles/scientist.md)
+- [Masks](design/masks.md)
   - [Traitors](design/masks/traitors.md)
     - [Assassin](design/masks/traitor/assassin.md)
     - [Infiltrator](design/masks/traitor/infiltrator.md)
@@ -65,3 +71,5 @@ Design
     - [Phantom](design/masks/crew/phantom.md)
     - [Tracker](design/masks/crew/tracker.md)
     - [Veteran](design/masks/crew/veteran.md)
+- [Station Events](design/station-events.md)
+- [Wildcards](design/wildcards.md)
