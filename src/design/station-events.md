@@ -1,6 +1,6 @@
 # Station Events
 Station Events are random station-wide occurrences that server to introduce minor conflict, distraction, and/or degradation into the round.
-While events should create a momentary pause in typical gameplay, they shouldn't be massively disrupting the round to the point where the main gameplay of [masks](../masks/masks.md) is sidelined.
+While events should create a momentary pause in typical gameplay, they shouldn't be massively disrupting the round to the point where the main gameplay of [masks](masks/masks.md) is sidelined.
 
 In the context of Ephemeral Space, station events are regularly selected by **stagehands** via a regularly occuring vote.
 While some event options may not be available on certain population levels, the events themselves are agnostic to the number of dead or alive players.
