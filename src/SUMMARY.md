@@ -42,6 +42,8 @@ Design
 - [Stats]()
 ---
 - [Jobs]()
+  - [Departments]()
+    - [Supply](design/jobs/departments/supply.md)
   - [Bartender](design/jobs/roles/bartender.md)
   - [Scientist](design/jobs/roles/scientist.md)
 - [Masks](design/masks.md)
