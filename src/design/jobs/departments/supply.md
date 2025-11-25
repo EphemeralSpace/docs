@@ -17,7 +17,7 @@ Once a player has decided to fulfill the order, they will have to deliver it to 
 Warehouse gameplay is intended to be high-interaction and movement-focused for players.
 By providing others value through the delivery of items, cargo technicians are given an opportunity to respond to the needs of the station and supply them with whatever they need.
 
-## Recycling
+## Recycling {.es-unimplemented}
 
 A departure from the typical makeup of Supply departments, the recycling process incorporates the Janitor into the supply department, giving them a limited amount of autonomy over sourcing common materials.
 
@@ -40,12 +40,15 @@ It's awesome.
 ## Manufacturing {.es-unimplemented}
 
 Manufacturing is the middle-step of cargo that links the sourcing gameplay of recycling to the delivery gameplay of the warehouse.
-While the general mechanics of construction and lathe production are not unique to Supply, their position as a center for the movement of goods and resources both in and out of the department makes them an obvious choice to take control of manufacturing.
+While the general mechanics of materials and construction are not unique to Supply, their position as a center for the movement of goods and resources both in and out of the department makes them an obvious choice to take control of manufacturing.
 
-Lathes, in this case, are the main tools of manufacturing.
-These are slow, cumbersome machines that take up a sizeable amount of the workshop area and produce a staggering amount of heat when active.
-In general, since creating items is often done on the scale of single items or sets of tools for an individual, the effects of production should be felt even on the scale of an individual.
-This means, generally, that even just making one item should be fairly slow, noticeable, and have an effect on the environment.
+The main tools of manufacturing are something I'll cautiously refer to as "crafters" for now.
+While lathes are the most obvious example of crafters in the game, the general concept extends to any dedicated structure which receives materials and produces some item that cannot be made by hand.
+Note that while a crafter may be able to make a certain item quicker or cheaper than it would be by hand, this is by no means their dedicated purpose and is more adjacent to a small quality of life feature.
+
+In general, the process of making items should be balanced on the scale of individual items, not mass production.
+This means that resource costs, production time, and side effects, should be noticed even when just a single item is printed.
+This holds true even for items that are typically needed in mass, as it provides a disincentive compared to seeking out stored containers of them around the station (printing lights vs. a light replacer).
 
 ### Materials
 
