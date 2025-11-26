@@ -20,6 +20,16 @@ This is reinforced through their toolset, which is designed either to counter th
 In general, Science leans the hardest into the crew objective and has the most freedom in pursuit of it.
 This is a double-edged sword, though, as it means that non-crew scientist must work at their own expense lest their draw suspicion from the crew.
 
+### Material Supply
+
+Telescience and portal events serve as a major source of materials for the station.
+As the portal events teleport in chunks of the alien world, players will be able to harvest resources from them and process them into materials.
+
+This makes the process of material collection more eventful and reactive; rather than salvagers going out and mining ore when they get bored, the whole crew is given regular opportunities when they know there'll be materials on-station for them to harvest.
+Rather than needing to wait for someone else to collect materials (which can happen randomly at any point during the round) the crew is made aware of _when_ influxes of materials will be coming in and are even given the opportunity to take part in the process.
+
+While scientists are of course free to spearhead the value extraction process, it is first and foremost a democratized crew activity
+
 ## RR (Research Rogue-likening)
 
 Upon activation of a Portal Event, the scientists will be given an opportunity to unlock a permanent upgrade for the station in the form of a new technology.

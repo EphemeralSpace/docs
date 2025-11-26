@@ -34,6 +34,12 @@ Note that, while this is relatively low skill, it can still be (temporarily) sab
 At regular intervals while charging up, the machine will pause until a random **Portal Event** is completed.
 Portal Events are activated through a console attached to the portal generator itself, which must be manually run by someone on-site.
 
+Some of these events may include:
+- Teleporting in a small grid off-station filled with mobs and materials
+- Opening up a portal on the station that streams out enemies
+- Teleporting some players into the world on the other side of the portals
+- Bringing a chunk of the portal world onto the station, bulldozing departments and flooding the area with dangers
+
 Starting the event will immediately allow the portal generator to continue charging, but it will also spawn a threat somewhere on the station.
 These threats fulfill the same purpose as a traditional midround antagonist: they escalate the chaos within the round and provide clear targets for the station to rally against.
 Keep in mind that, while these are _akin_ to midrounds, they are not _literally_ midrounds.
