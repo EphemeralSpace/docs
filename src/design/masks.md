@@ -80,7 +80,7 @@ With a low random chance (~10%), masks can roll a "variant". Mask variants (or m
 
 Variants are not automatically created for every mask--custom variants must be implemented for masks, ensuring that each one is hand-tuned. Masks need not have any variants (and many shouldn't), and they certainly need not implement every variant that exists. Variants for masks should only be made when they can be made meaningfully different from their base mask. If a mask has no variants, but it rolls a variant, nothing happens.
 
-The benefit of variants is twofold. First, it acts as a force multiplier on mask variety without requiring you to come up with wholly new concepts. Variants are much easier to come up with, and the full concept for a fun variant often simply emerges out of asking "how could I apply this general variant to this mask"?
+The benefit of variants is twofold. First, it acts as a force multiplier on mask variety without requiring you to come up with wholly new concepts and without diluting the mask pool. Variants are much easier to come up with, and the full concept for a fun variant often simply emerges out of asking "how could I apply this general variant to this mask"?
 
 Variants can be general--a thematically similar transformation applied to many masks--or they can be more specialized and mask-specific, if a mask really feels like it calls for a unique variant.
 
