@@ -1,6 +1,6 @@
 # Roundstart
 
-{{#template ../../templates/unimplemented.md }}
+{{#template ../../templates/partially-implemented.md }}
 
 When the round starts, players are internally split up into two groups.  The first are those that will play the station roles. This group should comprise the vast majority of players. Those in the second group are given the option to play as a [wildcard role](../wildcards.md).
 
@@ -29,7 +29,7 @@ The motivation for this arrivals flow is generally clear IMO, but to reiterate w
 - Time to ponder your role and mask without much worry about timing lets people strategize better and come up with more interesting gameplay for when they do arrive at the station
 - New players should feel a little less lost than they would if they were placed directly in the department--they can just see who their coworkers are, and follow them to the department if necessary, familiarizing themselves with the station's layout
 
-## Latejoining
+## Latejoining {.es-unimplemented}
 
 For a couple reasons, it's necessary to discincentivize latejoining as an alternative to readying up. It's better for gameplay if the logic for roundstart has more players in the round to work with for assigning masks and roles and such, and it's also better for social deductioncoin if the crew you see at the start of the round is pretty much exclusively who you can expect to see for the entire round, instead of having to account for everyone new that joins.
 
@@ -40,5 +40,3 @@ However, it's simply unreasonable not to have latejoining in some form--rounds a
 - If a player enters cryosleep or goes AFK for >10 minutes (or some other amount of time, idk), their role slot will be opened up and latejoining as their role will give you control over their previous body and mind.
 - If a player dies immediately after the round ends (<10 minutes), their slot is opened for latejoining (mulligan).
 - All latejoiners enter through cryosleep on the station, as "holdovers" from the last shift. The arrivals ship doesn't come and go--the station is more of a closed system.
-
-*Notes: could probably allow using the arrivals ship as a pod for other purposes tbh like for space exploration purposes*
