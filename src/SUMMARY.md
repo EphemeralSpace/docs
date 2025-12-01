@@ -1,20 +1,16 @@
-# Summary
+[Introduction](introduction.md)
 
-## [Ephemeral Space Dev Wiki](introduction.md)
+# Meta
 ---
-
-Meta
-====
 - [Why?](meta/why.md)
 - [Guide to Editing Docs](meta/guide-to-editing-docs.md)
 
-Coding
-====
+# Coding
+---
 - [Conventions](coding/code-conventions.md)
 
+# Design
 ---
-Design
-====
 - [Design Principles](design/pillars.md)
 - [Mirror's Notes on Design](design/mirrors-notes.md)
 - [Terminology](design/terminology.md)

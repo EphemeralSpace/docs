@@ -1,11 +1,49 @@
 .es-unimplemented,
 .es-unimplemented a {
-    color: oklch(40% 60% 40) !important;
+    color: oklch(40% 80% 40) !important;
     text-decoration: underline wavy;
 }
 
 .es-partially-implemented,
 .es-partially-implemented a {
-    color: oklch(60% 80% 100) !important;
+    color: oklch(70% 80% 100) !important;
     text-decoration: underline dotted;
+}
+
+/* allow wider content since no navvybar buttons */
+:root {
+    --content-max-width: 850px;
+    --sidebar-active: #c78dc7;
+}
+
+@media only screen and (min-width: 1366px) {
+    .content>main {
+        /* navbar button was basically a margin left but dont have that no more so */
+        margin-left: 200px;
+    }
+}
+
+.spacer {
+    height: 3px;
+    margin: 2px 0px;
+}
+
+.part-title {
+    margin-top: 20px !important;
+    line-height: 1em;
+    font-size: 150%;
+    font-variant-caps: petite-caps;
+}
+
+.chapter li.chapter-item {
+    margin-top: 0.45em;
+}
+
+/* bigger buttons for discoverability */ 
+.right-buttons > a > i {
+    font-size: 200%;
+}
+
+.left-buttons > button > i {
+    font-size: 200%;
 }
