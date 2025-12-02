@@ -70,7 +70,7 @@ Some additional examples of off-kilter deviations that would be fine:
 
 - A biodome area that uses concrete tiles on a station centered around using grass and other similar things as a core thematic element.
 
-- A mining pod stitched on to the station through an airlock on a station that feels like a cobbled-together scrap heap.
+- A mining pod stitched onto the station through an airlock on a station that feels like a cobbled-together scrap heap.
 
 ### Standard Tile Usage
 Normal, 4-corner steel floor tiles should be your go-to in 95% of situations when mapping a station. They are the most fitting & best-looking tile type for the sanitized-yet-grungy-feeling space station environment that Space Station 14 usually takes place in.
