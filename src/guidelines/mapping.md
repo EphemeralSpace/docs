@@ -97,7 +97,7 @@ This is half map design and half visual aesthetic thing. In the same way that yo
 
 You should *especially* avoid doing this for reinforced walls (again, unless it's intentional, like is usually the case in armory or the AI core.) Needing to break through 2 reinforced walls at once, unexpectedly, can feel absolutely soul-crushing.
 
-All of your walls should also have corners--not putting any generally looks extremely strange and feels bad. If you are ever in a situation where you feel like you need to do this to avoid making a double wall, you should rework your layout to accomodate for it.
+All of your walls should also have corners--not putting any generally looks extremely strange and feels bad. If you are ever in a situation where you feel like you need to do this to avoid making a double wall, you should rework your layout to accommodate it.
 
 ## Atmos Piping
 For maximum ease-of-access and readability, piping should generally avoid going over anything that can obstruct it, like structures or other atmos devices. You should also generally avoid using pipe layers/piping under windows unless absolutely necessary.
