@@ -1,6 +1,6 @@
 # Arms Dealer
 
-{{#template ../../../templates/unimplemented.md }}
+{{#template ../../../templates/implemented.md }}
 
 > **Name:** Arms Dealer
 >
