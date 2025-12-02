@@ -78,7 +78,7 @@ Normal, 4-corner steel floor tiles should be your go-to in 95% of situations whe
 Avoid using white and dark steel tiles for hallways and other generic areas. They become fairly unsightly when spammed in such a way, and also generally look significantly better when used as an element of contrast. 
 Suddenly, in comparison to an all-white hallway set, medbay and science's sterile white floor might not seem so interesting anymore, and command's professional aesthetic just erodes into a homogenized sludge next to an all-black hallway set.
 
-Similarly, you really shouldn't use special steel tile types (monotile, diagonal tile, minitile, etc.) outside of very specific situations. These tiles are very noisy and almost always look worse then the alternative for normal station environments.
+Similarly, you really shouldn't use special steel tile types (monotile, diagonal tile, minitile, etc.) outside of very specific situations. These tiles are very noisy and almost always look worse than the alternative for normal station environments.
 
 If you are going to use them at all (not desired for Toast due to its overall simple aesthetic, probably,) you should use them for the accentuation of specific areas. For example, only using monotiles to highlight structures, or only using diagonal floors in bathrooms.
 
