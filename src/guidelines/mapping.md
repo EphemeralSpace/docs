@@ -12,7 +12,7 @@ This is the #1 thing most new mappers mess up. Good maintenance areas are extrem
 If you are going to take away anything from these guidelines - **it is vitally important that you do not add your maintenance in negative space as an afterthought.** It needs to be blocked out with the rest of the station.
 
 ### Availability
-Maintenance should exist around the entire station, and almost every room should have a maintenance exit--though, one must be mindful of the fact that maintenance acts as an effective backdoor access spot. Usually, because of this, rooms like the Captain's Quarters, Vault, or Armory typically lack any maintenance exits.
+Maintenance should exist around the entire station, and almost every room should have a maintenance exit--though one must be mindful of the fact that maintenance acts as an effective backdoor access spot. Usually, because of this, rooms like the Captain's Quarters, Vault, or Armory typically lack any maintenance exits.
 
 As a vital component to *both* social deduction and survival gameplay, it is generally very important to have access to maintenance be widely available no matter where you are on the station.
 
