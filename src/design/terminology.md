@@ -1,5 +1,7 @@
 # Terminology
 
+Getting confused by the weird ass dialect we've built for ourselves with all our pheemy nonsense? Here's a rundown of some specific terminology and what it's referring to ingame.
+
 ## Characters
 
 **Theatergoer:** Player

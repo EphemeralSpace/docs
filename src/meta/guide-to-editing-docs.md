@@ -63,3 +63,16 @@ To help make best use of maintainers' review time, before submitting please:
 - Proofread your changes
 - Use a spell checker
 - Consider using grammar review tools like [Grammarly](https://www.grammarly.com/)
+
+## Organization
+
+When writing design documentation, the folder organization and layout in SUMMARY.md (what shows up in the sidebar) are very important for making things easy to parse.
+
+Here's how things are currently organized in the design section, and how they should ideally stay organized for the future:
+- Meta-information about design -- design pillars, tips on how to reason about design, terminology, etc should always be at the top of the section and visually separate from more meaty documentation.
+- Core documentation, which will always be relevant irrespective of gamemode and mostly touches on foundational mechanical things like interaction or simulationist elements of the game, should be the next section
+- More specific 'feature' documentation, which may consist of describing a mechanic and enumerating the different elements of it like events, masks or jobs, should be in a different section and below core mechanical design.
+- When ordering within a section, place pages with lots of subpages first, and sort alphabetically after that. Small sections can be ordered in specific ways if it makes sense, but if you can't think of an obvious way, just follow that.
+- Subpages of a page should always be in a new folder named after the top-level page. The top-level page should not reside in this folder.
+- Pages which should exist but do not should be left unlinked and not created, rather than kept as an empty page or with a 'WIP' marker.
+- **Avoid creating more layers of nesting than necessary**. If you need to delineate two different 'sections' of design, as is done right now, just use a section delineator in the SUMMARY.md layout itself.

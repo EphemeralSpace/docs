@@ -1,20 +1,56 @@
-h1 {
-    border-top: 3px solid ;
+main h2, h3 {
+    margin-top: 1.25em;
+    border-bottom: 1px solid var(--sidebar-spacer);
+    padding-bottom: 5px;
 }
 
-h1:first-of-type {
-    border-top: 0 ;
+main h1 {
+    border-bottom: 3px solid var(--sidebar-spacer);
+    padding-bottom: 7px;
 }
 
-h2 {
-    border-top: 1px solid ;
+main>section,
+main>pre,
+main h1,
+main h2,
+main h3 {
+    clear: both;
 }
 
-h3:before {
-    content:    '' ;
-    display:    block ;
-    position:   relative ;
-    top:        0 ;
-    width:      50% ;
-    border-top: 1px dotted ;
+/* spacing & vertical lines for the tree shit */
+/* vaguely from https://iamkate.com/code/tree-views/ */
+.chapter {
+  --spacing: 1.8rem;
+  --color: #555;
+}
+
+.chapter li {
+  display: block;
+  position: relative;
+  padding-left: calc(var(--spacing) + 4px);
+}
+
+.chapter ol {
+  margin-left: 4px;
+  padding-left: 0;
+}
+
+.chapter ol li {
+  border-left: 2px solid var(--color);
+}
+
+.chapter ol li:last-child {
+  border-color: transparent;
+}
+
+.chapter ol li::before {
+  content: '';
+  display: block;
+  position: absolute;
+  top: calc(var(--spacing) / -2);
+  left: -2px;
+  width: calc(var(--spacing) + 2px);
+  height: calc(var(--spacing) + 1px);
+  border: solid var(--color);
+  border-width: 0 0 2px 2px;
 }
