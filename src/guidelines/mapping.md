@@ -95,7 +95,7 @@ While these *theoretically* have their uses in delineating the boundary between 
 ## Wall Usage
 This is half map design and half visual aesthetic thing. In the same way that you should avoid mapping 1-tile maints, you should avoid mapping 2-tile-thick walls, unless it is otherwise an intentional map design element. They have a tendency to look fairly ugly and are also fairly annoying to break through.
 
-You should *especially* avoid doing this for reinforced walls (again, unless it's intentional, like is usually the case in armory or the AI core.) Needing to break through 2 reinforced walls at once unnexpectedly can feel absolutely soul-crushing.
+You should *especially* avoid doing this for reinforced walls (again, unless it's intentional, like is usually the case in armory or the AI core.) Needing to break through 2 reinforced walls at once, unexpectedly, can feel absolutely soul-crushing.
 
 All of your walls should also have corners--not putting any generally looks extremely strange and feels bad. If you are ever in a situation where you feel like you need to do this to avoid making a double wall, you should rework your layout to accomodate for it.
 
