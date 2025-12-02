@@ -7,7 +7,7 @@ Presently, these guidelines are not very meaty. This only really covers the most
 Even though this is a guide for Ephemeral Space, and is written as such, most of the core principles here can generally be applied to other forks.
 
 ## Maintenance
-This is the #1 thing most new mappers mess up. Good maintenance areas are extremely pivotal to the game to function correctly. They generally act as perfect cover for anyone trying to do something in secrecy, or get around somewhere in a roundabout way.
+This is the #1 thing most new mappers mess up. Good maintenance areas are extremely pivotal to the game's function. They generally act as perfect cover for anyone trying to do something in secrecy or get around somewhere in a roundabout way.
 
 If you are going to take away anything from these guidelines - **it is vitally important that you do not add your maintenance in negative space as an afterthought.** It needs to be blocked out with the rest of the station.
 
