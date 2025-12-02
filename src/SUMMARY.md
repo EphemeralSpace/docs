@@ -9,6 +9,10 @@
 ---
 - [Conventions](coding/code-conventions.md)
 
+# Guidelines
+---
+- [Mapping](guidelines/mapping.md)
+
 # Design
 ---
 - [Design Principles](design/pillars.md)
