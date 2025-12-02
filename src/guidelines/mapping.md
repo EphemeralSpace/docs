@@ -51,7 +51,7 @@ Ideally, there would be guidelines on each individual theme, but there are simpl
 
 While the tiles (and their matching structures, which I will here by refer to as a "tileset") obviously can be morphed in to different use cases outside of their standard situations, it is extremely important to keep in mind that *almost every tileset is meant to be used in a specific situation, and will look bad when used in arbitrary ways that do not conform well to their intended use.*
 
-It may be tempting to break the mold in a given map, especially given SS14's limited tileset, but convention exists for a reason. **Do not force yourself to create unnessecary variance to stand out. More likely than not, if you use everything the game has available to you, you are going to end up with something grievously overdetailed or ugly.**
+It may be tempting to break the mold in a given map, especially given SS14's limited tileset, but convention exists for a reason. **Do not force yourself to create unnecessary variance to stand out. More likely than not, if you use everything the game has available to you, you are going to end up with something grievously overdetailed or ugly.**
 
 This is obviously not to say that you shouldn't get creative, but you should *really* consider how the parts of a tileset are normally used and how they justify themselves & come together, given Space Station 14's setting and your station's imagined setting. For some basic examples:
 
