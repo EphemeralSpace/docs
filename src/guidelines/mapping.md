@@ -87,7 +87,7 @@ Additionally, make sure to keep techmaint tile usage restricted to maintenance (
 ### Decaling
 Quarter-tile decals are your best friend and should be your go-to for when you need to spice up a room's visuals. They look amazing, are extremely versatile, useful for conveyance/navigability, and simplistic enough to never really create much dissonance between whatever you are making and the art style.
 
-*Do not line every single room in departmentally colored decals with complex patterns!* While floor designs can be extremely useful and pretty, it can become overbearing and messy quickly if you are forcing every room to have some kind of crazy pattern to stand out.
+*Do not line every single room in departmentally colored decals with complex patterns!* While floor designs can be extremely useful and pretty, they can become overbearing and messy quickly if you are forcing every room to have some kind of crazy pattern to stand out.
 
 Additionally--you should **completely avoid using trim decals** (at least, while they exist here--there's no way to remove them for now without breaking map compatibility with other forks).
 While these *theoretically* have their uses in delineating the boundary between tile changes, I see mappers footgun themselves by using them in basically every situation that is not that, and even *in* those situations, they tend to look fairly ugly. Effectively, they are worse than quarter-tile decals in basically every situation - they are more visually noisy, less versatile, and look terrible when doing anything complex with them.
