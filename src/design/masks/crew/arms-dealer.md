@@ -1,6 +1,6 @@
 # Arms Dealer
 
-{{#template ../../../templates/unimplemented.md }}
+{{#template ../../../templates/partially-implemented.md }}
 
 > **Name:** Arms Dealer
 >
@@ -8,7 +8,7 @@
 >
 > **Description:** Give out guns to the needy--just make sure they use it LATER, not HERE on the STATION.
 >
-> **Objectives:** Give out guns to X total crewmembers, and ensure that fewer than Y murders occur as a result.
+> **Objectives:** Give out guns to X total crewmembers, <span class="es-unimplemented">and ensure that fewer than Y murders occur as a result.</span>
 >
 > *This one here's a fine little peashooter. What'd you say you needed this for--varmint hunting? Come on now. Just be responsible.*
 
