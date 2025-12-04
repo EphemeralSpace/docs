@@ -8,7 +8,7 @@
 >
 > **Archetypes:** N/A
 >
-> **Description:** Use your mystic abilities to sense the auras of others, suffer brain damage in pursuit of knowledge.
+> **Description:** Use your mystic abilities to sense the auras of others, wildly misinterpret vague readings.
 >
 > **Objectives:** None
 >
@@ -19,15 +19,12 @@ The empath is a mask that has the ability to gain insight into someone's mask, g
 Although their ability does not give them the power to precisely pinpoint a mask, it can serve as a final piece of a puzzle, connecting disparate events and potentially catching people in a lie.
 
 ## Abilities
-Their main ability is the power to sense the aura of a target player.
-Which aura they see is dependent on the mask the player has, with each type corresponding roughly below:
+Their main ability is the power to sense the aura of a target player, which they can use repeatedly after a moderate cooldown.
+Which aura they see is dependent on the mask the player has:
 
-- **Neutral Aura:** Neutral, unassuming. Default aura used for the majority of roles such as [Citizen](citizen.md), [Mercenary](mercenary.md), [Glutton](glutton.md), etc
+- **Neutral Aura:** Basic, unassuming. Default aura used for the majority of roles such as [Citizen](citizen.md), [Mercenary](mercenary.md), [Glutton](glutton.md), etc
 - **Killing Intent:** Murderous, violent. Used for roles that have kill-related objectives, such as [Traitors](../traitors.md), [Animal Hater](animal-hater.md), [Veteran](veteran.md), etc
 - **Strange Feeling:** Dull, hazy. Reserved for masks which have not gained their main objectives, such as the [Amnesiac](amnesiac.md) or Copier-type masks like the [Cannibal](cannibal.md)
-
-This ability is not free, however.
-After a small number of usages, every further use will incur a rising chance of causing permanent brain damage to the user.
 
 ## Gameplay
 The empath is a mask that, while lacking objectives pushing them towards gameplay, is deeply involved with the deduction of the game due to their strong abilities.
