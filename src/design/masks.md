@@ -58,7 +58,7 @@ Note that while this can be used for combative roles, this can also be include m
 
 ## Archetypes
 
-Masks are generally grouped into archetypes, strictly for the purpose of reasoning about them more abstractly. A mask need not fit into any specific archetype, and it may have multiple archetypes, but thinking in terms of archetypes can help you identify empty areas in designspace that a new mask could slot into nicely. 
+Masks are generally grouped into archetypes, strictly for the purpose of reasoning about them more abstractly. A mask need not fit into any specific archetype, and it may have multiple archetypes, but thinking in terms of archetypes can help you identify empty areas in designspace that a new mask could slot into nicely.
 
 When designing new masks, try to come up with novel combinations or inversions of archetypes that could be interesting, or see if there are 'too few' of a certain archetype (relative to how rare it should be overall and how interesting it is) and try to come up with a new spin on the concept.
 
@@ -73,6 +73,7 @@ Some general archetypes of masks (again, not exhaustive and new archetypes can a
 - **Murderer**: Masks which center around directly engaging in conflict with and killing other players. Examples: [assassin](masks/traitor/assassin.md), [veteran](masks/crew/veteran.md).
 - **Guardian**: Masks which center around preventing other players from being harmed or killed. Examples: [avenger](masks/crew/avenger.md), [tracker](masks/crew/tracker.md).
 - **Freak**: Masks whose objectives interact with the simulation in a way that is strange and leads into weird interactions, but not necessarily into direct conflict with others. Examples: [glutton](masks/crew/glutton.md), [daredevil](masks/crew/daredevil.md).
+- **Oracle:** Maks which can gain hidden meta-knowledge about another mask. Examples: [empath](masks/crew/empath.md).
 
 ## Variants {.es-unimplemented}
 

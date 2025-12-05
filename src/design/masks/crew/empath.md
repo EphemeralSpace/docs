@@ -6,7 +6,7 @@
 >
 > **Troupe:** [Crew](../crew.md)
 >
-> **Archetypes:** N/A
+> **Archetypes:** Oracle
 >
 > **Description:** Use your mystic abilities to sense the auras of others, wildly misinterpret vague readings.
 >
