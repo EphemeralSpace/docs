@@ -65,6 +65,7 @@
     - [Cannibal](design/masks/crew/cannibal.md)
     - [Citizen](design/masks/crew/citizen.md)
     - [Daredevil](design/masks/crew/daredevil.md)
+    - [Empath](design/masks/crew/empath.md)
     - [Fruit Vendor](design/masks/crew/fruit-vendor.md)
     - [Glutton](design/masks/crew/glutton.md)
     - [Guzzler](design/masks/crew/guzzler.md)
