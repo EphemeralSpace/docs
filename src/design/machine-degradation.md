@@ -1,6 +1,6 @@
 # Machine Degradation
 
-{{#template ../templates/partially-implemented.md}}
+{{#template ../templates/implemented.md}}
 
 Machine degradation events are a type of player-reactive random event that can occur on the station.
 They affect various types of machines, requiring them to be repaired through the use of basic tools in order to restore them to their original state.
@@ -20,7 +20,7 @@ By overlapping this with sabotage actions from groups like [traitors](masks/trai
 Additionally, since a typical player is unable to enact machine degradation on a device, this creates an imbalance that opens up space for beneficial repair gameplay without necessarily introducing vectors for sabotage.
 If the malfunctioning only comes from certain specific sources, it enables the effects to be more impactful without creating wider gameplay considerations.
 
-## Causing Destruction {.es-unimplemented}
+## Causing Destruction
 
 A key detail that distinguishes degradation effects is _how_ they are activated.
 Rather than simply activating when a gamerule is run, target objects are "queued" for degradation.
