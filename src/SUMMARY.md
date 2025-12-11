@@ -75,4 +75,5 @@
     - [Tracker](design/masks/crew/tracker.md)
     - [Veteran](design/masks/crew/veteran.md)
 - [Station Events](design/station-events.md)
+- [Machine Degradation](design/machine-degradation.md)
 - [Wildcards](design/wildcards.md)
