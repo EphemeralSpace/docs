@@ -69,6 +69,7 @@
     - [Glutton](design/masks/crew/glutton.md)
     - [Guzzler](design/masks/crew/guzzler.md)
     - [Mercenary](design/masks/crew/mercenary.md)
+    - [Mind Reader](design/masks/crew/mind-reader.md)
     - [Parasite](design/masks/crew/parasite.md)
     - [Phantom](design/masks/crew/phantom.md)
     - [Tracker](design/masks/crew/tracker.md)
