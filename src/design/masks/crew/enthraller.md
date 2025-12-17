@@ -39,5 +39,5 @@ Enthralling someone, in many cases, can lead to interesting situations. A traito
 
 ## Variants
 
-*Dubious Enthraller* - Objective given is to kill the Enthraller, rather than help them live. But the objective remains. What a conundrum!
+*Dubious Enthraller* - Objective given is to kill the Enthraller, rather than help them live. But the Enthraller's objective to enthrall people remains. What a conundrum!
 *Chaotic Enthraller* - Objective given is to prevent a random person's death, rather than the Enthraller's.
