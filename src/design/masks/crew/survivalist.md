@@ -15,7 +15,7 @@
 > *I've been preparing for situations like this my whole life. They didn't let me bring any of my prepper gear onboard except for my $16000 MedAlert system, and by god I'll use it.*
 
 ```admonish warning "Notes"
-It might be better if the device can be stolen? Although this acts as more of a hard confirm IMO, and stealing it from their corpse and trying to use it yourself to pass off as a survivalist would rarely ever work--it would mostly just be utility.
+It might be better if the device can be stolen? Although that acts as more of a hard confirm IMO, and stealing it from their corpse and trying to use it yourself to pass off as a survivalist would rarely ever work--it would mostly just be utility.
 ```
 
 ## Concept
