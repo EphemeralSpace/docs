@@ -31,6 +31,8 @@ The Enthraller has a player-targeting action, which causes a series of looping d
 
 If the action is successful, the action is put on a ~10(?) minute cooldown, and the target is given the objective mentioned above.
 
+This ability cannot be used on unconscious or dead players.
+
 ## Gameplay
 
 The Enthraller is a lite-Converter type mask that generally throws a wrench into things while not completely taking over roundflow. Because the objective doesn't state the Enthraller's name, multiple thralls may have to convene and share their clues to figure out who it is.

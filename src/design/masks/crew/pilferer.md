@@ -24,7 +24,9 @@ The Pilferer can steal random items from people's backpacks without being seen, 
 
 ## Abilities
 
-The Pilferer has a player-targeting action usable once per player, with a doafter that doesn't show up for others. They can activate this action only when out of sight of that player (i.e. in their viewcone's shadow, or more literally, when they're facing the same direction), taking ~1.5-2 seconds, failing if either of them move. If successful, this will pick a random item out of their backpack and place it into the Pilferer's hand.
+The Pilferer has a player-targeting action usable (successfully) once per player, with a doafter that doesn't show up for others. They can activate this action only when out of sight of that player (i.e. in their viewcone's shadow, or more literally, when they're facing the same direction), taking ~1.5-2 seconds, failing if either of them move. If successful, this will pick a random item out of their backpack and place it into the Pilferer's hand.
+
+This ability cannot be used on unconscious or dead players.
 
 ## Gameplay
 
