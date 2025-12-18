@@ -8,9 +8,9 @@
 >
 > **Archetypes:** N/A
 >
-> **Description:** Walk into grilles too many times in maintenance looking for your loot, then get saved by your handy NT MedAlert.
+> **Description:** Walk into grilles too many times in maintenance looking for your cache, then get saved by your handy NT MedAlert.
 >
-> **Objectives:** N/A
+> **Objectives:** Survive until the end of the round
 >
 > *I've been preparing for situations like this my whole life. They didn't let me bring any of my prepper gear onboard except for my $16000 MedAlert system, and by god I'll use it.*
 
@@ -26,9 +26,15 @@ The Survivalist is a very simple mask that mostly creates intrigue around themse
 
 The Survivalist spawns with a medical alert device implanted (no need to model this properly until surgery stuff) which announces over the radio whenever they enter critical condition or die and their general location (navbeacon proximity). This message uses the Survivalist's name.
 
+The Survivalist can also obtain a prepper's cache, which they can locate in maintenance. This cache is filled with basic utility items that are also feasibly available around the station--medkits, tools, a powerful flashlight, etc.
+
 ## Gameplay
 
 The Survivalist's ability means that others who attack them may have to panic and move or abandon the body to avoid being caught by others rapidly approaching their location, introducing an occasional element of intrigue that was mostly lost with the removal of greencomms and less ease of use for radios in general. This ability doesn't give out any information about the attacker--just attack location--so it can't really be used to metagame threats, unlike a regular radio call. It also is not a confirm that the survivalist was actually attacked--they could have simply walked into a grille or walked out into space by accident, and the ability gives them some leeway to hopefully be found.
+
+The Survivalist's cache provides ambiguity for other cache-bearing masks, like [Traitors](../traitors.md) or the [Veteran](./veteran.md). The cache's utility items mostly serve to provide stronger theming and direction, and the variation of what they actually get can influence how they approach surviving the round.
+
+The Survivalist's objective to survive the round is in addition to their Crew troupe objective of ensuring the station safely escapes the radstorm--they have a stronger drive to survive at all costs, disincentivizing the selfless sacrifice that other crew masks may engage in, and their ability and utility items help them in this process.
 
 Though the message is a very strong confirm to those who for-sure witness the Survivalist being downed at the same time, it is much more ambiguous for those that only see it over the radio or hear about it secondhand
 

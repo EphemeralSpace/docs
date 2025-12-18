@@ -18,7 +18,7 @@ The Guzzler serves the interests of the Space Beverage Sommelier Corporation (no
 
 ## Abilities
 
-The Guzzler can consume more liquids before their stomach is full, and the delay between consumption and metabolism is also lower. Furthermore, their maximum "sip size" for drinks and especially puddles is considerably larger, meaning their guzzling is more efficient.
+N/A.
 
 ## Gameplay
 
