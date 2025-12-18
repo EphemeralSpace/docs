@@ -62,6 +62,7 @@
     - [Arms Dealer](design/masks/crew/arms-dealer.md)
     - [Arsonist](design/masks/crew/arsonist.md)
     - [Avenger](design/masks/crew/avenger.md)
+    - [Blessed](design/masks/crew/blessed.md)
     - [Bomber](design/masks/crew/bomber.md)
     - [Cannibal](design/masks/crew/cannibal.md)
     - [Coveter](design/masks/crew/coveter.md)

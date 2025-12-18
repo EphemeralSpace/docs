@@ -12,6 +12,10 @@
 >
 > *I'm the bomber! Okay, wait, no, I'm--okay, that was just a reference, dude, it's literally a reference! You guys haven't seen Hunter X Hunter? What? Oh, you're only at the Heaven's Arena arc. The bomber is--he's like, he's from the Greed Island arc and he puts bombs on people and stuff. Anyway I lied and my bombs are super real and you should probably be really freaking scared right now.*
 
+```admonish warning "Notes"
+Janet brought up the idea of having the bombs be more physical items, taking the forms of 'giver' items like the fruits of the [Fruit Vendor](./fruit-vendor.md), which I really enjoy as it provides some ambiguity to those masks. Need to ponder the concept more before crystallizing it though.
+```
+
 ## Concept
 
 The Bomber is a deadly mask with similar mechanics to the [Tracker](./tracker.md).
