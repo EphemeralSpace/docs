@@ -16,6 +16,8 @@
 
 ```admonish warning "Notes"
 I'm not that concrete on the actual mechanics here TBH I thought about making it something like "choose a timeframe and choose life/death" and you get a dynamic amount of GambleBux for riskier bets or something but can't be assed
+
+Open to loosening the restriction on gambler-kills not counting for death bets, but it mostly comes down to how it playtests
 ```
 
 ## Concept
