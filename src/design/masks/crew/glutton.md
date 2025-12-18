@@ -18,7 +18,7 @@ The Glutton is a lover of all types of cuisine, and seeks out many types of new 
 
 ## Abilities
 
-The Glutton can consume more food before their stomach is full, and the delay between consumption and metabolism is also lower. Furthermore, their maximum "bite size" for food is considerably larger, and they can never be considered "overfed".
+N/A.
 
 ## Gameplay
 
