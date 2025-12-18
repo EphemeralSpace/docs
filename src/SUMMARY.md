@@ -77,6 +77,7 @@
     - [Insider](design/masks/crew/insider.md)
     - [Loyalist](design/masks/crew/loyalist.md)
     - [Mercenary](design/masks/crew/mercenary.md)
+    - [Mind Reader](design/masks/crew/mind-reader.md)
     - [Parasite](design/masks/crew/parasite.md)
     - [Phantom](design/masks/crew/phantom.md)
     - [Philanthropist](design/masks/crew/philanthropist.md)
