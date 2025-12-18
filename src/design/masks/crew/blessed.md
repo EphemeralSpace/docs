@@ -20,7 +20,7 @@ The Blessed is an exceptionally simple Jester-Murderer type mask, meant to dissu
 
 ## Abilities
 
-If the Blessed is killed by someone of their own troupe, their murderer will receive a popup informing them that they have gone against divine will, and that they will suddenly die, forcibly committing suicide, in 5 minutes.
+If the Blessed is killed by someone of their own troupe, their murderer will receive a UI quickdialog popup (not just popup text) informing them that they have gone against divine will, and that they will suddenly die, forcibly committing suicide, in 5 minutes.
 
 ## Gameplay
 
