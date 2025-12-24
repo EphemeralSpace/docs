@@ -4,7 +4,7 @@
 
 Clues are a type of in-game **knowledge** based around aspects of randomly generated characters.
 They include:
-- [Significant initial](naming.md (first/last/middle)
+- [Significant initial](naming.md) (first/last/middle)
 - Eye color
 - Hair color
 - Skin color
