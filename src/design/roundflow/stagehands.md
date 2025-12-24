@@ -1,6 +1,6 @@
 # Stagehands
 
-{{#template ../../templates/partially-implemented.md issue=https://github.com/EphemeralSpace/ephemeral-space/issues/70 }}
+{{#template ../../templates/partially-implemented.md issue=https://github.com/EphemeralSpace/ephemeral-space/issues/70}}
 
 Stagehands are an OOC role that players can take after they die.
 They take the place of the conventional observer/ghost, though they share a lot of the same properties.
