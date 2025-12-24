@@ -34,6 +34,7 @@
   - [Lobby & Readying Up](design/roundflow/lobby-readying-up.md)
   - [Roundstart, Arrivals, & Latejoining](design/roundflow/roundstart-arrivals-latejoining.md)
   - [Ghost Roles & The Ghost Bar]()
+  - [Stagehands](design/roundflow/stagehands.md)
   - [Evac & Roundend]()
 - [Power]()
   - [Antimatter Engine](design/power/antimatter-engine.md)
