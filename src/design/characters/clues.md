@@ -4,13 +4,14 @@
 
 Clues are a type of in-game **knowledge** based around aspects of randomly generated characters.
 They include:
-- Significant initial (first/last/middle)
+- [Significant initial](naming.md (first/last/middle)
 - Eye color
 - Hair color
 - Skin color
 - Age descriptor (young/middle-aged/old)
 - Star sign
 - Misc. physical trait
+- [Personality traits](../characters.md)
 
 Players can view their own clues through the **character menu** and can see visible clues about another person by examining them.
 Note that the ability to see clues is influenced by identity, so if someone is concealing their eyes, their eye color cannot be identified.
@@ -49,3 +50,4 @@ This creates a type of clue which, while it helps narrow down deduction, require
 On the other hand, something like someone's star sign may be much harder to find.
 Truly knowing it may be impossible short of it being told directly or gaining access to secure personnel records.
 This creates a much more lucrative clue, however, as hunting it down and deducing it gives you significantly more useful information than something like age.
+As such, people might be incentivized to take further reaches to learn it, seeking out [oracle masks](../masks.md) or employing the help of roles like the [bartender](../jobs/roles/bartender.md).
