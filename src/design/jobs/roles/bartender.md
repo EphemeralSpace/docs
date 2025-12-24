@@ -18,8 +18,9 @@ Ultimately, however, these are simply above-and-beyond options for the bartender
 At the most basic level, they should always have the ability to mix up basic cocktails to satisfy thirst.
 
 ## Every Drink is Personalized
-Engaging with the unique mechanics of Ephemeral Space, the Bartender's drinks are tailored towards a (randomly-generated) character's individual traits.
-Unlike a chef's meal, where the efficacy is determined by the sourcing of ingredients, a great Bartender must carefully analyze his customer and craft a drink that meets their specific tastes.
+Engaging with the unique mechanics of Ephemeral Space, the Bartender's drinks are tailored towards a character's (_randomly-generated_) [clues](../../characters/clues.md).
+Unlike a chef's meal, where the efficacy is determined by the sourcing of ingredients, a great Bartender must exchange information with their customer and craft a drink that meets their specific tastes.
 
-While the lowest-impact drinks can be based on superficial elements (job, appearance, etc.), as the strength of effect goes up, so to must the obscurity of information about it.
-Players are encouraged to communicate the various parts of their personality and explore their character in order to maximize the efficacy of their drink.
+While the lowest-impact drinks can be based on superficial elements (job, appearance, etc.), as the strength of effect goes up, so too must the obscurity of the clues.
+This creates a tilting scale of information exchange, whereby giving the bartender more potentially identifying information about yourself, you receive more useful effects and buffs.
+As such, the bartender becomes an extremely dynamic and interesting alternate source of player information, as they are able to give tons of useful clues about individuals they've served.

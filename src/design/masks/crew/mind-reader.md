@@ -21,12 +21,7 @@ This includes their name, original shift-start appearance, and hidden details ab
 
 ## Abilities
 The mind reader has an ability similar to the [connoisseur](connoisseur.md) and [enthraller](enthraller.md) which can target any living player in order to learn information about their true identity.
-Each successive DoAfter reveals more and more personal information, escalating in the following order:
-1. Original eye color
-2. Original hair (style and color)
-3. True name
-4. Identifying features (scars, tattoos)
-5. Personality traits
+Each successive DoAfter reveals more and more useful [clues](../../characters/clues.md) about the player.
 
 If the mind reader is interrupted during this process, the mind reading will cancel, stunning them and applying a cooldown to the ability.
 If uninterrupted, once all the information has been read, the mind reader will exit the ability with no downsides.

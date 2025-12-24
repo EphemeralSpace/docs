@@ -25,17 +25,17 @@ The Insider is an oracle mask that receives information about others in a cache,
 
 ## Abilities
 
-No abilities. Only equipment is the cache information, which is in the form of a list of "clues" about specific people, which takes a form something like this:
+No abilities. Only equipment is the cache information, which is in the form of a list of [clues](../../characters/clues.md) about specific people, which takes a form something like this:
 
 ```
-Info on "P": 
+Info on "P":
 Black hair
 Green eyes
 Male
 Not crew
 ```
 
-Clues can be things like physical information, a letter in their name, or [personality traits](../../characters.md). Information about a person always states whether they are part of the crew or a different troupe.
+Information about a person always states whether they are part of the crew or a different troupe.
 
 ## Gameplay
 
