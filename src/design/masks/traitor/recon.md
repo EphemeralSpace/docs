@@ -4,7 +4,7 @@
 
 > **Name: Recon**
 >
-> **Troupe:** [Traitor](../traitor.md)
+> **Troupe:** [Traitor](../traitors.md)
 >
 > **Description:** Use your special items to gain intel. Relay your intel to other traitors or use it to act at the perfect time.
 >

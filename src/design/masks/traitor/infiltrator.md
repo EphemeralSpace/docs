@@ -4,7 +4,7 @@
 
 > **Name: Infiltrator**
 >
-> **Troupe:** [Traitor](../traitor.md)
+> **Troupe:** [Traitor](../traitors.md)
 >
 > **Description:** Decieve people with your chameleon kit. Break in to places.
 >

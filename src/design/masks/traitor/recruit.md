@@ -4,7 +4,7 @@
 
 > **Name:** Recruit
 >
-> **Troupe:** [Traitor](../traitor.md)
+> **Troupe:** [Traitor](../traitors.md)
 >
 > **Description:** Help out the traitors that converted you.
 >

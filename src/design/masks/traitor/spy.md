@@ -4,7 +4,7 @@
 
 > **Name: Spy**
 >
-> **Troupe:** [Traitor](../traitor.md)
+> **Troupe:** [Traitor](../traitors.md)
 >
 > **Description:** Sneak around using your stealth suit. Gain a massive positional advantage as long as you have suit charge.
 >

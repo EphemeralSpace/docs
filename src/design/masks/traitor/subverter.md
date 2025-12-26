@@ -4,7 +4,7 @@
 
 > **Name:** Subverter
 >
-> **Troupe:** [Traitor](../traitor.md)
+> **Troupe:** [Traitor](../traitors.md)
 >
 > **Description:** Assassinate people & recruit them in to your troupe.
 >

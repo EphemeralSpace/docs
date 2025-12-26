@@ -4,7 +4,7 @@
 
 > **Name: Marauder**
 >
-> **Troupe:** [Traitor](../traitor.md)
+> **Troupe:** [Traitor](../traitors.md)
 >
 > **Description:** Engage in loud, brute force assasinations and combat.
 >

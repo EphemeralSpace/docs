@@ -4,7 +4,7 @@
 
 > **Name: Assassin**
 >
-> **Troupe:** [Traitor](../traitor.md)
+> **Troupe:** [Traitor](../traitors.md)
 >
 > **Description:** Silently pick off individual targets with ease.
 >
