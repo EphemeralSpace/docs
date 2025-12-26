@@ -19,14 +19,12 @@ While the more powerful rare items in each cache should be immediately identifia
 This is so that, while finding a core piece of someone's kit is a tell, simply seeing someone fire a gun or blow up a structure doesn't immediately identify them.
 
 ## Objectives
-All players in the traitor troupe, regardless of mask type, share a pool objectives, reminiscent of traditional space station traitor objectives.
+All players in the traitor troupe, regardless of mask type, share a pool objectives.
 These objectives generally involve extraction, including things like:
-- Kill a specific player
-- Steal the medical records data
-- Steal the sensitive crew manifest data from the ID console
-- Steal the station trajectory from the communications console
-- Steal the security records data from the security records console
-- Steal the encrypted communications logs from telecomms
+- Kill a specific player & siphon the data from their brain chip
+- Sabotage a piece of important machinery
+- Siphon data from a piece of important machinery
+- Bug a department and activate a greytide virus
 
 While these objectives are dynamic and can vary in what they request from round-to-round, one objective is static and omni-present: the detonation of the station's nuke - the final capstone to end the syndicate's perfect heist.
 Each of these objectives should not be enough to sound the alarm bells of the presence of the syndicate, but rather when observed as a pattern, should cause the station to be wary.
