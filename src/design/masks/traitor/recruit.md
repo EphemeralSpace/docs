@@ -4,7 +4,7 @@
 
 > **Name:** Recruit
 >
-> **Troupe:** [Traitor](https://github.com/EphemeralSpace/docs/blob/master/src/design/masks/traitors.md)
+> **Troupe:** [Traitor](../traitor.md)
 >
 > **Description:** Help out the traitors that converted you.
 >

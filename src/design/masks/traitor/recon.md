@@ -4,7 +4,7 @@
 
 > **Name: Recon**
 >
-> **Troupe:** [Traitor](https://github.com/EphemeralSpace/docs/blob/master/src/design/masks/traitors.md)
+> **Troupe:** [Traitor](../traitor.md)
 >
 > **Description:** Use your special items to gain intel. Relay your intel to other traitors or use it to act at the perfect time.
 >

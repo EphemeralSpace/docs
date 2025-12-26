@@ -4,7 +4,7 @@
 
 > **Name: Infiltrator**
 >
-> **Troupe:** [Traitor](https://github.com/EphemeralSpace/docs/blob/master/src/design/masks/traitors.md)
+> **Troupe:** [Traitor](../traitor.md)
 >
 > **Description:** Decieve people with your chameleon kit. Break in to places.
 >

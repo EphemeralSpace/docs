@@ -4,7 +4,7 @@
 
 > **Name: Marauder**
 >
-> **Troupe:** [Traitor](https://github.com/EphemeralSpace/docs/blob/master/src/design/masks/traitors.md)
+> **Troupe:** [Traitor](../traitor.md)
 >
 > **Description:** Engage in loud, brute force assasinations and combat.
 >
