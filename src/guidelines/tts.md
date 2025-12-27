@@ -2,7 +2,7 @@
 
 The following is a set of instructions on how to create announcement TTS audio for Ephemeral Space.
 
-## Requirements
+## Tools
 
 - Copy of **Fruity Loops Studio** (FL Studio 2025 Producer Edition was used for this guide)
 - Free FL Studio plugin **Krush**
