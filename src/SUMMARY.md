@@ -52,6 +52,7 @@
 - [Masks](design/masks.md)
   - [Traitors](design/masks/traitors.md)
     - [Assassin](design/masks/traitor/assassin.md)
+    - [Demolitionist](design/masks/traitor/demolitionist.md)
     - [Infiltrator](design/masks/traitor/infiltrator.md)
     - [Marauder](design/masks/traitor/marauder.md)
     - [Recon](design/masks/traitor/recon.md)
