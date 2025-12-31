@@ -4,7 +4,7 @@
 
 > **Name: Spy**
 >
-> **Troupe:** [Traitor](https://github.com/EphemeralSpace/docs/blob/master/src/design/masks/traitors.md)
+> **Troupe:** [Traitor](../traitors.md)
 >
 > **Description:** Sneak around using your stealth suit. Gain a massive positional advantage as long as you have suit charge.
 >

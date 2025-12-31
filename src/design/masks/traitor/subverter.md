@@ -4,7 +4,7 @@
 
 > **Name:** Subverter
 >
-> **Troupe:** [Traitor](https://github.com/EphemeralSpace/docs/blob/master/src/design/masks/traitors.md)
+> **Troupe:** [Traitor](../traitors.md)
 >
 > **Description:** Assassinate people & recruit them in to your troupe.
 >

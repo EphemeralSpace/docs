@@ -4,7 +4,7 @@
 
 > **Name: Assassin**
 >
-> **Troupe:** [Traitor](https://github.com/EphemeralSpace/docs/blob/master/src/design/masks/traitors.md)
+> **Troupe:** [Traitor](../traitors.md)
 >
 > **Description:** Silently pick off individual targets with ease.
 >
