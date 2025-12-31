@@ -29,6 +29,7 @@
   - [Examining]()
 - [Characters](design/characters.md)
   - [Naming](design/characters/naming.md)
+  - [Clues](design/characters/clues.md)
   - [Backstories]()
   - [Relationships]()
   - [Traits]()
