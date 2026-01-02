@@ -78,6 +78,7 @@
     - [Guzzler](design/masks/crew/guzzler.md)
     - [Insider](design/masks/crew/insider.md)
     - [Loyalist](design/masks/crew/loyalist.md)
+    - [Malingerer](design/masks/crew/malingerer.md)
     - [Martyr](design/masks/crew/martyr.md)
     - [Mercenary](design/masks/crew/mercenary.md)
     - [Mind Reader](design/masks/crew/mind-reader.md)
