@@ -52,3 +52,13 @@ public sealed class ESTestCasePrototype : IPrototype
 ### ID Prefixes
 
 All prototypes should have their ID's prefixed with "ES".
+
+## Spriting Conventions
+
+### RSIs
+
+New sprites made for Ephemeral Space should always be placed inside new RSIs in mirrored directories, similar to prototypes.
+
+If a sprite replaces a pre-existing sprite in the game, it's fine to simply replace the entire RSI.
+However, this should only be done if the new RSI is entirely replaced and is not likely to be modified again in the future.
+RSIs that are frequently modified (`computers.rsi`, `module.rsi`, `pda.rsi`) should never be modified in part, as they are likely to cause conflicts that are difficult to resolve.
