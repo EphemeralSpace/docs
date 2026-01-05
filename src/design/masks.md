@@ -43,7 +43,7 @@ Any item that a given mask is interested in should also be something that a typi
 
 ## Organization
 
-### Troupes {.es-unimplemented }
+### Troupes
 Troupes are unique in that all members of a given troupe receive shared objectives.
 This means that, at least on a macro-level, the members of a troupe should not generally be working against one another.
 
@@ -97,7 +97,7 @@ Sometimes, variants can be interesting enough to warrant an entire new mask expl
 Masks are given out immediately when players spawn, whether on the transport shuttle or just through cryo.
 All players receive a mask, regardless of role (though certain roles may be prohibited from being members of certain factions).
 
-The mask that you receive is fully random, dependent only on the troupes that have been selected to spawn onboard the station.
+The mask that you receive is determined by the current [Masquerade](masquerades.md), players are given a mask randomly from the set of masks the masquerade generated. Players **cannot** influence what mask they are given.
 
 ### Mask Tokens {.es-unimplemented }
 At the end of a round, if you've successfully complete your objectives, you receive a **mask token** that's associated with your account.
