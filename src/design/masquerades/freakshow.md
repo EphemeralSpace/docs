@@ -16,3 +16,6 @@ Freakshow should look and feel like a traitors round at the start without actual
 
 ## Meta-game impact
 Freakshow is intended to make people second-guess if traitors are even present in a round at all, adding further deniability for them to leverage if they keep their behavior clean of hard tells. This relies on freakshow being similarly chaotic to a traitors round, so strong troublemaker masks are necessary.
+
+## Remarks
+As written, with the masks currently in the game, freakshow is not terribly interesting. How do we fix this?

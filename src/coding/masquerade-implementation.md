@@ -28,6 +28,8 @@ If you, for example, wanted to swap out a specific role entry (say, `ESVIP`) for
 
 to remove the entry and add a new one in the same list. The order does not matter.
 
+Note that subtraction works on exact match. If you have an entry `Foo/Bar/Baz` and then try to `-Foo/Bar`, that subtraction would not affect `Foo/Bar/Baz` at all, only an *exactly matching* `Foo/Bar` entry. The number of times to repeat the entry `(3)` is not considered as part of whether an entry matches another entry, and duplicate entries are automatically summed.
+
 ### Mask Sets
 A mask set is a collection of masks to pick from (like `Foo/Bar/Baz` is) with much finer control. Mask sets are prototypes, and can either use a weighted list of masks to pick from, or special mask set providers like `ESTroupeMasksProvider` to determine what masks they contain.
 
