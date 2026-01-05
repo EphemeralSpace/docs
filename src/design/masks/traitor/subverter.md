@@ -10,7 +10,7 @@
 >
 > **Objectives:** The same ones every traitor gets.
 >
-> **Masquerade notes:** High strength, you probably only want one high strength traitor per round.
+> **Masquerade notes:** High strength, you probably only want one high strength traitor in a masquerade.
 >
 > *Here, take my spare pistol and go kill people. I've already shown you how to do it.*
 

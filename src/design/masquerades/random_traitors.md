@@ -1,4 +1,18 @@
-{{#template ../../templates/implemented.md}}
-
 # Random (Traitors)
-A simple masquerade designed to imitate the pre-masquerades randomized experience, it should be relatively rare with a balanced traitor to pop ratio. All crew, even latejoiners, should be given a random mask. While this isn't particularly balanced, having it helps ensure it's harder to pin down the exact masquerade in play (Is it red carpet, or are we just in hell) and may also lead to (rare) good random mask selections that can inspire new masquerades.
+
+{{#template ../../templates/implemented.md }}
+
+> **Name:** Random (Traitors)
+>
+> **Troupes:** [Crew](../masks/crew.md), [Traitors](../masks/traitors.md)
+>
+> **Description:** A purely random traitors round.
+
+## Concept
+A fully random selection of masks focused on traitors as the main antagonistic force.
+
+## Gameplay
+Roughly, the same as the [Traitors masquerade](../masquerades/traitors.md) with much higher variance on crew masks.
+
+## Meta-game impact
+Random can, in theory, look like a majority of masquerades without actually being any of them. While this isn't *likely*, it does mean you can't entirely eliminate possibilities, just be quite certain.

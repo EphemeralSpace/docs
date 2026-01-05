@@ -1,4 +1,4 @@
-{{#template ../templates/partially-implemented.md}}
+{{#template ../templates/partially-implemented.md issue=https://github.com/EphemeralSpace/ephemeral-space/issues/820}}
 
 # Masquerades
 A masquerade is something of a cross between a gamemode (like Traitors, Nukies, Wizard, and the likes in traditional SS1X spaces), and a selection of jobs like one has for a station.
@@ -13,7 +13,5 @@ Masquerades, as such, define the following:
 ## Round flow
 Masquerades are randomly selected <span class="es-unimplemented">or voted on by the players for select, vote-only masquerades.</span> <span class="es-partially-implemented">Masks are selected, then jobs,</span> and the round begins with the selected masquerade's rules started. <span class="es-unimplemented">The masquerade may optionally reveal itself at round start if strategizing for it is important.</span> 
 
-At the end of the round, the masquerade is listed by name and described to the players.
+At the end of the round, the masquerade is listed by name and described to the players. The masks selected by the masquerade are implied by the round end screen, <span class="es-unimplemented">But should be restated, including which players started as what, in case of conversion masks.</span> 
 
-## Traitor Masquerade Balance
-Currently, traitor rounds are expected to have no fewer than 2 traitors at 6 players, and the "baseline" for traitors is one every six players, starting at 13 (so a new traitor at 13, 19, 25, and 31 players). A 

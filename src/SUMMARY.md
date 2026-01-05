@@ -8,6 +8,7 @@
 # Coding
 ---
 - [Conventions](coding/code-conventions.md)
+- [Masquerade implementation](coding/masquerade-implementation.md)
 
 # Guidelines
 ---
@@ -98,6 +99,9 @@
 - [Masquerades](design/masquerades.md)
   - [Random (Traitors)](design/masquerades/random_traitors.md)
   - [Traitors](design/masquerades/traitors.md)
+  - [Freakshow](design/masquerades/freakshow.md)
+  - [Showdown](design/masquerades/showdown.md)
+  - [Red Carpet](design/masquerades/red-carpet.md)
 - [Station Events](design/station-events.md)
 - [Machine Degradation](design/machine-degradation.md)
 - [Wildcards](design/wildcards.md)
