@@ -37,3 +37,6 @@ A mask set is a collection of masks to pick from (like `Foo/Bar/Baz` is) with mu
 
 ### Traitor Masquerade Balance
 Currently, traitor rounds are expected to have no fewer than 2 traitors at 6 players, and the "baseline" for traitors is one every six players, starting at 13 (so a new traitor at 13, 19, 25, and 31 players). Additionally, one "high strength" traitor (the PowerTraitors maskset, as of writing) may be introduced at the 20-22 player mark. These are not hard rules, just the guidelines currently followed as of writing.
+
+### Minimum and maximum players
+The minimum one can feasibly play the game with is around 6, and masquerades aren't required to support more than 35 players. Masquerades for smaller player counts likely need very specific focus and design around those player counts, as the game doesn't really work with so few people.
