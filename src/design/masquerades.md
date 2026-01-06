@@ -1,6 +1,7 @@
+# Masquerades
+
 {{#template ../templates/partially-implemented.md issue=https://github.com/EphemeralSpace/ephemeral-space/issues/820}}
 
-# Masquerades
 A masquerade is something of a cross between a gamemode (like Traitors, Nukies, Wizard, and the likes in traditional SS1X spaces), and a selection of jobs like one has for a station.
 
 Masquerades determine what [masks](masks.md) and gamerules will be in a round, allowing for much finer control over masks than simple random selection (though that exists too, with the [Random (traitors)](masquerades/random_traitors.md) masquerade.) and providing significant control over the direction of social deduction to rounds.
