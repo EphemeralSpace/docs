@@ -1,6 +1,6 @@
 # Kill
 
-{{#template ../templates/partially-implemented.md}}
+{{#template ../../../templates/partially-implemented.md}}
 
 > *ATTENTION, OPERATIVE. The captain is carrying valuable corporate secrets about the Syndicate that would compromise your mission. Make absolutely certain that they're dead before you arm the nuclear warhead.*
 
