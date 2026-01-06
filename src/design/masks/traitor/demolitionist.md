@@ -12,6 +12,8 @@
 >
 > **Objectives:** The same ones every traitor gets
 >
+> **Masquerade notes:** High strength, you probably only want one high strength traitor in a masquerade.
+>
 > *"\*cough\*... You know.. what makes me.. a good demoman..?"*
 >
 > *Automated Station Alert System: Explosion detected portside. Three security officers are in critical condition.*

@@ -12,6 +12,8 @@
 >
 > **Objectives:** (List only mask-specific objectives)
 >
+> **Masquerade notes:** (Notes for masquerade authorship, like when to use this mask, if applicable. N/A otherwise)
+>
 > *(A sentence of flavor text of character dialogue someone with this mask might say in-character)*
 
 ## Concept
