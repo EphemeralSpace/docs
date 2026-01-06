@@ -8,7 +8,7 @@
 # Coding
 ---
 - [Conventions](coding/code-conventions.md)
-- [Masquerade implementation](coding/masquerade-implementation.md)
+- [Masquerade Implementation](coding/masquerade-implementation.md)
 
 # Guidelines
 ---
