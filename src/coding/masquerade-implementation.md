@@ -1,5 +1,5 @@
 # Masquerade implementation
-
+This is assorted notes for how Masquerades actually work in the game as currently programmed, their concept doc is [here](../design/masquerades.md). You probably want this if you're implementing new masquerades or fine tuning their balance.
 ## Authoring
 ### Mask selection
 A masquerade's mask collection is defined by a list of masks to add and remove at given player counts:
