@@ -1,4 +1,4 @@
-# Masquerade implementation
+# Masquerade Implementation
 
 ## Authoring
 ### Mask selection
