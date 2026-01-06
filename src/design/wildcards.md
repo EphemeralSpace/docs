@@ -1,6 +1,6 @@
 # Wildcard Roles
 
-{{#template ../templates/unimplemented.md}}
+{{#template ../templates/removed.md reason=Wildcards as a whole are an aspect of multistation oriented thinking that no longer fits ES's wider design. In particular they don't mesh well with Masquerades, and create isolated pockets of gameplay separate from the wider game. They were never implemented.}}
 
 A portion of the station, at roundstart, are selected to be Wildcards--pawns in the round that are external to the main crew experience. These can include things like:
 - Solo free agent roles (shitty pod guy)

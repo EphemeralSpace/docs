@@ -100,6 +100,8 @@ All players receive a mask, regardless of role (though certain roles may be proh
 The mask that you receive is determined by the current [Masquerade](masquerades.md), players are given a mask randomly from the set of masks the masquerade generated. Players **cannot** influence what mask they are given.
 
 ### Mask Tokens {.es-unimplemented }
+{{#template ../templates/removed-subsection.md reason=Mask tokens kind of directly conflict with Masquerades. You can't both pick your own mask, and also have a focused game style in play.}}
+
 At the end of a round, if you've successfully complete your objectives, you receive a **mask token** that's associated with your account.
 Between rounds, a few round's worth of tokens can be redeemed to pre-select your mask before the round begins.
 
