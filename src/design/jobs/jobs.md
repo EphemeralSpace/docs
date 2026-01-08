@@ -3,8 +3,21 @@
 Jobs are non-hidden roles that are randomly assigned to players every round which are defined through a combination of [clothing](../clothing.md), access, and (sometimes) unique abilities.
 They are then sorted into departments, groups of jobs which share common mechanics, gameplay, and thematic elements.
 
-Each job is not a collection of dedicated specialized feature, but rather a general "pass" to manage a certain mechanic within the game.
-In this sense, jobs do not really have dedicated content which is meant to satiate their players, but rather they are simply the primary group expected to engage with a given mechanic.
+Additionally, jobs function as a type of psychological scaffolding, pushing players to interact with different parts of the game and restricting general access to locations and mechanics.
+This helps create contrast between different parts of the game, as the accessibility of a given area becomes a tangible aspect of its design.
+
+While jobs may also have various game mechanics _associated_ with them, this is not necessarily a vital aspect of their design.
+Something like the Clown does not really have any unique or stand-out requirements or duties on the station.
+However, since it's such a strong thematic element that pushes player interaction in a unique way, it still stands out.
+
+```admonish danger "Job Content"
+A common trap when thinking about jobs is the idea of "job content" as a discrete element separate from mechanics.
+Put plainly, jobs are supposed to house mechanics that exist naturally throughout the game.
+While they may have unique features and game elements which aid them in doing this, their core interactions should not revolve around isolated systems.
+
+A failure of this would be something like traditional economic Cargo, where the core mechanic of "economy" and purchasing things ends up being entirely restricted to Cargo.
+This creates a subgame that has limited player input during the round.
+```
 
 ## Proactive v. Reactive
 
