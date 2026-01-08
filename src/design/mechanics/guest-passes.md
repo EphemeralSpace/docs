@@ -12,6 +12,7 @@ To prevent them from acting as entirely free access, guess passes have a few key
 
 To start - guest pass machines should be locked to places where the guest pass cannot access, such as locker rooms.
 The reason for this is to prevent self-renewal (at least without hacking in to the room,) while still allowing for the user to initiate a pass by themselves if given access to the machine.
+
 If the machine was access locked, the person granting the access would immediately have complete control over the user's ID, which would likely be fairly abusable & erode trust in the mechanic. Access-locked machines are also just generally worse for emergent gameplay, as they intrinsically snuff out opprutunities to use mechanics illicitly, at least not without exerting great effort.
 
 The guest pass history is also a multi-faceted design element - it helps the social deduction around the use of the mechanic in a lot of ways, potentially acting as a paper trail to a suspicious action, or a red-handed giveaway towards anyone brazen enough to abuse the machine repeatedly.
