@@ -34,7 +34,7 @@ This enhances the general decay of the station, as the duties of the collective 
 Ultimately, this is something we want to lean into.
 By emphasizing the absence of a job, we create greater stakes when people die, amplifying the gravity of things happening on-board the station.
 After a role dies, there should be a real feeling of "Oh shit, X is gonna be so much worse now."
-The game is ultimately about our relationships and interactions with others, and by making these links important, we refine this core aspect of the game's design.
+The game is about our relationships and social dependencies on others, and by making these dependencies important, we strengthen the core appeal of the game.
 
 ## Deduction
 
