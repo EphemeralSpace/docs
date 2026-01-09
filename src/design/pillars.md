@@ -15,12 +15,11 @@ An example of a mechanic which is not social by nature but still creates social 
 There's nothing inherently social about needing to eat and drink regularly, but by virtue of having jobs and systems dedicated to making and giving out food, the experience becomes social.
 ```
 
-## Ambiguous Game State
+## Social Deduction
 The experience of Ephemeral Space is heavily built upon systems where individuals are not aware of the allegiance or motives of others.
 Similarly, mechanics should always strive to create ambiguous situations for players to play in.
 
-The game should always strive to create situations where the events happening on station have plausible deniability.
-It's within this realm of ambiguity that the core gameplay of social deduction and intrigue can really shine.
+By complicating the "questions" of the game, we create gameplay in "answering" them, forcing players to live, observe, and immerse themselves in the environment of the station.
 
 ## Continuous Decay
 A round of Ephemeral Space should always be on a constant trend towards a final point.

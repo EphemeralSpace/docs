@@ -46,7 +46,7 @@
 - [Combat]()
 - [Stats]()
 ---
-- [Jobs]()
+- [Jobs](design/jobs/jobs.md)
   - [Departments]()
     - [Supply](design/jobs/departments/supply.md)
   - [Bartender](design/jobs/roles/bartender.md)
