@@ -88,6 +88,7 @@
     - [Insider](design/masks/crew/insider.md)
     - [Loyalist](design/masks/crew/loyalist.md)
     - [Martyr](design/masks/crew/martyr.md)
+    - [Masochist](design/masks/crew/masochist.md)
     - [Mercenary](design/masks/crew/mercenary.md)
     - [Mind Reader](design/masks/crew/mind-reader.md)
     - [Parasite](design/masks/crew/parasite.md)
