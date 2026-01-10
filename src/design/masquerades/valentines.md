@@ -2,11 +2,11 @@
 
 {{#template ../../templates/unimplemented.md }}
 
-> **Name:** 
+> **Name:** Valentines
 >
-> **Troupes:** (Add links, there's probably more than one.)
+> **Troupes:** [Crew](../masks/crew.md), [Traitors](../masks/traitors.md)
 >
-> **Description:** (1-2 sentence description of what this masquerade does in terms of design.)
+> **Description:** Make as large of a polycule as possible to win together! Or don't.
 >
 > **Specialties:** [Matchmaker](../masks/crew/matchmaker.md)
 
