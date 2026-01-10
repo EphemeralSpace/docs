@@ -1,18 +1,16 @@
-# Mask Name
+# Matchmaker
 
 {{#template ../../../templates/unimplemented.md }}
 
-> **Name:**
+> **Name:** Matchmaker
 >
-> **Troupe:** (Add link)
+> **Troupe:** [Crew](../crew.md)
 >
-> **Archetypes:** (If applicable, N/A otherwise)
->
-> **Description:** (1-2 sentence description of what this mask thematically represents)
+> **Description:** Doom two people to be lovers, bask in your knowledge as they both die horribly.
 >
 > **Objectives:** Use your ability.
 >
-> **Masquerade notes:** This role should not be featured in most masquerades.
+> **Masquerade notes:** This role should not be featured regularly.
 >
 > *I think I'm gonna ship you two. It's legally binding, congratulations on your new spouse!*
 
