@@ -2,8 +2,6 @@
 
 {{#template ../templates/unimplemented.md}}
 
-the machine make gas!! metal rust and go boom. bad for crew so crew repairs.
-
 ## Core Idea(s)
 **The lathe should be the main source of new items to the station.**
 The lathe produces water vapour at scalding temperatures and high pressures. The water vapour will then reduce the condition of touching machines(?) and walls via rust.
