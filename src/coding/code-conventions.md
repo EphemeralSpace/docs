@@ -38,13 +38,22 @@ All classes and structs should be prefixed with "ES".
 
 ### Prototype Prefixes
 
-Prototypes, like other classes, should be prefixed with "ES".
-The `PrototypeAttribute` needs to be specified to include the correct casing.
+Prototypes, like other classes, should be prefixed with "ES". The name must be explicitly specified in the `PrototypeAttribute` to prevent improper casing.
 
-EX:
+Bad:
+```csharp
+[Prototype]
+public sealed class ESTestCasePrototype : IPrototype
+
+// This prototype becomes named "eSTestCase" (bad)
+```
+
+Good:
 ```csharp
 [Prototype("esTestCase")]
 public sealed class ESTestCasePrototype : IPrototype
+
+// This prototype becomes named "esTestCase" (good)
 ```
 
 ## YAML Conventions
