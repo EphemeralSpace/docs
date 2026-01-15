@@ -2,7 +2,7 @@
 
 {{#template ../../../../templates/unimplemented.md}}
 
-The lathe is a single Large structure that can't be moved.**It is the main source of new items to the station.** To control the lathe, a cargo tech must walk into the room and interact with it directly.
+The lathe is a large immovable structure that functions as the main source of new items on the station. When interacted with by a player, it can transform materials into a variety of tools and supplies.
 
 Having a solitary source of items makes the lathe and cargo by extension very special; the station is relying on cargo to keep this machine running to have components to maintain the station. Simultaneously, cargo must battle the station degredation on their own front. This applies mounting pressure onto cargo as the round progresses due to the degredation of the station, which increases demand for the products.
 
