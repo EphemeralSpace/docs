@@ -18,9 +18,9 @@ The lathe has both a lower and higher temperature/pressure bound on running. The
 ## Rust
 Rust forms on walls, airlocks, tiles and atmos objects when exposed to water vapour. The water vapour is *not* consumed in this process - as long as it isn't dealt with it will fester. Rust functions as an enabling force for other degredation sources, such as a fire spreading through a rusted open wall.
 
-Generally rust reduces maximum health, increasing as the object becomes more rusted. At a certain level, the object spreads rust to adjacent objects - but only while it itself is being rusted. Once totally rusted, it becomes useless, in whatever form that manifests for the object. Repairing rust is done with a welder and takes longer the higher the tier of rusting is - At the same level where rust starts to spread through it, it is no longer repairable and does not return any materials upon deconstruction.
- - Walls are the main target of rust. At some point past the rust spreading level, gas can pass through and then at the limit it finally disintegrates.
- - Doors bolts rust stuck, the door rusts stuck and finally, similar to walls, it becomes gas passable.
+Generally rust reduces maximum health, increasing as the object becomes more rusted. At a certain level, the object spreads rust to adjacent objects - but only while it itself is being rusted. Once fully rusted, it becomes useless, in whatever form that manifests for the object. Repairing rust is done with a welder and takes longer the higher the tier of rusting is - At the same level where rust starts to spread through it, it is no longer repairable and does not return any materials upon deconstruction.
+ - Walls are the main target of rust. At some point past the rust spreading level, gas can pass through, which makes the wall no longer occlude (The sprite should also change to refelct this) and when fully rusted it finally disintegrates.
+ - Doors rust shut which means they have to be pried open with a crowbar, and when fully rusted they must be derusted to be opened.
  - Tiles are mainly to signal that other objects nearby could've been rusted as well, their effects are entirely cosmetic.
- - Atmos devices limit the throughput; this is to allow the water vapour to persist longer if left in large quantities and unmanaged.
+ - Atmos devices limit the throughput; this is to allow the water vapour to persist longer if left in large quantities and unmanaged. When fully rusted, they become fully blocked.
 
