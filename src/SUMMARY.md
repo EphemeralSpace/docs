@@ -49,6 +49,7 @@
 - [Jobs](design/jobs/jobs.md)
   - [Departments]()
     - [Supply](design/jobs/departments/supply.md)
+      - [Lathe](design/jobs/departments/supply/lathe.md)
   - [Bartender](design/jobs/roles/bartender.md)
   - [Scientist](design/jobs/roles/scientist.md)
 - [Objectives]()
