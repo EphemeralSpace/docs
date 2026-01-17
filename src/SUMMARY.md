@@ -79,6 +79,7 @@
     - [Coveter](design/masks/crew/coveter.md)
     - [Connoisseur](design/masks/crew/connoisseur.md)
     - [Daredevil](design/masks/crew/daredevil.md)
+    - [Doombringer](design/masks/crew/doombringer.md)
     - [Empath](design/masks/crew/empath.md)
     - [Enthraller](design/masks/crew/enthraller.md)
     - [Fruit Vendor](design/masks/crew/fruit-vendor.md)
