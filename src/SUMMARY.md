@@ -40,6 +40,8 @@
   - [Ghost Roles & The Ghost Bar]()
   - [Stagehands](design/roundflow/stagehands.md)
   - [Evac & Roundend]()
+- [Mechanics]()
+  - [Guest Passes](design/mechanics/guest-passes.md)
 - [Power]()
   - [Antimatter Engine](design/power/antimatter-engine.md)
 - [Clothing](design/clothing.md)
