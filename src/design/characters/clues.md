@@ -1,6 +1,6 @@
 # Clues
 
-{{#template ../../templates/unimplemented.md}}
+{{#template ../../templates/implemented.md}}
 
 Clues are a type of in-game **knowledge** based around aspects of randomly generated characters.
 They include:
