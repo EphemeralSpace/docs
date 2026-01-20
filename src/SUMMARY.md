@@ -4,6 +4,7 @@
 ---
 - [Why?](meta/why.md)
 - [Guide to Editing Docs](meta/guide-to-editing-docs.md)
+- [Removing Docs](meta/removing-docs.md)
 
 # Coding
 ---
