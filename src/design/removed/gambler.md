@@ -1,10 +1,10 @@
 # Gambler
 
-{{#template ../../../templates/unimplemented.md }}
+{{#template ../../templates/removed-unimplemented.md reason="i still like the concept just dont think its interesting enough to be a mask with what we've learned so far, not really interactive enough, will probably get revisited eventually" }}
 
 > **Name:** Gambler
 >
-> **Troupe:** [Gambler](../crew.md)
+> **Troupe:** Crew
 >
 > **Archetypes:** Freak
 >

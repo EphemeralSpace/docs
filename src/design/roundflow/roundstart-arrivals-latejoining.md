@@ -2,8 +2,6 @@
 
 {{#template ../../templates/partially-implemented.md }}
 
-When the round starts, players are internally split up into two groups.  The first are those that will play the station roles. This group should comprise the vast majority of players. Those in the second group are given the option to play as a [wildcard role](../wildcards.md).
-
 ## Arrivals
 
 At the start of the round, the station crew spawns in cryosleep aboard a transport ship. The ship has detected that only a few minutes remain until they arrive at the station, and now the crew must reorient themselves and prepare to board. It's been a significant length of time since the crew was put into cryosleep--maybe years--and they're going to be a little dazed, or.. worse?

@@ -2,6 +2,8 @@
 
 {{#template ../../../templates/implemented.md }}
 
+{{#template ../../../templates/slated-for-rework.md reason="just not interesting enough of an objective, not strong enough to matter at all, people basically just suicide in the right place and it usually doesnt affect much, although i still think the concept is workable"}}
+
 > **Name:** Sacrifice
 >
 > **Troupe:** [Crew](../crew.md)

@@ -69,7 +69,7 @@ Some general archetypes of masks (again, not exhaustive and new archetypes can a
 - **Converter**: Masks which convert another player to a certain mask or give them additional objectives on some condition. Should be very uncommon, *especially* duplicating masks. Examples: [subverter](masks/traitor/subverter.md), [enthraller](masks/crew/enthraller.md).
 - **Copier**: Masks which copy other masks on some condition. Examples: [cannibal](masks/crew/cannibal.md).
 - **Giver**: Masks which center around creating and disseminating items to others for some purpose. Examples: [arms dealer](masks/crew/arms-dealer.md), [fruit vendor](masks/crew/fruit-vendor.md).
-- **Sabotager**: Masks whose objectives revolve around engaging in some kind of malicious activity that generally harms others and leads to direct conflict. Examples: [animal hater](masks/crew/animal-hater.md), [arsonist](masks/crew/arsonist.md).
+- **Sabotager**: Masks whose objectives revolve around engaging in some kind of malicious activity that generally harms others and leads to direct conflict and has deniability with troupe masks. Examples: [vandal](masks/crew/vandal.md).
 - **Murderer**: Masks which center around directly engaging in conflict with and killing other players. Examples: [assassin](masks/traitor/assassin.md), [veteran](masks/crew/veteran.md).
 - **Guardian**: Masks which center around preventing other players from being harmed or killed. Examples: [avenger](masks/crew/avenger.md), [tracker](masks/crew/tracker.md).
 - **Freak**: Masks whose objectives interact with the simulation in a way that is strange and leads into weird interactions, but not necessarily direct conflict with others. Examples: [glutton](masks/crew/glutton.md), [daredevil](masks/crew/daredevil.md).
@@ -98,9 +98,3 @@ Masks are given out immediately when players spawn, whether on the transport shu
 All players receive a mask, regardless of role (though certain roles may be prohibited from being members of certain factions).
 
 The mask that you receive is determined by the current [Masquerade](masquerades.md), players are given a mask randomly from the set of masks the masquerade generated. Players **cannot** influence what mask they are given.
-
-### Mask Tokens {.es-unimplemented }
-At the end of a round, if you've successfully complete your objectives, you receive a **mask token** that's associated with your account.
-Between rounds, a few round's worth of tokens can be redeemed to pre-select your mask before the round begins.
-
-This provides an incentive for completing mask objectives (to earn tokens) as well as a way to occasionally mitigate randomness.
