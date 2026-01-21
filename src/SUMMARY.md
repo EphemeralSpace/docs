@@ -71,7 +71,6 @@
     - [Marauder](design/masks/traitor/marauder.md)
     - [Recon](design/masks/traitor/recon.md)
     - [Recruit](design/masks/traitor/recruit.md)
-    - [Spy](design/masks/traitor/spy.md)
     - [Subverter](design/masks/traitor/subverter.md)
   - [Crew](design/masks/crew.md)
     - [Amnesiac](design/masks/crew/amnesiac.md)
@@ -119,4 +118,5 @@
   - [Mask Tokens](design/removed/mask-tokens.md)
   - [Philanthropist](design/removed/philanthropist.md)
   - [Polymath](design/removed/polymath.md)
+  - [Spy](design/masks/traitor/spy.md)
   - [Wildcards](design/removed/wildcards.md)
