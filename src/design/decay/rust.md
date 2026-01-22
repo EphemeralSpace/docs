@@ -1,6 +1,6 @@
 # Rust
 
-{{#template ../../templates/implemented.md}}
+{{#template ../../templates/unimplemented.md}}
 
 Rust is a general decay system that serves to amplify the effects of other threats on the station by compromising the integrity of the environment.
 Unlike other forms of decay, which work directly to injure players, rust is not inherently harmful.
