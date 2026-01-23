@@ -46,9 +46,10 @@
 - [Stats]()
 ---
 - [Jobs](design/jobs.md)
-  - [Supply](design/jobs/supply.md)
   - [Bartender](design/jobs/bartender.md)
+  - [Coroner](design/jobs/coroner.md)
   - [Scientist](design/jobs/scientist.md)
+  - [Supply](design/jobs/supply.md)
 - [Objectives]()
   - [Traitors]()
     - [Bug Department](design/objectives/traitor/bug-department.md)
