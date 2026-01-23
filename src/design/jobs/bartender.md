@@ -1,6 +1,6 @@
 # Bartender
 
-{{#template ../../../templates/unimplemented.md}}
+{{#template ../../templates/unimplemented.md}}
 
 Bartender is a simplistic **Service** job centered around providing drinks and cocktails to the crew.
 While they have a lot of similarities to the **Chef**, the role is made distinct by a larger focus on direct player interaction as well as more independent play.
@@ -18,7 +18,7 @@ Ultimately, however, these are simply above-and-beyond options for the bartender
 At the most basic level, they should always have the ability to mix up basic cocktails to satisfy thirst.
 
 ## Every Drink is Personalized
-Engaging with the unique mechanics of Ephemeral Space, the Bartender's drinks are tailored towards a character's (_randomly-generated_) [clues](../../characters/clues.md).
+Engaging with the unique mechanics of Ephemeral Space, the Bartender's drinks are tailored towards a character's (_randomly-generated_) [clues](../characters/clues.md).
 Unlike a chef's meal, where the efficacy is determined by the sourcing of ingredients, a great Bartender must exchange information with their customer and craft a drink that meets their specific tastes.
 
 While the lowest-impact drinks can be based on superficial elements (job, appearance, etc.), as the strength of effect goes up, so too must the obscurity of the clues.
