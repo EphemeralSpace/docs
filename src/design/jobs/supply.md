@@ -1,6 +1,10 @@
 # Supply
 
-{{#template ../../../templates/partially-implemented.md}}
+{{#template ../../templates/partially-implemented.md}}
+
+```admonish warning
+todo move some of this stuff into separate cargo/jani docs it shouldnt have been a dept doc anyway
+```
 
 **Supply** is a department focused on the processing of materials as well as the creation of tools and refined resources for the crew.
 While they do not play a direct hand in the acquisition of rare resources, they are the center of manufacturing on the station and a necessary location for supplying the crew with whatever strange things they may need.

@@ -39,6 +39,6 @@ Information about a person always states whether they are part of the crew or a 
 
 ## Gameplay
 
-The Insider is an incredibly useful crew-sided Oracle mask, receiving some of the best information in the game, with the caveat that they must do the work to case out targets in order to actually utilize it. This means keeping track of names, keeping track of apperances, keeping track of ages & genders, and even personality traits--maybe try asking the [Bartender](../../jobs/roles/bartender.md) if they've heard anything recently.
+The Insider is an incredibly useful crew-sided Oracle mask, receiving some of the best information in the game, with the caveat that they must do the work to case out targets in order to actually utilize it. This means keeping track of names, keeping track of apperances, keeping track of ages & genders, and even personality traits--maybe try asking the [Bartender](../../jobs/bartender.md) if they've heard anything recently.
 
 Because the information is stored in a cache, it can't be used to immediately case out the arrivals shuttle and everyone on it. Furthermore, since it's just on paper, anyone can learn the information if they steal it from the Insider, and maybe even pose as an Insider themselves.

@@ -50,4 +50,4 @@ This creates a type of clue which, while it helps narrow down deduction, require
 On the other hand, something like someone's star sign may be much harder to find.
 Truly knowing it may be impossible short of it being told directly or gaining access to secure personnel records.
 This creates a much more lucrative clue, however, as hunting it down and deducing it gives you significantly more useful information than something like age.
-As such, people might be incentivized to take further reaches to learn it, seeking out [oracle masks](../masks.md) or employing the help of roles like the [bartender](../jobs/roles/bartender.md).
+As such, people might be incentivized to take further reaches to learn it, seeking out [oracle masks](../masks.md) or employing the help of roles like the [bartender](../jobs/bartender.md).
