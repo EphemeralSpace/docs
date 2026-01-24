@@ -1,6 +1,6 @@
 # Spy
 
-{{#template ../../../templates/unimplemented.md }}
+{{#template ../../templates/removed-unimplemented.md reason="overlaps with infiltrator, and is generally probably too powerful and gimmicky, while also not fitting in to existing traitor masks's minimalist philosophy very well. spy would almost undoutably feel very out-of-place and overdesigned with all of the other kits." }}
 
 > **Name: Spy**
 >
