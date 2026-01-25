@@ -1,6 +1,6 @@
 # Coroner
 
-{{#template ../../templates/unimplemented.md}}
+{{#template ../../templates/implemented.md}}
 
 The Coroner is a **Medical** job centered around the handling of dead bodies.
 They guard the morgue, handle the interment of bodies, and make sure nobody gets their grubby little hands all over the corpseloot (at least not before the Coroner takes a peek). When necessary, the Coroner can take on the role of an undertaker and help make sure dead bodies actually find their way to medbay to help counteract <span class="es-unimplemented">filth</span>.
