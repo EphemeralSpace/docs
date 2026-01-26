@@ -4,7 +4,7 @@
 
 > **Name:** Empath
 >
-> **Troupe:** [Crew](../crew.md)
+> **Troupe:** Crew
 >
 > **Archetypes:** Oracle
 >
@@ -22,9 +22,9 @@ Although their ability does not give them the power to precisely pinpoint a mask
 Their main ability is the power to sense the aura of a target player, which they can use repeatedly after a moderate cooldown.
 Which aura they see is dependent on the mask the player has:
 
-- **Neutral Aura:** Basic, unassuming. Default aura used for the majority of roles such as [VIP](vip.md), [Mercenary](mercenary.md), [Glutton](glutton.md), etc
-- **Killing Intent:** Murderous, violent. Used for roles that have kill-related objectives, such as [Traitors](../traitors.md), [Martyr](martyr.md), [Veteran](veteran.md), etc
-- **Strange Feeling:** Dull, hazy. Reserved for masks which have not gained their main objectives, such as the [Amnesiac](amnesiac.md) or Copier-type masks like the [Cannibal](cannibal.md)
+- **Neutral Aura:** Basic, unassuming. Default aura used for the majority of roles such as VIP, Mercenary, Glutton, etc
+- **Killing Intent:** Murderous, violent. Used for roles that have kill-related objectives, such as Traitors, Martyr, Veteran, etc
+- **Strange Feeling:** Dull, hazy. Reserved for masks which have not gained their main objectives, such as the Amnesiac or Copier-type masks like the Cannibal.
 
 ## Gameplay
 The empath is a mask that, while lacking objectives pushing them towards gameplay, is deeply involved with the deduction of the game due to their strong abilities.

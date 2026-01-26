@@ -16,7 +16,7 @@
 
 ## Concept
 
-The Scapegoat is a Jester-type mask that is always shown as having killing intent by aura-reading oracles like the [Empath](./empath.md), and counts as a "member of another troupe" for the purposes of masks like the [Veteran](./veteran.md) or [Insider](./insider.md).
+The Scapegoat is a Jester-type mask that counts as a "member of another troupe" for the purposes of masks like the [Veteran](./veteran.md) or [Insider](./insider.md).
 
 ## Abilities
 

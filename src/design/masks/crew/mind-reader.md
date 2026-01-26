@@ -16,7 +16,7 @@
 
 ## Concept
 The mind reader is a mask who is able to learn hidden information about a character through the use of their mind-reading ability.
-Unlike a mask like the [empath](empath.md), the mind reader cannot learn information about masks, but rather only information about a given character.
+The mind reader cannot learn information about masks, but rather only information about a given character.
 This includes their name, original shift-start appearance, and hidden details about themselves.
 
 ## Abilities
