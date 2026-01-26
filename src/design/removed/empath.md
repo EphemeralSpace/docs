@@ -1,6 +1,6 @@
 # Empath
 
-{{#template ../../../templates/implemented.md }}
+{{#template ../../templates/removed-unimplemented.md reason="doesn't really work in SS14 since it bypasses the sim entirely, and acts as a bulletproof clue that you can use to instantly deduce if someone is a bad guy. on top of this, there wasn't really any counterplay since they could just use the ability on you at any time. in general, empath can be taken as a lesson that oracles need to be reserved, since most of the clue-gathering happens in-sim for us, as opposed to how it is in other social deduction games." }}
 
 > **Name:** Empath
 >
