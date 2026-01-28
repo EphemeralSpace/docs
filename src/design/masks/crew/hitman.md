@@ -1,4 +1,5 @@
 # Hitman
+{{#template ../../../templates/unimplemented.md }}
 
 > **Name:** Hitman
 >
