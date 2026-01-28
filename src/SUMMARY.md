@@ -82,6 +82,7 @@
     - [Glutton](design/masks/crew/glutton.md)
     - [Guzzler](design/masks/crew/guzzler.md)
     - [Hater](design/masks/crew/hater.md)
+    - [Hitman](design/masks/crew/hitman.md)
     - [Insider](design/masks/crew/insider.md)
     - [Loyalist](design/masks/crew/loyalist.md)
     - [Martyr](design/masks/crew/martyr.md)
