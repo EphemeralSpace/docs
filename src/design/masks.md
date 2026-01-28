@@ -73,7 +73,7 @@ Some general archetypes of masks (again, not exhaustive and new archetypes can a
 - **Murderer**: Masks which center around directly engaging in conflict with and killing other players. Examples: [assassin](masks/traitor/assassin.md), [veteran](masks/crew/veteran.md).
 - **Guardian**: Masks which center around preventing other players from being harmed or killed. Examples: [avenger](masks/crew/avenger.md), [tracker](masks/crew/tracker.md).
 - **Freak**: Masks whose objectives interact with the simulation in a way that is strange and leads into weird interactions, but not necessarily direct conflict with others. Examples: [glutton](masks/crew/glutton.md), [daredevil](masks/crew/daredevil.md).
-- **Oracle:** Maks which can gain hidden meta-knowledge about another mask. Examples: [empath](masks/crew/empath.md).
+- **Oracle:** Maks which can gain hidden meta-knowledge about another mask. Examples: [insider](masks/crew/insider.md).
 
 ## Variants {.es-unimplemented}
 
