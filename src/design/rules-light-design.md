@@ -9,7 +9,7 @@ Rules-light is **not:**
 - Complete sandbox freedom
 
 In general, rules-light design stands as the opposite of **rules-based design**, where mechanics are balanced through the enforcement of server rules by administrators.
-The issues with rules-based design are numerous and severe, but in the interest of brevity I will forgo explaining them hear and let the benefit of rules-light design shine through instead.
+The issues with rules-based design are numerous and severe, but in the interest of brevity I will forgo explaining them here and let the benefit of rules-light design shine through instead.
 
 ## Rules Should be Comprehensible
 
