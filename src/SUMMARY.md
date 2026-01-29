@@ -21,6 +21,7 @@
 ---
 - [Design Principles](design/pillars.md)
 - [Mirror's Notes on Design](design/mirrors-notes.md)
+- [Rules-Light Design](design/rules-light-design.md)
 - [Terminology](design/terminology.md)
 ---
 - [Characters](design/characters.md)
