@@ -62,6 +62,14 @@ Any rules which include conditions (_if X, when Y_) or use tables to outline whe
 A rule that contains a condition is one which has to be continually reevaluated and considered throughout the course of the game.
 Reference material like tables harms player immersion because it forces them to take attention away from what's in front of them and consider rules.
 
+In general, if you have to devote mental energy to determining if you are about to violate a rule, the rule is probably too complicated.
+Players should not have to worry constantly that by doing something obvious and trivial they may in fact be in violation of the rules.
+This is also something that opens up a lot of toxicity, as people in disagreement over the rules are likely to argue about which interpretation is correct (read: which one gets the other banned).
+
+While not strictly related to the rules themselves, enforcement is also an issue when it comes to unpredictable rules.
+If rules are not enforced consistently, then players are often confused and frustrated when they are bwoinked, _especially_ if they've done the same thing in the past without issue.
+This is often not an issue with serious things like bigotry or harassment, but when rules are overbearing and more widespread, it's not uncommon for enforcement to be hand-waved due to not wanting to interrupt an otherwise-fine game state.
+
 ## Rules Should be Realistic
 
 Players should not be expected to intentionally self-sabotage or act against their own logical instincts while following rules.
