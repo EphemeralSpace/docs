@@ -119,5 +119,5 @@
   - [Mask Tokens](design/removed/mask-tokens.md)
   - [Philanthropist](design/removed/philanthropist.md)
   - [Polymath](design/removed/polymath.md)
-  - [Spy](design/masks/traitor/spy.md)
+  - [Spy](design/removed/spy.md)
   - [Wildcards](design/removed/wildcards.md)
