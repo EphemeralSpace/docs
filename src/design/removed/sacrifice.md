@@ -1,12 +1,10 @@
 # Sacrifice
 
-{{#template ../../../templates/implemented.md }}
-
-{{#template ../../../templates/slated-for-rework.md reason="just not interesting enough of an objective, not strong enough to matter at all, people basically just suicide in the right place and it usually doesnt affect much, although i still think the concept is workable"}}
+{{#template ../../templates/removed-implemented.md reason="trigger condition is weird, effect often does nothing because when are you actually dying near people, especially bad with offmed so i removed it instead of reworking it for that. tried to come up with a better version of it and couldnt do it. ill probably revisit the concept later and revive it but not now" }}
 
 > **Name:** Sacrifice
 >
-> **Troupe:** [Crew](../crew.md)
+> **Troupe:** Crew
 >
 > **Archetypes:** Jester, Guardian
 >
