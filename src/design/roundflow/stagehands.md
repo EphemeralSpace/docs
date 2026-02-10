@@ -31,12 +31,13 @@ Stagehands can freely talk with each other and coordinate votes to create intere
 
 ## Nudges {.es-unimplemented}
 
-Nudges are used by stagehands to individually influence the players in round with minor status effects. A nudge can be positive or negative, but opposing nudges nullify eachother.
+Nudges are used by stagehands to individually influence the players in round with status effects or other small boons. A nudge can be positive or negative, but opposing nudges nullify eachother.
 By directly affecting specific players, stagehanding becomes much more influential; but the passive nature of the buffs means the player can still go up against all odds, or fail dramatically even with the backing of every single audience member.
 
-The idea is to continue the concepts of an organic game director, but in a way that the stagehands compete for their favourite characters, whereas votes act as more of an influence over the station as a whole. The stagehands are generally motivated by wanting to create the most interesting round for them to watch, so they may set up someone to be a "main character", or nudge a group of intertwined objectives in a certain direction.
+The idea is to continue the concepts of an organic game director on a lower level; the stagehands compete for their favourite characters, whereas votes act as more of an influence over the station as a whole.
+The stagehands are generally motivated by wanting to create the most interesting round for them to watch, so they may set up someone to be a "main character", or nudge a group of intertwined objectives in a certain direction.
 
-It also acts as a roundabout karmic system; if someone murders someone else for no reason, the victim and crew stagehands will want to nudge them negatively as they're going against the crew objective et cetera; but if they enjoy the chaos the murderer may be rewarded.
+It also acts as a capricous karmic system; if someone murders someone else for no reason, the victim and crew stagehands may want to nudge them negatively as they're going against the crew objective; but if they enjoy the chaos the murderer may be rewarded.
 
 ### Nudgeconomy {.es-unimplemented}
 
