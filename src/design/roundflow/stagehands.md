@@ -29,11 +29,20 @@ These observers, by virtue of being equal parts spectators and participants in t
 Additionally, it creates a situation where, even though stagehands are not part of the physical round, they are still capable of having an impact on things as a group.
 Stagehands can freely talk with each other and coordinate votes to create interesting decisions, which helps lessen the feeling of being "excluded" from the round after death.
 
-### Blessings & Curses {.es-unimplemented}
+## Nudges {.es-unimplemented}
 
-Blessings and curses are types of stagehand-initiated vote that allows them to have a more targeted effect on the round.
-Rather than simply choosing options, a stagehand can create a vote for a specific action (good or bad) to happen targeting another player.
-The other stagehands are then required to vote Yes or No whether the action should be allowed to occur.
+Nudges are used by stagehands to individually influence the players in round with minor status effects. A nudge can be positive or negative, but opposing nudges nullify eachother.
+By directly affecting specific players, stagehanding becomes much more influential; but the passive nature of the buffs means the player can still go up against all odds, or fail dramatically even with the backing of every single audience member.
 
-This essentially functions as a player-oriented version of admemes, where the stagehands as a collective can choose to reward or punish players for their actions, often to great comedic effect.
-While these things obviously shouldn't have as high of a game impact as regular votes, they can be a nice opportunity for the game to karmically respond to the things people are doing during a round.
+The idea is to continue the concepts of an organic game director, but in a way that the stagehands compete for their favourite characters, whereas votes act as more of an influence over the station as a whole. The stagehands are generally motivated by wanting to create the most interesting round for them to watch, so they may set up someone to be a "main character", or nudge a group of intertwined objectives in a certain direction.
+
+It also acts as a roundabout karmic system; if someone murders someone else for no reason, the victim and crew stagehands will want to nudge them negatively as they're going against the crew objective et cetera; but if they enjoy the chaos the murderer may be rewarded.
+
+### Nudgeconomy {.es-unimplemented}
+
+Once a nudge is applied to a player, it cannot be retrieved until they die.
+Each stagehand has a certain amount of nudges depending on how many of their objectives they have completed in their time in the spotlight.
+If a stagehand has had a positive nudge on a player when they complete an objective, they gain points towards new nudges depending on the difficulty of the objective, how long it's been applied, and how many nudges are opposing them; the same goes for a negative nudge on someone who dies. [TODO: unsure about this. It seems like it would just encourage betting on whoever will win instead of whoever is the most interesting option]
+An important note is that earning a new nudge should be very hard - a stagehand should have to make various good choices to gain the power.
+
+The goal of the nudgeconomy is that as the round decays and more people die the stagehands will gain influence, so once it comes down to a few players a very large amount of nudges will be in play creating a large amount of tension.
