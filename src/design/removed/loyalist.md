@@ -1,10 +1,10 @@
 # Loyalist
 
-{{#template ../../../templates/unimplemented.md }}
+{{#template ../../templates/removed-unimplemented.md reason="just not interactive or interesting at all what was i thinking lowkey" }}
 
 > **Name:** Loyalist
 >
-> **Troupe:** [Crew](../crew.md)
+> **Troupe:** Crew
 >
 > **Archetypes:** N/A
 >
@@ -16,11 +16,11 @@
 
 ## Concept
 
-The Loyalist is a rock--completely immune to all mask-swapping and mask-converting effects, including those like the [Enthraller](./enthraller.md)'s.
+The Loyalist is a rock--completely immune to all mask-swapping and mask-converting effects, including those like the Enthraller's.
 
 ## Abilities
 
-The Loyalist is inherently immune to all abilities mentioned above. However, they will still activate any side-effects, such as the [Subverter](../traitor/subverter.md) reviving the target. A failed ability use like this will also stun the attempter for a small amount of time.
+The Loyalist is inherently immune to all abilities mentioned above. However, they will still activate any side-effects, such as the Subverter reviving the target. A failed ability use like this will also stun the attempter for a small amount of time.
 
 ## Gameplay
 

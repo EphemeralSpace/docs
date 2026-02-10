@@ -16,7 +16,7 @@
 
 ## Concept
 The mind reader is a mask who is able to learn hidden information about a character through the use of their mind-reading ability.
-Unlike a mask like the [empath](empath.md), the mind reader cannot learn information about masks, but rather only information about a given character.
+The mind reader cannot learn information about masks, but rather only information about a given character.
 This includes their name, original shift-start appearance, and hidden details about themselves.
 
 ## Abilities
@@ -27,7 +27,7 @@ If the mind reader is interrupted during this process, the mind reading will can
 If uninterrupted, once all the information has been read, the mind reader will exit the ability with no downsides.
 
 ## Gameplay
-The mind reader's primary purpose is similar masks like the [connoisseur](connoisseur.md) or to role like the [bartender](../../jobs/roles/bartender.md) in that they collect clues about people that can be used by other roles for deductive reasons.
+The mind reader's primary purpose is similar masks like the [connoisseur](connoisseur.md) or to role like the [bartender](../../jobs/bartender.md) in that they collect clues about people that can be used by other roles for deductive reasons.
 Additionally, the ability to see through an identity disguise and learn someone's name makes them a counter against what can otherwise be powerful disguise masks.
 
 In terms of their interactions with others, the mind reader is subtly threatening in that they are likely to stalk their target and wait for inactivity in order to start learning information about them.

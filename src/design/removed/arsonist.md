@@ -1,11 +1,10 @@
 # Arsonist
 
-{{#template ../../../templates/unimplemented.md }}
-
+{{#template ../../templates/removed-unimplemented.md reason="we have plenty of fires as is. just not very interactive, much less interesting than other masks, less dimensionality, less integration, too one-note" }}
 
 > **Name:** Arsonist
 >
-> **Troupe:** [Crew](../crew.md)
+> **Troupe:** Crew
 >
 > **Description:** Set little fires around the station. Watch the cinders dance around.
 >

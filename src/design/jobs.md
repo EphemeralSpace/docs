@@ -1,6 +1,6 @@
 # Jobs
 
-Jobs are non-hidden roles that are randomly assigned to players every round which are defined through a combination of [clothing](../clothing.md), access, and (sometimes) unique abilities.
+Jobs are non-hidden roles that are randomly assigned to players every round which are defined through a combination of [clothing](clothing.md), access, and (sometimes) unique abilities.
 They are then sorted into departments, groups of jobs which share common mechanics, gameplay, and thematic elements.
 
 Additionally, jobs function as a type of psychological scaffolding, pushing players to interact with different parts of the game and restricting general access to locations and mechanics.
@@ -51,9 +51,9 @@ The game is about our relationships and social dependencies on others, and by ma
 
 ## Deduction
 
-As a deductive element, jobs can be thought of as the mirror image of [masks](../masks.md).
+As a deductive element, jobs can be thought of as the mirror image of [masks](masks.md).
 
-While a mask defines your goals and intentions on a _personal level_, a job offers you _default behavior_ as part of the [crew](../masks/crew.md).
+While a mask defines your goals and intentions on a _personal level_, a job offers you _default behavior_ as part of the [crew](masks/crew.md).
 This is extremely important to deduction, as it creates indirect methods of aiding the station, the completion of which can arouse or quell suspicion.
 
 The most immediate comparison would be tasks in the game Among Us.

@@ -30,9 +30,7 @@ This ability cannot be used on unconscious or dead players.
 
 ## Gameplay
 
-The Pilferer's objective and actions lead them into direct minor conflict with many people, while the random nature of their action means they're unlikely to be able to powergame very hard with the items they do manage to steal. The leadup to the steal--having to be outside of their viewcone--integrates nicely with the viewcone mechanic itself and other related mechanics, like footsteps being muted when walking, or invisibility granted by things like the [Spy](../traitor/spy.md)'s stealth suit, if the Pilferer can manage to steal it.
-
-The Pilferer has co-deniability with the [Philanthropist](./philanthropist.md), whose behavior up to the conclusion of the action is functionally identical.
+The Pilferer's objective and actions lead them into direct minor conflict with many people, while the random nature of their action means they're unlikely to be able to powergame very hard with the items they do manage to steal. The leadup to the steal--having to be outside of their viewcone--integrates nicely with the viewcone mechanic itself and other related mechanics, like footsteps being muted when walking.
 
 ## Variants
 

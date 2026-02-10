@@ -1,10 +1,10 @@
 # Sacrifice
 
-{{#template ../../../templates/implemented.md }}
+{{#template ../../templates/removed-implemented.md reason="trigger condition is weird, effect often does nothing because when are you actually dying near people, especially bad with offmed so i removed it instead of reworking it for that. tried to come up with a better version of it and couldnt do it. ill probably revisit the concept later and revive it but not now" }}
 
 > **Name:** Sacrifice
 >
-> **Troupe:** [Crew](../crew.md)
+> **Troupe:** Crew
 >
 > **Archetypes:** Jester, Guardian
 >

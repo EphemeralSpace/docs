@@ -16,7 +16,7 @@
 
 ## Concept
 
-The Scapegoat is a Jester-type mask that is always shown as having killing intent by aura-reading oracles like the [Empath](./empath.md), and counts as a "member of another troupe" for the purposes of masks like the [Veteran](./veteran.md) or [Insider](./insider.md).
+The Scapegoat is a Jester-type mask that counts as a "member of another troupe" for the purposes of masks like the [Veteran](./veteran.md) or [Insider](./insider.md).
 
 ## Abilities
 
@@ -30,4 +30,4 @@ The Scapegoat's on death effect provide a passive disincentive to letting people
 
 ## Variants
 
-*Professional Scapegoat* - Spawns in a guaranteed exceptionally dangerous event on death, like meteors. That, or a [portal event](../../jobs/roles/scientist.md), or multiple events?
+*Professional Scapegoat* - Spawns in a guaranteed exceptionally dangerous event on death, like meteors. That, or a [portal event](../../jobs/scientist.md), or multiple events?

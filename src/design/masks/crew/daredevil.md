@@ -2,6 +2,8 @@
 
 {{#template ../../../templates/implemented.md }}
 
+{{#template ../../../templates/slated-for-rework.md reason="doesnt interact with other players enough, they tend to just do their own thing. going to be reworked into a different mask most likely that is more player-interaction-driven"}}
+
 > **Name:** Daredevil
 >
 > **Troupe:** [Crew](../crew.md)

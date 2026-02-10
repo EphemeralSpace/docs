@@ -1,11 +1,11 @@
 # Scientist
 
-{{#template ../../../templates/unimplemented.md}}
+{{#template ../../templates/implemented.md}}
 
 > *Gordon doesn't need to hear all this. He's a highly trained professional.*
 
 Scientist is a general purpose **Research** job focused on round progression.
-Their primary task is the management of the [Portal Generator](../../masks/crew.md) and the general completion of telescience research.
+Their primary task is the management of the [Portal Generator](../masks/crew.md) and the general completion of telescience research.
 Beyond working on the crew objective, scientists also unlock useful upgrades for the crew as they progress.
 
 ## Telescience or How to Move Through Space

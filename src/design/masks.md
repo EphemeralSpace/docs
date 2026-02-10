@@ -63,17 +63,17 @@ Masks are generally grouped into archetypes, strictly for the purpose of reasoni
 When designing new masks, try to come up with novel combinations or inversions of archetypes that could be interesting, or see if there are 'too few' of a certain archetype (relative to how rare it should be overall and how interesting it is) and try to come up with a new spin on the concept.
 
 Some general archetypes of masks (again, not exhaustive and new archetypes can and should be created):
-- **Jester**: Masks that have some effect on being killed by another player or dying. Examples: [phantom](masks/crew/phantom.md), [sacrifice](masks/crew/sacrifice.md).
+- **Jester**: Masks that have some effect on being killed by another player or dying. Examples: [phantom](masks/crew/phantom.md), [martyr](masks/crew/martyr.md).
 - **Swapper**: Masks that swap masks with another target on some condition. Examples: [parasite](masks/crew/parasite.md), [coveter](masks/crew/coveter.md).
 - **Guesser**: Masks which have some effect when successfully guessing another player's mask--useful for enforcing hidden role gameplay. Examples: [coveter](masks/crew/coveter.md), [angel](masks/crew/angel.md)
 - **Converter**: Masks which convert another player to a certain mask or give them additional objectives on some condition. Should be very uncommon, *especially* duplicating masks. Examples: [subverter](masks/traitor/subverter.md), [enthraller](masks/crew/enthraller.md).
 - **Copier**: Masks which copy other masks on some condition. Examples: [cannibal](masks/crew/cannibal.md).
 - **Giver**: Masks which center around creating and disseminating items to others for some purpose. Examples: [arms dealer](masks/crew/arms-dealer.md), [fruit vendor](masks/crew/fruit-vendor.md).
-- **Sabotager**: Masks whose objectives revolve around engaging in some kind of malicious activity that generally harms others and leads to direct conflict. Examples: [animal hater](masks/crew/animal-hater.md), [arsonist](masks/crew/arsonist.md).
+- **Sabotager**: Masks whose objectives revolve around engaging in some kind of malicious activity that generally harms others and leads to direct conflict and has deniability with troupe masks. Examples: [vandal](masks/crew/vandal.md).
 - **Murderer**: Masks which center around directly engaging in conflict with and killing other players. Examples: [assassin](masks/traitor/assassin.md), [veteran](masks/crew/veteran.md).
 - **Guardian**: Masks which center around preventing other players from being harmed or killed. Examples: [avenger](masks/crew/avenger.md), [tracker](masks/crew/tracker.md).
 - **Freak**: Masks whose objectives interact with the simulation in a way that is strange and leads into weird interactions, but not necessarily direct conflict with others. Examples: [glutton](masks/crew/glutton.md), [daredevil](masks/crew/daredevil.md).
-- **Oracle:** Maks which can gain hidden meta-knowledge about another mask. Examples: [empath](masks/crew/empath.md).
+- **Oracle:** Maks which can gain hidden meta-knowledge about another mask. Examples: [insider](masks/crew/insider.md).
 
 ## Variants {.es-unimplemented}
 
@@ -98,9 +98,3 @@ Masks are given out immediately when players spawn, whether on the transport shu
 All players receive a mask, regardless of role (though certain roles may be prohibited from being members of certain factions).
 
 The mask that you receive is determined by the current [Masquerade](masquerades.md), players are given a mask randomly from the set of masks the masquerade generated. Players **cannot** influence what mask they are given.
-
-### Mask Tokens {.es-unimplemented }
-At the end of a round, if you've successfully complete your objectives, you receive a **mask token** that's associated with your account.
-Between rounds, a few round's worth of tokens can be redeemed to pre-select your mask before the round begins.
-
-This provides an incentive for completing mask objectives (to earn tokens) as well as a way to occasionally mitigate randomness.

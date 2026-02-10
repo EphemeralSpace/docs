@@ -1,10 +1,10 @@
 # Animal Hater
 
-{{#template ../../../templates/unimplemented.md }}
+{{#template ../../templates/removed-unimplemented.md reason="not enough actual small creatures on station, too much of a freak-type mask, not really enough of an interesting conflict that i think its worth having, itd be better with another dimension to it" }}
 
 > **Name:** Animal Hater
 >
-> **Troupe:** [Crew](../crew.md)
+> **Troupe:** Crew
 >
 > **Description:** Take out your anger by killing small creatures around the station. No one will notice, right?
 >
