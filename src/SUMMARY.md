@@ -92,6 +92,7 @@
     - [Matchmaker](design/masks/crew/matchmaker.md)
     - [Mercenary](design/masks/crew/mercenary.md)
     - [Mind Reader](design/masks/crew/mind-reader.md)
+    - [Nobleman](design/masks/crew/nobleman.md)
     - [Parasite](design/masks/crew/parasite.md)
     - [Phantom](design/masks/crew/phantom.md)
     - [Pilferer](design/masks/crew/pilferer.md)
