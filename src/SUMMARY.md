@@ -102,6 +102,7 @@
     - [Tracker](design/masks/crew/tracker.md)
     - [Vandal](design/masks/crew/vandal.md)
     - [Veteran](design/masks/crew/veteran.md)
+    - [Vigilante](design/masks/crew/vigilante.md)
     - [VIP](design/masks/crew/vip.md)
 - [Masquerades](design/masquerades.md)
   - [Random (Traitors)](design/masquerades/random_traitors.md)
