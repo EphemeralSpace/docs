@@ -71,6 +71,7 @@
   - [Crew](design/masks/crew.md)
     - [Amnesiac](design/masks/crew/amnesiac.md)
     - [Angel](design/masks/crew/angel.md)
+    - [Angry Man](design/masks/crew/angry-man.md)
     - [Arms Dealer](design/masks/crew/arms-dealer.md)
     - [Avenger](design/masks/crew/avenger.md)
     - [Bloodletter](design/masks/crew/bloodletter.md)
