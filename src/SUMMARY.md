@@ -73,6 +73,7 @@
     - [Angel](design/masks/crew/angel.md)
     - [Arms Dealer](design/masks/crew/arms-dealer.md)
     - [Avenger](design/masks/crew/avenger.md)
+    - [Bloodletter](design/masks/crew/bloodletter.md)
     - [Bomber](design/masks/crew/bomber.md)
     - [Cannibal](design/masks/crew/cannibal.md)
     - [Coveter](design/masks/crew/coveter.md)
