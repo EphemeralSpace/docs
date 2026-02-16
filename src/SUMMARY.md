@@ -78,6 +78,7 @@
     - [Coveter](design/masks/crew/coveter.md)
     - [Connoisseur](design/masks/crew/connoisseur.md)
     - [Daredevil](design/masks/crew/daredevil.md)
+    - [Drug Dealer](design/masks/crew/drug-dealer.md)
     - [Enthraller](design/masks/crew/enthraller.md)
     - [Fruit Vendor](design/masks/crew/fruit-vendor.md)
     - [Glutton](design/masks/crew/glutton.md)
