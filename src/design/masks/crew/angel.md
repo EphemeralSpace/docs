@@ -34,7 +34,3 @@ The Angel can target any player once. They must guess that player's mask, and if
 The Angel is a very broadly useful crew mask, centered around gaining useful knowledge about others and using that knowledge to help them when needed. In this way, it serves as a counterbalance to other more disruptive crew masks, and has a target on their back as a result. Because the Angel is a Guesser-type mask, it incentivizes and rewards basic social deduction gameplay, and a good Angel player could do a lot to help the crew in a dire situation.
 
 Angels provide a little bit of deniability for masks that also are capable of reviving players out of crit on some condition, like the [Subverter](../traitor/subverter.md) or [Parasite](./parasite.md).
-
-## Variants
-
-*Fallen Angel* - Must only guess someone's troupe correctly. Those revived gain an objective identical in function to the [Enthraller](./enthraller.md), but to protect the Fallen Angel.

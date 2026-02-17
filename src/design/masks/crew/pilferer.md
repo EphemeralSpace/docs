@@ -31,7 +31,3 @@ This ability cannot be used on unconscious or dead players.
 ## Gameplay
 
 The Pilferer's objective and actions lead them into direct minor conflict with many people, while the random nature of their action means they're unlikely to be able to powergame very hard with the items they do manage to steal. The leadup to the steal--having to be outside of their viewcone--integrates nicely with the viewcone mechanic itself and other related mechanics, like footsteps being muted when walking.
-
-## Variants
-
-*Professional Pilferer* - Action usable N times (>1) per player, and with a faster doafter.
