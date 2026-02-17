@@ -4,7 +4,7 @@
 
 > **Name:** Scapegoat
 >
-> **Troupe:** [Crew](../crew.md)
+> **Troupe:** [Jester](../jester.md)
 >
 > **Archetypes:** Jester
 >
