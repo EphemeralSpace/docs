@@ -64,7 +64,7 @@ When designing new masks, try to come up with novel combinations or inversions o
 
 Some general archetypes of masks (again, not exhaustive and new archetypes can and should be created):
 - **Jester**: Masks that have some effect on being killed by another player or dying. Examples: [phantom](masks/crew/phantom.md), [martyr](masks/jester/martyr.md).
-- **Swapper**: Masks that swap masks with another target on some condition. Examples: [parasite](masks/crew/parasite.md), [coveter](masks/crew/coveter.md).
+- **Swapper**: Masks that swap masks with another target on some condition. Examples: [parasite](masks/jester/parasite.md), [coveter](masks/crew/coveter.md).
 - **Guesser**: Masks which have some effect when successfully guessing another player's mask--useful for enforcing hidden role gameplay. Examples: [coveter](masks/crew/coveter.md), [angel](masks/crew/angel.md)
 - **Converter**: Masks which convert another player to a certain mask or give them additional objectives on some condition. Should be very uncommon, *especially* duplicating masks. Examples: [subverter](masks/traitor/subverter.md), [enthraller](masks/crew/enthraller.md).
 - **Copier**: Masks which copy other masks on some condition. Examples: [cannibal](masks/crew/cannibal.md).

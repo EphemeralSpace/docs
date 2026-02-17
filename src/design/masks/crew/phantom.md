@@ -30,7 +30,7 @@ If the Phantom dies with no murderer, they still spawn as a vengeful phantom, bu
 
 ## Gameplay
 
-As a jester-type mask, the Phantom disincentivizes random murder without cause. It also provides ambiguity for other jester-type masks like the [Parasite](./parasite.md).
+As a jester-type mask, the Phantom disincentivizes random murder without cause. It also provides ambiguity for other jester-type masks like the [Parasite](../jester/parasite.md).
 
 The vengeful phantom's gameplay is meant to be mostly indirect--it cannot harm anyone, or even really cause anything that directly harms people, and can only interact with objects in a very limited and basic way. It can talk, but this is restricted, and it has no real incentive to give people accurate information anyhow. Though it cannot die, being dematerialized after being bapped is an inconvenience that any vengeful phantom would like to avoid if it can.
 
