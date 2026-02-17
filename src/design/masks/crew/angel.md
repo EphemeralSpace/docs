@@ -27,10 +27,10 @@ The Angel is a helpful Guesser-type mask with an objective to protect at least 1
 
 ## Abilities
 
-The Angel can target any player once. They must guess that player's mask, and if correct, will inject a sizeable dose of omnizine into that player, as well as adrenaline similar to the [Daredevil](./daredevil.md) or [Parasite](./parasite.md).
+The Angel can target any player once. They must guess that player's mask, and if correct, will inject a sizeable dose of omnizine into that player, as well as adrenaline similar to the [Daredevil](./daredevil.md) or [Parasite](../jester/parasite.md).
 
 ## Gameplay
 
 The Angel is a very broadly useful crew mask, centered around gaining useful knowledge about others and using that knowledge to help them when needed. In this way, it serves as a counterbalance to other more disruptive crew masks, and has a target on their back as a result. Because the Angel is a Guesser-type mask, it incentivizes and rewards basic social deduction gameplay, and a good Angel player could do a lot to help the crew in a dire situation.
 
-Angels provide a little bit of deniability for masks that also are capable of reviving players out of crit on some condition, like the [Subverter](../traitor/subverter.md) or [Parasite](./parasite.md).
+Angels provide a little bit of deniability for masks that also are capable of reviving players out of crit on some condition, like the [Subverter](../traitor/subverter.md) or [Parasite](../jester/parasite.md).
