@@ -117,6 +117,7 @@
   - [Gambler](design/removed/gambler.md)
   - [Loyalist](design/removed/loyalist.md)
   - [Mask Tokens](design/removed/mask-tokens.md)
+  - [Mask Variants](design/removed/mask-variants.md)
   - [Philanthropist](design/removed/philanthropist.md)
   - [Polymath](design/removed/polymath.md)
   - [Sacrifice](design/removed/sacrifice.md)

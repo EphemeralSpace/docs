@@ -30,10 +30,6 @@ The Connoisseur is a mask that can learn very valuable information about targets
 
 The Connoisseur's action provides some co-deniability with the [Enthraller](./enthraller.md)'s action, which are functionally identical.
 
-## Variants
-
-*Professional Connoisseur* - Rather than learning 3-4 masks which they are not, learn that they are one of 3-4 masks.
-
 ---
 
 ![](https://media1.tenor.com/m/ZtGJnU_AYUgAAAAd/dexter-james-doakes.gif)

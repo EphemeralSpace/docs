@@ -30,8 +30,3 @@ Which aura they see is dependent on the mask the player has:
 The empath is a mask that, while lacking objectives pushing them towards gameplay, is deeply involved with the deduction of the game due to their strong abilities.
 Since the detection of an aura is not a sure-fire confirmation of being a member of an enemy troupe, it is a strong piece of evidence that can help seal the deal.
 If combined with other clues deduced by a player's actions, it may give the station enough certainty to make a definitive decision.
-
-## Variants
-Variants for this mask tend to either improve or decrease the veracity of the auras sensed.
-For example, a professional empath may be able to distinguish between a crew-aligned or traitor-aligned killing intent.
-A dubious empath may give incorrect or useless reading, derived from insignificant characteristics rather than the target's mask (all gingers have a killing intent, passengers have a strange feeling, etc.)
