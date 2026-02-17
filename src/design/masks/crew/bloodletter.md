@@ -10,7 +10,7 @@
 >
 > **Description:** Make the crew bleed, then savor their unique blood.
 >
-> **Objectives:** Cut X (low) number of people and make them bleed, consume Y (high) amount of unique blood reagents (based on DNA), consume Z (high) amount of total blood.
+> **Objectives:** Consume X (high) amount of unique blood reagents (based on DNA), consume Y (high) amount of total blood.
 >
 > **Masquerade notes:** N/A
 >

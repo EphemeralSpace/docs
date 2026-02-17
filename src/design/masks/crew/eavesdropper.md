@@ -25,6 +25,8 @@ At the beginning of the round, the eavesdropper has an action they can use on an
 Once a player is selected, the eavesdropper will gain an objective to protect their target, with the target being notified about the situation with a popup.
 
 After that, the eavesdropper can now hear everything their target can hear, including both regular speech and radio.
+Note that this only extends to the _content_ of the speech, not the actual speaker.
+So they can hear that someone said "I'm hacking into captain's office," but are unable to determine _who_ said it.
 This ability cannot be toggled off and persists until their target perishes.
 
 ## Gameplay

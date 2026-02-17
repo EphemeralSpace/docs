@@ -18,6 +18,9 @@
 
 ## Concept
 The angry man is a mask that grows increasingly red and angry as other troupes complete their objectives.
+Generally, as the other troupe completes their early objectives, the man's anger is relatively low.
+As the troupe nears total completion, the man's anger grows more and more rapidly.
+For something like traitors, their anger would only really become noticeable once the terminals were getting hacked.
 
 ## Abilities
 The angry man's skin color represents enemy troupe progress.

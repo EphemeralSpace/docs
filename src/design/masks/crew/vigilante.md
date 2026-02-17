@@ -10,7 +10,7 @@
 >
 > **Description:** Deliver justice onto murderers by killing them yourself.
 >
-> **Objectives:** Kill X (low) players who have killed other people.
+> **Objectives:** Kill a person who has killed other people.
 >
 > **Masquerade notes:** N/A
 >
