@@ -27,7 +27,3 @@ On death, the Scapegoat immediately spawns a station event, targeted on the loca
 The Scapegoat provides a small amount of fallibility to Oracle masks, injecting some occasional intrigue into deductive situations. Furthermore, the fact that they count for objectives like the [Veteran](./veteran.md)'s means there is occasionally a trade-off between killing the Scapegoat or letting them live.
 
 The Scapegoat's on death effect provide a passive disincentive to letting people die, at least in areas where the event might matter, like Security or Medbay. Because the effect triggers on death, and not just on being killed, the Scapegoat *can* more or less trigger it when they feel like, either tactically or just for the lulz. No objective unlike other Jesters means that the Scapegoat is unlikely to run headfirst into deadly situations for the purposes of fulfilling an objective, and thus functions as a sort of reverse-Jester--avoids death, but finds it anyway.
-
-## Variants
-
-*Professional Scapegoat* - Spawns in a guaranteed exceptionally dangerous event on death, like meteors. That, or a [portal event](../../jobs/scientist.md), or multiple events?

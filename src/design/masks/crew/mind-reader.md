@@ -33,7 +33,3 @@ Additionally, the ability to see through an identity disguise and learn someone'
 In terms of their interactions with others, the mind reader is subtly threatening in that they are likely to stalk their target and wait for inactivity in order to start learning information about them.
 However, their forced inaction while mind-reading also makes them vulnerable to others.
 While it's technically possible to placate a mind reader by willingly allowing them to access your mind, this creates a tradeoff where you have to willingly give up potentially private information.
-
-## Variants
-_Professional mind reader_ - A single mind reading can reveal multiple pieces of information about a person.
-The process of reading a mind can also be quicker.
