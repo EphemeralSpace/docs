@@ -21,7 +21,7 @@ The nobleman is a mask that must refrain from killing anyone.
 If they do kill anyone, they will then die.
 
 ## Abilities
-Upon killing someone, the nobleman will receive a [martyr-esque](martyr.md) notification that they've brought dishonor to themselves.
+Upon killing someone, the nobleman will receive a [martyr-esque](../jester/martyr.md) notification that they've brought dishonor to themselves.
 After a 5-minute delay, they will kill themselves in penance.
 
 ## Gameplay
