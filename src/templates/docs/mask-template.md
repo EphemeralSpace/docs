@@ -29,8 +29,3 @@ Just outline any mechanical differences between the base character and someone w
 Describe the type of social deduction gameplay this mask is supposed to create.
 Outline any relevant relationships with other systems or masks.
 Elaborate on the inherent intrigue--how does the mask obscure itself, or generate ambiguity?
-
-## Variants
-Describe possible variants this mask could implement and how they affect their abilities, items, objectives, and overall gameplay.
-This is not strictly necessary if you don't plan on implementing any variants, and should be omitted in most cases.
-General variants are listed in the mask doc, such as dubious, professional, or chaotic. However, you can have mask-specific variants if design makes it work nicely.

@@ -35,7 +35,3 @@ On conversion into a Coveter, you are barred from targeting your converter with 
 The Coveter is a mask which can quickly devolve into completely insane situations and absolute hilarity, even with just one guess. Stealing someone's mask is sure to get them angry at you, though they'll soon enough find themselves preoccupied with trying to covet someone else's mask before they explode. If this chains enough, it can lead to a "hot potato" situation where everyone is trying to find someone to quickly pass the mask off to.
 
 Swapping in general is a huge wrench to throw into deduction--someone you thought you knew as a friend could become your enemy, you might have to suddenly deal with a completely different traitor partner, or your careful surveilling of a target could go haywire as they become someone completely different.
-
-## Variants
-
-- *Chaotic Coveter* - Rather than receiving the guessed mask, the Coveter receives a completely random new crew mask.

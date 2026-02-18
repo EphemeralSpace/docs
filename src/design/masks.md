@@ -63,8 +63,8 @@ Masks are generally grouped into archetypes, strictly for the purpose of reasoni
 When designing new masks, try to come up with novel combinations or inversions of archetypes that could be interesting, or see if there are 'too few' of a certain archetype (relative to how rare it should be overall and how interesting it is) and try to come up with a new spin on the concept.
 
 Some general archetypes of masks (again, not exhaustive and new archetypes can and should be created):
-- **Jester**: Masks that have some effect on being killed by another player or dying. Examples: [phantom](masks/crew/phantom.md), [martyr](masks/crew/martyr.md).
-- **Swapper**: Masks that swap masks with another target on some condition. Examples: [parasite](masks/crew/parasite.md), [coveter](masks/crew/coveter.md).
+- **Jester**: Masks that have some effect on being killed by another player or dying. Examples: [phantom](masks/jester/phantom.md), [martyr](masks/jester/martyr.md).
+- **Swapper**: Masks that swap masks with another target on some condition. Examples: [parasite](masks/jester/parasite.md), [coveter](masks/crew/coveter.md).
 - **Guesser**: Masks which have some effect when successfully guessing another player's mask--useful for enforcing hidden role gameplay. Examples: [coveter](masks/crew/coveter.md), [angel](masks/crew/angel.md)
 - **Converter**: Masks which convert another player to a certain mask or give them additional objectives on some condition. Should be very uncommon, *especially* duplicating masks. Examples: [subverter](masks/traitor/subverter.md), [enthraller](masks/crew/enthraller.md).
 - **Copier**: Masks which copy other masks on some condition. Examples: [cannibal](masks/crew/cannibal.md).
@@ -74,23 +74,6 @@ Some general archetypes of masks (again, not exhaustive and new archetypes can a
 - **Guardian**: Masks which center around preventing other players from being harmed or killed. Examples: [avenger](masks/crew/avenger.md), [tracker](masks/crew/tracker.md).
 - **Freak**: Masks whose objectives interact with the simulation in a way that is strange and leads into weird interactions, but not necessarily direct conflict with others. Examples: [glutton](masks/crew/glutton.md), [daredevil](masks/crew/daredevil.md).
 - **Oracle:** Maks which can gain hidden meta-knowledge about another mask. Examples: [insider](masks/crew/insider.md).
-
-## Variants {.es-unimplemented}
-
-With a low random chance (~10%), masks can roll a "variant". Mask variants (or mask modifiers) can change the gear, abilities, or objectives of a mask, keeping its overall vibe the same while changing its gameplay. When a mask is affected by a variant, this is shown as an adjective before the mask name wherever it's displayed; e.g. "Expert Fruit Vendor".
-
-Variants are not automatically created for every mask--custom variants must be implemented for masks, ensuring that each one is hand-tuned. Masks need not have any variants (and many shouldn't), and they certainly need not implement every variant that exists. Variants for masks should only be made when they can be made meaningfully different from their base mask. If a mask has no variants, but it rolls a variant, nothing happens.
-
-The benefit of variants is twofold. First, it acts as a force multiplier on mask variety without requiring you to come up with wholly new concepts and without diluting the mask pool. Variants are much easier to come up with, and the full concept for a fun variant often simply emerges out of asking "how could I apply this general variant to this mask"?
-
-Variants can be general--a thematically similar transformation applied to many masks--or they can be more specialized and mask-specific, if a mask really feels like it calls for a unique variant.
-
-Some general variants with example modified masks:
-- **Dubious**: In some way inverts or makes negative the objectives or items of a mask, though without changing the character of the mask. Examples: dubious veteran (must kill a member of their own troupe instead of an enemy troupe), dubious arms dealer (objective is for people to use the guns to kill rather than not kill).
-- **Professional**: Increases the power level of a mask's abilities/items, enough to be significant. Examples: professional arms dealer (spawns higher-caliber weapons, or even things like rocket launchers), professional VIP (VIP+; card states their name and flashbangs people around them when shown)
-- **Chaotic**: Increases the variance, silliness, or rarity of a mask's items/abilities. Examples: chaotic fruit vendor (only has weirder fruits, gatfruit, combustible lemons etc), chaotic guzzler (pulls from an even weirder pool of chemicals)
-
-Sometimes, variants can be interesting enough to warrant an entire new mask exploring the idea. When in doubt, err towards making it into a separate mask--variants should only be minor tweaks to a mask's gameplay that don't change the entire character of it, and making a new mask can be less restrictive in that regard. New variants should always require less time and energy to create than a full mask, if only because variants are by their nature less frequent. Don't twist yourself into knots trying to come up with variants for a mask if none easily come to mind--if you have to stretch definitions or change too much to make it work, then there's no need to do it at all.
 
 ## Assignment
 

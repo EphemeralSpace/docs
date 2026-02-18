@@ -27,7 +27,3 @@ The Polymath's abilities depend on the random abilities chosen for them--for exa
 The Polymath generates high amounts of variable deniability for essentially any crew mask with an ability--suddenly, being able to spawn fruits out of the aether no longer implies a harmless Fruit Vendor, and it may in fact be a Polymath with the ability to kill an enemy or set fires.
 
 The existence of the Polymath requires people to think more carefully about ability-granting masks, and the randomization allows for some truly strange combinations (Fruit Vendor with Glutton objectives, anyone?).
-
-## Variants
-
-- *Professional Polymath* - Rolls 3 abilities and 3 objectives, rather than 2

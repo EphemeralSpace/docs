@@ -1,0 +1,18 @@
+## Mask Variants
+
+{{#template ../../templates/removed-unimplemented.md reason="maybe comes back in the future, hard to explain the exact reason for sunsetting this concept but it just kind of played into a very heavy-randomization-centric concept of masks which ended up pretty incompatible with masquerades, and i like how masquerades have played out a lot. also its kind of hard to come up with ones that dont suck, i think id rather have the variantization just an inherent aspect of the mask rather than a bespoke design element or whatever" }}
+
+With a low random chance (~10%), masks can roll a "variant". Mask variants (or mask modifiers) can change the gear, abilities, or objectives of a mask, keeping its overall vibe the same while changing its gameplay. When a mask is affected by a variant, this is shown as an adjective before the mask name wherever it's displayed; e.g. "Expert Fruit Vendor".
+
+Variants are not automatically created for every mask--custom variants must be implemented for masks, ensuring that each one is hand-tuned. Masks need not have any variants (and many shouldn't), and they certainly need not implement every variant that exists. Variants for masks should only be made when they can be made meaningfully different from their base mask. If a mask has no variants, but it rolls a variant, nothing happens.
+
+The benefit of variants is twofold. First, it acts as a force multiplier on mask variety without requiring you to come up with wholly new concepts and without diluting the mask pool. Variants are much easier to come up with, and the full concept for a fun variant often simply emerges out of asking "how could I apply this general variant to this mask"?
+
+Variants can be general--a thematically similar transformation applied to many masks--or they can be more specialized and mask-specific, if a mask really feels like it calls for a unique variant.
+
+Some general variants with example modified masks:
+- **Dubious**: In some way inverts or makes negative the objectives or items of a mask, though without changing the character of the mask. Examples: dubious veteran (must kill a member of their own troupe instead of an enemy troupe), dubious arms dealer (objective is for people to use the guns to kill rather than not kill).
+- **Professional**: Increases the power level of a mask's abilities/items, enough to be significant. Examples: professional arms dealer (spawns higher-caliber weapons, or even things like rocket launchers), professional VIP (VIP+; card states their name and flashbangs people around them when shown)
+- **Chaotic**: Increases the variance, silliness, or rarity of a mask's items/abilities. Examples: chaotic fruit vendor (only has weirder fruits, gatfruit, combustible lemons etc), chaotic guzzler (pulls from an even weirder pool of chemicals)
+
+Sometimes, variants can be interesting enough to warrant an entire new mask exploring the idea. When in doubt, err towards making it into a separate mask--variants should only be minor tweaks to a mask's gameplay that don't change the entire character of it, and making a new mask can be less restrictive in that regard. New variants should always require less time and energy to create than a full mask, if only because variants are by their nature less frequent. Don't twist yourself into knots trying to come up with variants for a mask if none easily come to mind--if you have to stretch definitions or change too much to make it work, then there's no need to do it at all.
