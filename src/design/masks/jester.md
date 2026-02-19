@@ -7,7 +7,7 @@ These masks do not share a common objective like other troupes, but are rather u
 
 Historically, most of the Jester masks used to simply be [crew](crew.md) masks, but this had a few drawbacks.
 First, due to the masks' objectives often causing the player to exit the round or greatly disrupt gameplay, they failed to be able to meaningfully help with crew objectives.
-They also ended up being poor cover for non-crew troupes, since masks like the [insider](crew/insider.md) were unable to target them.
+They also ended up being poor cover for non-crew troupes, since masks like the insider were unable to target them.
 
 ## Funishment
 Jesters broadly exist to punish overzealous crew masks who engage in excessive murder.

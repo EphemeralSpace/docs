@@ -21,7 +21,7 @@ The objective adding should probably be delayed by a bit, so the Enthraller has 
 
 ## Concept
 
-The Enthraller captures the minds of others by staring at them, which gives them an objective to prevent the Enthraller's death. Their mask is unaffected--only an objective is added, and all else is unchanged. The objective does not state the Enthraller's name directly--rather, it only gives some clues, like "has brown hair", "middle aged man", or "has a Z in their name". These clues are identical to the clues the [Insider](./insider.md) receives.
+The Enthraller captures the minds of others by staring at them, which gives them an objective to prevent the Enthraller's death. Their mask is unaffected--only an objective is added, and all else is unchanged. The objective does not state the Enthraller's name directly--rather, it only gives some clues, like "has brown hair", "middle aged man", or "has a Z in their name". These clues are identical to the clues the Insider receives.
 
 > I'm absolutely enthralled by… who was it? They must have been a **young man** with **the letter Z** in their name! I can't let them die.
 

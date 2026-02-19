@@ -2,6 +2,8 @@
 
 {{#template ../templates/partially-implemented.md}}
 
+{{#template ../../templates/slated-for-rework.md reason="we've learned a lot of lessons from oracles and freaks - namely, they do not work so well as a standard gameplay fixture. the documentation should probably be updated to reflect this."}}
+
 Masks are an additional layer on top of traditional jobs that serves to give greater indivudal direction to players.
 In the context of SS1X as a whole, they function most similarly to antagonists, though their design is much closer to the roles found in social deduction games like TTT, Town of Salem, or Mafia.
 
@@ -72,7 +74,7 @@ Some general archetypes of masks (again, not exhaustive and new archetypes can a
 - **Sabotager**: Masks whose objectives revolve around engaging in some kind of malicious activity that generally harms others and leads to direct conflict and has deniability with troupe masks. Examples: [vandal](masks/crew/vandal.md).
 - **Murderer**: Masks which center around directly engaging in conflict with and killing other players. Examples: [assassin](masks/traitor/assassin.md), [veteran](masks/crew/veteran.md).
 - **Guardian**: Masks which center around preventing other players from being harmed or killed. Examples: [avenger](masks/crew/avenger.md), [tracker](masks/crew/tracker.md).
-- **Freak**: Masks whose objectives interact with the simulation in a way that is strange and leads into weird interactions, but not necessarily direct conflict with others. Examples: [glutton](masks/crew/glutton.md), [daredevil](masks/crew/daredevil.md).
+- **Freak**: Masks whose objectives interact with the simulation in a way that is strange and leads into weird interactions, but not necessarily direct conflict with others. Examples: [glutton](masks/crew/glutton.md), [guzzler](masks/crew/guzzler.md).
 - **Oracle:** Maks which can gain hidden meta-knowledge about another mask. Examples: [insider](masks/crew/insider.md).
 
 ## Assignment
