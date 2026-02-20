@@ -42,12 +42,15 @@ Once the station has rerouted, any non-mafia member can reverse the routing, ret
 ### Growing the Family
 The Godfather has the option to, at any point, proposition any non-security and non-command player to become a member of the mafia.
 Although they can offer this to players with non-crew masks, they are incapable of accepting.
-Alongside the offer, the Godfather also selects a target for the member to attack in a show of loyalty.
+Alongside the offer, the Godfather also selects a target for the member to kill in a show of loyalty.
 
-If the player accepts the offer, they will lose their current mask and become a [goon]().
+If the player accepts the offer, they will lose their current mask and become a [goon](mafia/goon.md).
 Goons don't count as a senior Mafioso for the purpose of the mafia's objective, although they are still members of the troupe.
-Instead, goons have a mask objective to crit out the target that the Godfather specified.
+Instead, goons have a mask objective to whack the target that the Godfather specified.
 When this is completed, the goon's mask will change to a [capo](), signifying them as a senior mafioso and progressing the objective.
+
+This creates a progression in the round, as goons kill crew members in order to level up, weakening the crew and drawing heat on the mafia.
+This however also limits the pool for future mafia members, potentially starving the mafia if too many members die off.
 
 ## Succession
 ![](../../assets/design/masks/mafia.png)
