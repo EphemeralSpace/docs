@@ -69,6 +69,7 @@
     - [Turncoat](design/masks/traitor/turncoat.md)
     - [Syndie Superfan](design/masks/traitor/syndie-superfan.md)
   - [Mafia](design/masks/mafia.md)
+    - [Capo](design/masks/mafia/capo.md)
     - [Goon](design/masks/mafia/goon.md)
   - [Jesters](design/masks/jester.md)
     - [Martyr](design/masks/jester/martyr.md)
