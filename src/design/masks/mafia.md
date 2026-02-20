@@ -42,8 +42,8 @@ The rerouting causes a loud announcement to play, alerting any remaining crew to
 Once the station has rerouted, any non-mafia member can reverse the routing, returning the station back to Nanotrasen control.
 
 ### Growing the Family
-The Godfather has the option to, at any point, proposition any non-security and non-command player to become a member of the mafia.
-Although they can offer this to players with non-crew masks, they are incapable of accepting.
+The Godfather has the option to, at any point, proposition any player to become a member of the mafia.
+The offered player can then choose to either accept or decline the offer (except if they are security, command, or a non-crew troupe, in which case they can only decline).
 Alongside the offer, the Godfather also selects a target for the member to kill in a show of loyalty.
 
 If the player accepts the offer, they will lose their current mask and become a [goon](mafia/goon.md).
