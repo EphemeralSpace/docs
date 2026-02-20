@@ -1,10 +1,10 @@
 # Connoisseur
 
-{{#template ../../../templates/unimplemented.md }}
+{{#template ../../templates/removed-unimplemented.md reason="would almost certainly not have any interesting effect on the game, especially considering it's an oracle *and* doesn't have any real tell to the players being observed, similar to empath"}}
 
 > **Name:** Connoisseur
 >
-> **Troupe:** [Crew](../crew.md)
+> **Troupe:** Crew
 >
 > **Archetypes:** Oracle, Freak
 >

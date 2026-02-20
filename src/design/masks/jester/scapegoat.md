@@ -16,7 +16,7 @@
 
 ## Concept
 
-The Scapegoat is a Jester-type mask that counts as a "member of another troupe" for the purposes of masks like the [Veteran](../crew/veteran.md) or [Insider](../crew/insider.md).
+The Scapegoat is a Jester-type mask that counts as a "member of another troupe" for the purposes of masks like the [Veteran](../crew/veteran.md) or Insider.
 
 ## Abilities
 
