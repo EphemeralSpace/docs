@@ -71,6 +71,7 @@
   - [Mafia](design/masks/mafia.md)
     - [Capo](design/masks/mafia/capo.md)
     - [Consigliere](design/masks/mafia/consigliere.md)
+    - [Godfather](design/masks/mafia/godfather.md)
     - [Goon](design/masks/mafia/goon.md)
     - [Underboss](design/masks/mafia/underboss.md)
   - [Jesters](design/masks/jester.md)
