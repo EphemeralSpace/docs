@@ -18,7 +18,7 @@
 
 ## Concept
 The goon is the most basic member of the mafia, and mirror the [recruit](../traitor/recruit.md) of the traitor troupe.
-While you cannot spawn as a goon, any crew role is able to become a goon by accepting the [Godfather's]() offer to join the mafia.
+While you cannot spawn as a goon, any crew role is able to become a goon by accepting the [Godfather's](godfather.md) offer to join the mafia.
 As a goon, your goal is to beat up your target so you can promote into a [capo](capo.md).
 
 ## Abilities

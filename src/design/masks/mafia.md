@@ -3,7 +3,7 @@
 {{#template ../../templates/unimplemented.md }}
 
 The mafia is a **minor troupe** focused on station control, voluntary conversion, and evolution.
-It focuses on the [Godfather](), a mask who spawns directly on the station, and the various members of their family, who either came from or will be recruited from the crew.
+It focuses on the [Godfather](mafia/godfather.md), a mask who spawns directly on the station, and the various members of their family, who either came from or will be recruited from the crew.
 As a collective, the mafia must take control of station and complete telescience, ensuring that the station (and Don) escape harm.
 
 As a force, the mafia is not immediately harmful to the average person on the station.

@@ -24,7 +24,7 @@ While they don't have the sheer firepower of the Godfather, their less-important
 The underboss starts with a double-barrel shotgun, several boxes of buckshot and slugs, an armored vest, and a knife.
 Note that only the _first_ underboss will receive this.
 
-The underboss promotes into the [Godfather]().
+The underboss promotes into the [Godfather](godfather.md).
 If the underboss dies, a new one will be promoted from a [consigliere](consigliere.md) (or a [capo](capo.md) if unavailable).
 
 ## Gameplay
