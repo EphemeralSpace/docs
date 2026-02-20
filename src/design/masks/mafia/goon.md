@@ -12,14 +12,14 @@
 >
 > **Objectives:** Teach your target a lesson by whacking 'em.
 >
-> **Masquerade notes:** N/A
+> **Masquerade notes:** Should not be directly assigned in a masquerade.
 >
 > *They call me the goon because I uh... erm. Because I love serving the Boss!*
 
 ## Concept
 The goon is the most basic member of the mafia, and mirror the [recruit](../traitor/recruit.md) of the traitor troupe.
 While you cannot spawn as a goon, any crew role is able to become a goon by accepting the [Godfather's]() offer to join the mafia.
-As a goon, your goal is to beat up your target so you can promote into a [capo]().
+As a goon, your goal is to beat up your target so you can promote into a [capo](capo.md).
 
 ## Abilities
 The goon has no special abilities.
