@@ -38,5 +38,3 @@ This ability cannot be used on unconscious or dead players.
 The Enthraller is a lite-Converter type mask that generally throws a wrench into things while not completely taking over roundflow. Because the objective doesn't state the Enthraller's name, multiple thralls may have to convene and share their clues to figure out who it is.
 
 Enthralling someone, in many cases, can lead to interesting situations. A traitor with an objective to murder the Enthraller may find themselves a thrall, or in general any mask hunting the Enthraller over a grudge or suspicion might find themselves in their grasp instead. Because becoming a thrall doesn't change your mask, characters with wildly diverging goals may find themselves aligned on the task of trying to prevent the Enthraller's death by any means--and medbay could become swarmed by a group of thralls all trying to keep them alive.
-
-The Enthraller's action provides some co-deniability with the [Connoisseur](./connoisseur.md)'s action, which are functionally identical.
