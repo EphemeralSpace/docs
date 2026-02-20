@@ -2,11 +2,11 @@
 
 {{#template ../../../templates/implemented.md }}
 
-{{#template ../../../templates/slated-for-rework.md reason="doesnt interact with other players enough, they tend to just do their own thing. going to be reworked into a different mask most likely that is more player-interaction-driven"}}
+{{#template ../../../templates/removed-implemented.md reason="doesnt interact with other players enough, they tend to just do their own thing. going to be reworked into a different mask most likely that is more player-interaction-driven"}}
 
 > **Name:** Daredevil
 >
-> **Troupe:** [Crew](../crew.md)
+> **Troupe:** Crew
 >
 > **Description:** Engage in brash feats of self-endangerment. Try not to die in the process.
 >
@@ -24,7 +24,7 @@ The Daredevil is a mask that tries to put itself in dangerous environments witho
 
 ## Abilities
 
-One-time adrenaline if in critical condition like the [Parasite](../jester/parasite.md). Revives them just enough and gives a temporary speedboost to get out and leave if they aren't being directly pursued, but only once.
+One-time adrenaline if in critical condition like the Parasite. Revives them just enough and gives a temporary speedboost to get out and leave if they aren't being directly pursued, but only once.
 
 ## Gameplay
 

@@ -21,7 +21,7 @@ A second chance for the traitors, who only gets their true mask when their troup
 When all members of the Traitor troupe have died, this mask transforms into a traitor mask determined by the current [Masquerade](../../masquerades.md).
 
 ## Gameplay
-The superfan is known by the traitors, but not vice versa, with the traitor team composition unknown to the superfan until they're all dead and dusted. The superfan is one of the few roles that changes how they're seen over the course of the game, with their presence being a wrench in the gears for [Insider](../crew/insider.md) and the likes.
+The superfan is known by the traitors, but not vice versa, with the traitor team composition unknown to the superfan until they're all dead and dusted. The superfan is one of the few roles that changes how they're seen over the course of the game, with their presence being a wrench in the gears for potential oracles and the likes.
 
 The superfan wins with their current troupe, so if the traitors don't **all** die, they still win with the crew. This is not necessarily traditional to the werewolf role (aptly named [Traitor](https://werewolf.chat/Traitor)) this mask is based on, but is necessary due to the outstanding impact even a [Recruit](recruit.md) can have on the game.
 
