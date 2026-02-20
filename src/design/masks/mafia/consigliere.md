@@ -12,7 +12,7 @@
 >
 > **Objectives:** None.
 >
-> **Masquerade notes:** Should be limited to a single instance per round.
+> **Masquerade notes:** Limited to a single instance per round.
 >
 > *I'm entering something of a scheming vizier era. I'm on the ground. I'm getting the info. I'm making sure that the Boss gets what he needs. I'm HR. It's a busy position.*
 
@@ -24,7 +24,7 @@ While they are technically able to fight and are even supplied a sidearm, their 
 The consigliere starts with thermal goggles that allow them to see players through walls, a camera bug, a silenced pistol, and a master encryption key.
 Note that only the _first_ consigliere will receive this.
 
-The consigliere promotes into the [underboss]().
+The consigliere promotes into the [underboss](underboss.md).
 If the consigliere dies, a new one will be promoted from a [capo](capo.md).
 
 ## Gameplay

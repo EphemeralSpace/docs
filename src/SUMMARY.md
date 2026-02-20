@@ -72,6 +72,7 @@
     - [Capo](design/masks/mafia/capo.md)
     - [Consigliere](design/masks/mafia/consigliere.md)
     - [Goon](design/masks/mafia/goon.md)
+    - [Underboss](design/masks/mafia/underboss.md)
   - [Jesters](design/masks/jester.md)
     - [Martyr](design/masks/jester/martyr.md)
     - [Parasite](design/masks/jester/parasite.md)

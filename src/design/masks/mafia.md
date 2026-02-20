@@ -32,7 +32,7 @@ The mafia has two main goals:
 - Seize control of the station
 - Have X (low) senior Mafiosos
 
-When these goals are done, the completion of telescience will end the round as a mafia victory, causing crew to fail.
+When these goals are done, the completion of telescience will end the round as a mafia victory, causing crew to lose.
 
 ### Seizing the Station
 Control of the station is dictated by the **interspace navigation terminal**, located inside the bridge.
