@@ -32,6 +32,8 @@ The mafia has two main goals:
 - Seize control of the station
 - Have X (low) senior Mafiosos
 
+When these goals are done, the completion of telescience will end the round as a mafia victory, causing crew to fail.
+
 ### Seizing the Station
 Control of the station is dictated by the **interspace navigation terminal**, located inside the bridge.
 When at this terminal, the Godfather can begin a ~2-minute-long process to reroute it to Italian-American sector space.
