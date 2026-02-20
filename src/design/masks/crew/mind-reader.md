@@ -20,14 +20,14 @@ The mind reader cannot learn information about masks, but rather only informatio
 This includes their name, original shift-start appearance, and hidden details about themselves.
 
 ## Abilities
-The mind reader has an ability similar to the [connoisseur](connoisseur.md) and [enthraller](enthraller.md) which can target any living player in order to learn information about their true identity.
+The mind reader has an ability similar to the [enthraller](enthraller.md) which can target any living player in order to learn information about their true identity.
 Each successive DoAfter reveals more and more useful [clues](../../characters/clues.md) about the player.
 
 If the mind reader is interrupted during this process, the mind reading will cancel, stunning them and applying a cooldown to the ability.
 If uninterrupted, once all the information has been read, the mind reader will exit the ability with no downsides.
 
 ## Gameplay
-The mind reader's primary purpose is similar masks like the [connoisseur](connoisseur.md) or to role like the [bartender](../../jobs/bartender.md) in that they collect clues about people that can be used by other roles for deductive reasons.
+The mind reader's primary purpose is similar to the [bartender](../../jobs/bartender.md) in that they collect clues about people that can be used by other roles for deductive reasons.
 Additionally, the ability to see through an identity disguise and learn someone's name makes them a counter against what can otherwise be powerful disguise masks.
 
 In terms of their interactions with others, the mind reader is subtly threatening in that they are likely to stalk their target and wait for inactivity in order to start learning information about them.
