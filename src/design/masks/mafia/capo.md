@@ -21,7 +21,7 @@ The capo serves as an "evolved" form of the [goon](goon.md), being the result of
 Gaining capos are a win condition for the mafia, as they are the only replenishable senior member.
 
 ## Abilities
-The capo promotes into the [consigliere]().
+The capo promotes into the [consigliere](consigliere.md).
 
 ## Gameplay
 Capos serve as the more-experienced soldiers of the troupe.
