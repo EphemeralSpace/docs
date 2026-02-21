@@ -8,25 +8,23 @@
 >
 > **Archetypes:** N/A
 >
-> **Description:** Serve the Mafiosos well as the bottom-rung of the organization.
+> **Description:** Serve the mafia well as the bottom-rung of the organization.
 >
-> **Objectives:** Teach your target a lesson by whacking 'em.
+> **Objectives:** None
 >
-> **Masquerade notes:** Should not be directly assigned in a masquerade.
+> **Masquerade notes:** N/A
 >
 > *They call me the goon because I uh... erm. Because I love serving the Boss!*
 
 ## Concept
 The goon is the most basic member of the mafia, and mirror the [recruit](../traitor/recruit.md) of the traitor troupe.
-While you cannot spawn as a goon, any crew role is able to become a goon by accepting the [Godfather's](godfather.md) offer to join the mafia.
-As a goon, your goal is to beat up your target so you can promote into a [capo](capo.md).
+While you cannot spawn as a goon, any crew role is able to become a goon by accepting the [godfather's](godfather.md) offer to join the mafia.
 
 ## Abilities
-The goon has no special abilities.
+The goon is the last in line to promote into the godfather
 
 ## Gameplay
-Goons are the basic soldiers of the mafia and serve as a transitionary point in the growth of the troupe's power.
-Since they do not progress the mafia's goals until they complete their job, goons are incentivized to work with other mafia members to complete their hits.
-
-This ties into the progression of the troupe, as it forces a baseline level of conflict while the mafia completes their objectives.
-Consequently, goons must be careful, as their violence is likely to bring a baseline level of suspicion onto them that other members of the mafia might not otherwise have.
+Goons are the basic soldiers of the mafia and serve as a low level inductees into the troupe.
+While playing as a goon is not substantially different from any other member of the mafia, the interest comes in the fact that becoming a goon is a voluntary conversion.
+Since goons lose in the event of a mafia loss, prospective Mafiosos are encouraged to weigh the state of the mafia versus the state of the crew before joining.
+This creates a system where if the mafia appears to be in bad shape, players might stay away in fear of both losing their mask as failing as part of the mafia troupe.

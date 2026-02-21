@@ -69,7 +69,6 @@
     - [Turncoat](design/masks/traitor/turncoat.md)
     - [Syndie Superfan](design/masks/traitor/syndie-superfan.md)
   - [Mafia](design/masks/mafia.md)
-    - [Capo](design/masks/mafia/capo.md)
     - [Consigliere](design/masks/mafia/consigliere.md)
     - [Godfather](design/masks/mafia/godfather.md)
     - [Goon](design/masks/mafia/goon.md)
