@@ -22,7 +22,6 @@ While they don't have the sheer firepower of the godfather, their less-important
 
 ## Abilities
 The underboss starts with a double-barrel shotgun, several boxes of buckshot and slugs, an armored vest, and a knife.
-Note that only the _first_ underboss will receive this.
 
 The underboss is first in line to promote into the [godfather](godfather.md).
 

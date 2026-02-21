@@ -22,7 +22,6 @@ While they are technically able to fight and are even supplied a sidearm, their 
 
 ## Abilities
 The consigliere starts with thermal goggles that allow them to see players through walls, a camera bug, a silenced pistol, and a master encryption key.
-Note that only the _first_ consigliere will receive this.
 
 The consigliere is second in line to promote into the [godfather](godfather.md).
 
