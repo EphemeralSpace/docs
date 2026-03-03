@@ -69,6 +69,7 @@
     - [Turncoat](design/masks/traitor/turncoat.md)
     - [Syndie Superfan](design/masks/traitor/syndie-superfan.md)
   - [Jesters](design/masks/jester.md)
+    - [Fool](design/masks/jester/fool.md)
     - [Martyr](design/masks/jester/martyr.md)
     - [Parasite](design/masks/jester/parasite.md)
     - [Phantom](design/masks/jester/phantom.md)
