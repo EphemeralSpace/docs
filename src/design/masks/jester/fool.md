@@ -8,7 +8,7 @@
 >
 > **Archetypes:** Dud
 >
-> **Description:** Revel in failure as a loose condition for the jester troupe.
+> **Description:** Revel in failure as a lose state for the jester troupe.
 >
 > **Objectives:** None.
 >
