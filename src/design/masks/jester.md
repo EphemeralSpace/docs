@@ -7,7 +7,7 @@ These masks do not have a shared objective like other troupes, but are rather un
 
 Historically, most of the Jester masks used to simply be [crew](crew.md) masks, but this had a few drawbacks.
 First, due to the masks' objectives often causing the player to exit the round or greatly disrupt gameplay, they failed to be able to meaningfully help with crew objectives.
-They also ended up being poor cover for non-crew troupes, since masks like the [insider](crew/insider.md) were unable to target them.
+They also ended up being poor cover for non-crew troupes, since masks like the insider were unable to target them.
 
 ## Jester's Code
 All jesters have a unified objective to not kill another player, with the action of doing so transforming them into [the fool](jester/fool.md) (the obvious exception being the fool itself).
