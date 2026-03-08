@@ -74,6 +74,7 @@
     - [Goon](design/masks/mafia/goon.md)
     - [Underboss](design/masks/mafia/underboss.md)
   - [Jesters](design/masks/jester.md)
+    - [Fool](design/masks/jester/fool.md)
     - [Martyr](design/masks/jester/martyr.md)
     - [Parasite](design/masks/jester/parasite.md)
     - [Phantom](design/masks/jester/phantom.md)

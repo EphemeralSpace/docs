@@ -1,13 +1,18 @@
 # Jesters
 
-{{#template ../../templates/unimplemented.md }}
+{{#template ../../templates/implemented.md }}
 
 The jesters are an umbrella minor troupe that encompasses a variety of unaffiliated jester-type masks.
-These masks do not share a common objective like other troupes, but are rather unified through their similar gameplay loops.
+These masks do not have a shared objective like other troupes, but are rather unified through similar objectives and motives.
 
 Historically, most of the Jester masks used to simply be [crew](crew.md) masks, but this had a few drawbacks.
 First, due to the masks' objectives often causing the player to exit the round or greatly disrupt gameplay, they failed to be able to meaningfully help with crew objectives.
 They also ended up being poor cover for non-crew troupes, since masks like the insider were unable to target them.
+
+## Jester's Code
+All jesters have a unified objective to not kill another player, with the action of doing so transforming them into [the fool](jester/fool.md) (the obvious exception being the fool itself).
+This imposes a somewhat interesting restriction: how do you get the crew to escalate to taking your life without having taken a life yourself?
+While you can still resort to some level of limited violence, there is a more gradual escalation into full murder that must be undertaken, creating a more interesting situation for those involved.
 
 ## Funishment
 Jesters broadly exist to punish overzealous crew masks who engage in excessive murder.
