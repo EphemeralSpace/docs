@@ -21,28 +21,21 @@ While they are still generally trustworthy due to their high number (the average
 The main objective of the crew lies within the science department: the Portal Generator.
 This massive machine is capable of instantly teleporting objects across space, and it's the teams way to victory, if they can charge it up.
 
-Succeeding in telescience is meant to be a largely hands-off process.
+Succeeding in telescience is meant to be a relatively-easy process.
 As the sorta gameplay default, the crew are positioned to win so long as they keep things running and prevent other troupes from winning.
 So long as minimum effort is exerted, the crew should always be able to win.
 The crew entirely failing is more of a default case in the event of something catastrophic that would otherwise stall the round.
 
 ## Telescience
-In order to win, the crew must charge up the portal generator before the end of the round.
-This is done passively through simply supplying it with constant power.
-Note that, while this is relatively low skill, it can still be (temporarily) sabotaged: either by cutting power supply or destroying components of the portal generator.
+In order to win, the crew must charge up the portal generator through several phases before the radstorm reaches the station.
+The charging is done passively through simply supplying it with constant power.
+Note that this can still be (temporarily) sabotaged: either by cutting power supply or destroying components of the portal generator.
 
-At regular intervals while charging up, the machine will pause until a random **Portal Event** is completed.
-Portal Events are activated through a console attached to the portal generator itself, which must be manually run by someone on-site.
+Once the generator has finished charging, it can be activated.
+The activation will cause a **Portal Event** to occur, spawning various anomalies across the station. 
+Note that the next phase will bein to charge, but it can't be activated until the anomalies from the previous phase have been contained.
 
-Some of these events may include:
-- Teleporting in a small grid off-station filled with mobs and materials
-- Opening up a portal on the station that streams out enemies
-- Teleporting some players into the world on the other side of the portals
-- Bringing a chunk of the portal world onto the station, bulldozing departments and flooding the area with dangers
-
-Starting the event will immediately allow the portal generator to continue charging, but it will also spawn a threat somewhere on the station.
-These threats fulfill the same purpose as a traditional midround antagonist: they escalate the chaos within the round and provide clear targets for the station to rally against.
-Keep in mind that, while these are _akin_ to midrounds, they are not _literally_ midrounds.
-A portal event can pull in strange aliens, dangerous anomalies, or even teleport in chunks of another world.
+Portal events function as a round modifiers, interacting with each other and interesting way and changing how player's have to play while they are active.
+They can be contained through cooperation by players, done primarily by [scientists](../jobs/scientist.md), which is a requirement for completing the main objective.
 
 Once the charge has completely filled up (taking the duration of an average round), the portal generator will be able to activate once more, teleporting the station out of danger and starting the evacuation sequence and ending the round.
