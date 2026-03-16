@@ -87,6 +87,7 @@
     - [Bomber](design/masks/crew/bomber.md)
     - [Cannibal](design/masks/crew/cannibal.md)
     - [Coveter](design/masks/crew/coveter.md)
+    - [Crewmember](design/masks/crew/crewmember.md)
     - [Enthraller](design/masks/crew/enthraller.md)
     - [Fruit Vendor](design/masks/crew/fruit-vendor.md)
     - [Glutton](design/masks/crew/glutton.md)
