@@ -15,7 +15,7 @@ Once you have your voice lines, you need to put them in FL studio, easily done b
 After the file has been added to the playlist, you need to find it on your channel rack, and open the audio clip.
 On the top right, where it is labelled "Track", you need to click and drag up until it goes from being blank to being a 1.
 After you've set the track correctly, you need to look below that to the **Time** stretching options.
-Set the mode to **Stretch**, and then drag the pitch knob down **200 semitones**.
+Set the mode to **Stretch**, and then drag the pitch knob down **2 semitones**.
 Repeat this for every voice line.
 
 Every voice line should now be attached to Mixer 1.

@@ -1,6 +1,6 @@
 # Scapegoat
 
-{{#template ../../../templates/unimplemented.md }}
+{{#template ../../templates/slated-for-rework.md reason="largely contengient on oracles existing, which are probably not going to be a main gameplay fixture anymore. also probably not a well-realized version of its concept."}}
 
 > **Name:** Scapegoat
 >
@@ -16,7 +16,7 @@
 
 ## Concept
 
-The Scapegoat is a Jester-type mask that counts as a "member of another troupe" for the purposes of masks like the [Veteran](../crew/veteran.md) or [Insider](../crew/insider.md).
+The Scapegoat is a Jester-type mask that counts as a "member of another troupe" for the purposes of masks like the [Veteran](../crew/veteran.md) or Insider.
 
 ## Abilities
 

@@ -27,7 +27,7 @@ The Angel is a helpful Guesser-type mask with an objective to protect at least 1
 
 ## Abilities
 
-The Angel can target any player once. They must guess that player's mask, and if correct, will inject a sizeable dose of omnizine into that player, as well as adrenaline similar to the [Daredevil](./daredevil.md) or [Parasite](../jester/parasite.md).
+The Angel can target any player once. They must guess that player's mask, and if correct, will inject a sizeable dose of omnizine into that player, as well as adrenaline similar to the [Parasite](../jester/parasite.md).
 
 ## Gameplay
 

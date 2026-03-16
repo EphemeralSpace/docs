@@ -1,10 +1,10 @@
 # Insider
 
-{{#template ../../../templates/implemented.md }}
+{{#template ../../templates/removed-implemented.md reason="technically balanced, but not a fun influence on the game at all. basically always feels bullshit to catch a traitor, or get caught as the traitor. similar to empath, it feels like you're bypassing the game's deductive reasoning layer entirely. while obviously not quite as bad as empath's hard-confirm, it is still irritatingly effective - even just flaky evidence is usually enough to confirm someone with an insider hit. furthermore, the insider was extremely command-sec aligned in an annoying way, especially considering their folder & cache is a dead giveaway they are the insider. potential future oracles should tread very carefully - especially relating to the deduction of individuals, since insider was not a shoddy attempt at an oracle."}}
 
 > **Name:** Insider
 >
-> **Troupe:** [Crew](../crew.md)
+> **Troupe:** Crew
 >
 > **Archetypes:** Oracle
 >
@@ -25,7 +25,7 @@ The Insider is an oracle mask that receives information about others in a cache,
 
 ## Abilities
 
-No abilities. Only equipment is the cache information, which is in the form of a list of [clues](../../characters/clues.md) about specific people, which takes a form something like this:
+No abilities. Only equipment is the cache information, which is in the form of a list of clues about specific people, which takes a form something like this:
 
 ```
 Info on "P":
@@ -39,6 +39,6 @@ Information about a person always states whether they are part of the crew or a 
 
 ## Gameplay
 
-The Insider is an incredibly useful crew-sided Oracle mask, receiving some of the best information in the game, with the caveat that they must do the work to case out targets in order to actually utilize it. This means keeping track of names, keeping track of apperances, keeping track of ages & genders, and even personality traits--maybe try asking the [Bartender](../../jobs/bartender.md) if they've heard anything recently.
+The Insider is an incredibly useful crew-sided Oracle mask, receiving some of the best information in the game, with the caveat that they must do the work to case out targets in order to actually utilize it. This means keeping track of names, keeping track of apperances, keeping track of ages & genders, and even personality traits--maybe try asking the Bartender if they've heard anything recently.
 
 Because the information is stored in a cache, it can't be used to immediately case out the arrivals shuttle and everyone on it. Furthermore, since it's just on paper, anyone can learn the information if they steal it from the Insider, and maybe even pose as an Insider themselves.
