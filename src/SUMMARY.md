@@ -67,7 +67,7 @@
     - [Recruit](design/masks/traitor/recruit.md)
     - [Subverter](design/masks/traitor/subverter.md)
     - [Turncoat](design/masks/traitor/turncoat.md)
-    - [Syndie Superfan](design/masks/traitor/syndie-superfan.md)
+    - [Sleeper Agent](design/masks/traitor/sleeper-agent.md)
   - [Mafia](design/masks/mafia.md)
     - [Consigliere](design/masks/mafia/consigliere.md)
     - [Godfather](design/masks/mafia/godfather.md)
