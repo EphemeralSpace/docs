@@ -73,6 +73,7 @@
     - [Godfather](design/masks/mafia/godfather.md)
     - [Goon](design/masks/mafia/goon.md)
     - [Underboss](design/masks/mafia/underboss.md)
+  - [Parasites](design/masks/parasites.md)
   - [Jesters](design/masks/jester.md)
     - [Fool](design/masks/jester/fool.md)
     - [Martyr](design/masks/jester/martyr.md)
