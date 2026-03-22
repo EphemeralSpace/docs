@@ -23,6 +23,10 @@ For someone already harboring the parasite, the spike triggers a frenzy, notifyi
 While the specific form the parasite takes outside the body varies from mask to mask, they all share the general form of a small, weak, parasitic worm.
 Seeing these worms emerge from a body or just amble around the station serves as a strong indication of the troupe's presence on the station.
 
+Once a parasite mask infects someone else, be it through some small pest or any other conversion method, the victim will gain the same mask as the one who infected them.
+This creates a general "presence" which serves to counteract the knowledge barrier and obscurity of conversions.
+If a single burstworm infects a crowd of people, more will be on the way and accounting for that becomes an important element of counteracting the troupe.
+
 ### Death Expert
 The parasites all share a handful of tools which allow them to better control their death.
 Since dying in an opportune location or near certain people is a key part of spreading the infection, it makes sense that parasites would have tools to do so without simply being at the whim of wounds and trauma.
