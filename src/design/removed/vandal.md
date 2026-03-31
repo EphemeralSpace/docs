@@ -1,10 +1,10 @@
 # Vandal
 
-{{#template ../../../templates/implemented.md }}
+{{#template ../../templates/removed-implemented.md reason="Combined into the rebel mask. The objectives were a good element for deniability but lacking gear makes vandals often extremely obvious and easy to discern. The mask just ended up being a bit too one-note and simplistic."}}
 
 > **Name:** Vandal
 >
-> **Troupe:** [Crew](../crew.md)
+> **Troupe:** Crew
 >
 > **Archetypes:** Sabotager
 >
@@ -16,11 +16,11 @@
 
 ## Concept
 
-The Vandal is a mask centered around breaking into and [sabotaging](../../machine-degradation.md) machines around the station.
+The Vandal is a mask centered around breaking into and sabotaging machines around the station.
 
 ## Abilities
 
-The Vandal has the ability to sabotage targeted machines, the same way [traitors](../traitors.md) do.
+The Vandal has the ability to sabotage targeted machines, the same way traitors do.
 
 ## Gameplay
 

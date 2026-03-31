@@ -18,7 +18,7 @@
 
 ## Concept
 The secretary is a unique "helper"-type role that is assigned to another mask that has personal objectives ([arms dealer](arms-dealer.md), [guzzler](guzzler.md), etc.) and must help them accomplish their objectives.
-They are not directly informed of _what_ these objectives are and cannot perform the objectives themselves (in the case of something like the vandal's sabotaging).
+They are not directly informed of _what_ these objectives are and cannot perform the objectives themselves (in the case of something like the rebel's sabotaging).
 
 ## Abilities
 The secretary has no special abilities.

@@ -101,7 +101,6 @@
     - [Rebel](design/masks/crew/rebel.md)
     - [Secretary](design/masks/crew/secretary.md)
     - [Tracker](design/masks/crew/tracker.md)
-    - [Vandal](design/masks/crew/vandal.md)
     - [Veteran](design/masks/crew/veteran.md)
     - [Vigilante](design/masks/crew/vigilante.md)
     - [VIP](design/masks/crew/vip.md)
@@ -140,4 +139,5 @@
   - [Scapegoat](design/removed/scapegoat.md)
   - [Spy](design/removed/spy.md)
   - [Survivalist](design/removed/survivalist.md)
+  - [Vandal](design/removed/vandal.md)
   - [Wildcards](design/removed/wildcards.md)
