@@ -12,6 +12,8 @@
 >
 > *No, look I'm innocent! See? That's my VIP card! I'm a Very Very Very Important Person! I couldn't possibly be a bad guy, guys!*
 
+{{#template ../../../templates/renamed.md name="Citizen"}}
+
 ## Concept
 The VIP is a mask that starts with a VIP card with their name on it. This card does nothing other then acting as a meta-confirmation that they're the VIP, as only the VIP can spawn with the card. They have no other special abilities or objectives.
 
