@@ -4,7 +4,7 @@
 
 > **Name:** Phantom
 >
-> **Troupe:** [Jester](../jester.md)
+> **Troupe:** [Crew](../crew.md)
 >
 > **Description:** Reincarnate as a vengeful phantom on death and annoy your murderer with small inconveniences until they die as well.
 >
