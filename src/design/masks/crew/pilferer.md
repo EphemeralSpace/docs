@@ -12,7 +12,7 @@
 >
 > **Objectives:** Pilfer X items from X (~20-25% of crew?) people on the station.
 >
-> *Some people on this station are too rich for their own good. Lucky they have me to give them a hand. Yup.. I'll be a hero once I distribute these lighters and pocket lint and [assorted fruits](./fruit-vendor.md) to the downtrodden. Eventually. I'll keep the revolver to myself.*
+> *Some people on this station are too rich for their own good. Lucky they have me to give them a hand. Yup.. I'll be a hero once I distribute these lighters and pocket lint and assorted fruits to the downtrodden. Eventually. I'll keep the revolver to myself.*
 
 ```admonish warning "Notes"
 It might be good to have a generic delay for this ability, and the abilities of other masks, to avoid stuff happening instantly on arrivals, since it can be a little too easy to go unnoticed. Not that it'd be very useful to steal stuff from people on arrivals anyway, though.

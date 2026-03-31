@@ -13,7 +13,7 @@
 > *I'm the bomber! Okay, wait, no, I'm--okay, that was just a reference, dude, it's literally a reference! You guys haven't seen Hunter X Hunter? What? Oh, you're only at the Heaven's Arena arc. The bomber is--he's like, he's from the Greed Island arc and he puts bombs on people and stuff. Anyway I lied and my bombs are super real and you should probably be really freaking scared right now.*
 
 ```admonish warning "Notes"
-Janet brought up the idea of having the bombs be more physical items, taking the forms of 'giver' items like the fruits of the [Fruit Vendor](./fruit-vendor.md), which I really enjoy as it provides some ambiguity to those masks. Need to ponder the concept more before crystallizing it though.
+Janet brought up the idea of having the bombs be more physical items, taking the forms of 'giver' items like the fruits of the Fruit Vendor, which I really enjoy as it provides some ambiguity to those masks. Need to ponder the concept more before crystallizing it though.
 ```
 
 ## Concept
@@ -30,7 +30,7 @@ Two bombs can be placed at a time, and if both are placed one must be disarmed o
 
 Forensics can be used to detect if a bomb was placed on someone and several candidates for who could have done it, but this of course requires suspicion that one was placed to begin with, or the body of someone that already succumbed to the Bomber. Targets killed by the bomb's explosion (since it triggers on crit) count as being killed by the Bomber for the purposes of on-death masks. If the Bomber dies, their bombs are disarmed and drop onto the ground near the targets.
 
-Detecting the Bomber's presence requires an already-existing suspicion that one is present (to check forensics). It's not immediately clear, when someone goes into crit, whether the explosion was the result of the Bomber or something unrelated, but the intent is that it should be possible to infer that it was a Bomber, and for people to take actions accordingly. 
+Detecting the Bomber's presence requires an already-existing suspicion that one is present (to check forensics). It's not immediately clear, when someone goes into crit, whether the explosion was the result of the Bomber or something unrelated, but the intent is that it should be possible to infer that it was a Bomber, and for people to take actions accordingly.
 
 The intrigue comes from determining who the Bomber could be by narrowing down options from forensics or using basic logic, whether what someone is saying could potentially be a hidden code phrase, and trying to figure out if you were inflicted with a bomb so you can avoid going into crit.
 

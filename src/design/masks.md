@@ -70,7 +70,7 @@ Some general archetypes of masks (again, not exhaustive and new archetypes can a
 - **Guesser**: Masks which have some effect when successfully guessing another player's mask--useful for enforcing hidden role gameplay. Examples: [coveter](masks/crew/coveter.md), [angel](masks/crew/angel.md)
 - **Converter**: Masks which convert another player to a certain mask or give them additional objectives on some condition. Should be very uncommon, *especially* duplicating masks. Examples: [subverter](masks/traitor/subverter.md), [enthraller](masks/crew/enthraller.md).
 - **Copier**: Masks which copy other masks on some condition. Examples: [cannibal](masks/crew/cannibal.md).
-- **Giver**: Masks which center around creating and disseminating items to others for some purpose. Examples: [arms dealer](masks/crew/arms-dealer.md), [fruit vendor](masks/crew/fruit-vendor.md).
+- **Giver**: Masks which center around creating and disseminating items to others for some purpose. Examples: [arms dealer](masks/crew/arms-dealer.md), [drug dealer](masks/crew/drug-dealer.md).
 - **Sabotager**: Masks whose objectives revolve around engaging in some kind of malicious activity that generally harms others and leads to direct conflict and has deniability with troupe masks. Examples: [vandal](masks/crew/vandal.md).
 - **Murderer**: Masks which center around directly engaging in conflict with and killing other players. Examples: [assassin](masks/traitor/assassin.md), [veteran](masks/crew/veteran.md).
 - **Guardian**: Masks which center around preventing other players from being harmed or killed. Examples: [avenger](masks/crew/avenger.md), [tracker](masks/crew/tracker.md).

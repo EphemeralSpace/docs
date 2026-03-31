@@ -28,7 +28,7 @@ All the pills additionally share a withdrawal effect, where the consumer will su
 This can range from stamina loss, vomiting, or even health drain.
 
 ## Gameplay
-The drug dealer takes a simple giver-type role like the [fruit vendor](fruit-vendor.md) but amplifies it through the danger of random pills.
+The drug dealer takes a simple giver-type role like the fruit vendor but amplifies it through the danger of random pills.
 Although some people may be initially willing to take a risk on popping random pills, upon receiving some negative effects, it may become substantially harder to get your pills consumed.
 As such, the drug dealer may need to resort to force-feeding or deceiving others to complete their goal, potentially making others thing they are being poisoned or attacked.
 
