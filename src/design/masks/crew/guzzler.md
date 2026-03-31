@@ -14,7 +14,7 @@
 
 ## Concept
 
-The Guzzler serves the interests of the Space Beverage Sommelier Corporation (not really) and must drink all kinds of heavenly mana (bevs) from all kinds of divine sources (the ground), functioning as a sort of drink variant of the [Glutton](./glutton.md). The Guzzler may tail a janitor as they mop the floor, before swooping in to consume all the delicious water and whatever the hell else is in the puddle before it's wasted on evaporation. The Guzzler may bother the bartender endlessly for drinks, inviting some suspicion, before just deciding to break in and steal the entire booze-o-mat anyway. One thing is for certain: it's guzzlin' time.
+The Guzzler serves the interests of the Space Beverage Sommelier Corporation (not really) and must drink all kinds of heavenly mana (bevs) from all kinds of divine sources (the ground). The Guzzler may tail a janitor as they mop the floor, before swooping in to consume all the delicious water and whatever the hell else is in the puddle before it's wasted on evaporation. The Guzzler may bother the bartender endlessly for drinks, inviting some suspicion, before just deciding to break in and steal the entire booze-o-mat anyway. One thing is for certain: it's guzzlin' time.
 
 ## Abilities
 

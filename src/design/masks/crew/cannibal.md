@@ -26,6 +26,4 @@ Mask-copiers introduce ambiguity into rounds by not guaranteeing that the gamepl
 
 Because the Cannibal copies objective completion, they want to be choosy in which mask they eat, and they have some incentive to delay their feast until it's more guaranteed that they can nab someone whose objectives will be easy. However, the longer they wait, the less it's guaranteed they'll be able to find a good mask to steal and the less time they'll have to complete someone's objectives if their target actually sucked at completing them the entire time.
 
-The act of eating *all of someone's organs* is pretty hard to miss, but can lend some plausible deniability to masks like the [Glutton](./glutton.md) (or vice versa), who may also munch on organs from time to time. The Cannibal must be careful to hide their reprehensible (and messy) deed carefully.
-
 If the Cannibal copies the mask of someone in a differing troupe, they may find it difficult to justify why exactly they're there, providing some strange but fun ambiguity and potential "friends to enemies" situations.
