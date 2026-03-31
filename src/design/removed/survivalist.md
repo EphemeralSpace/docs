@@ -1,10 +1,10 @@
 # Survivalist
 
-{{#template ../../../templates/implemented.md }}
+{{#template ../../templates/removed-implemented.md reason="Deeply boring mask that ended up having nearly zero effect on the round. The objective is not informative on playstyle considering that no one wants to die, anyways. The cache served as just a trivial hardconfirm for their safety since its loot pool was very distinctive. I genuinely don't even remember the NT MedAlert ever being that relevant to the round, certainly not to the degree that it was thought to be here."}}
 
 > **Name:** Survivalist
 >
-> **Troupe:** [Crew](../crew.md)
+> **Troupe:** Crew
 >
 > **Archetypes:** N/A
 >
@@ -32,7 +32,7 @@ The Survivalist can also obtain a prepper's cache, which they can locate in main
 
 The Survivalist's ability means that others who attack them may have to panic and move or abandon the body to avoid being caught by others rapidly approaching their location, introducing an occasional element of intrigue that was mostly lost with the removal of greencomms and less ease of use for radios in general. This ability doesn't give out any information about the attacker--just attack location--so it can't really be used to metagame threats, unlike a regular radio call. It also is not a confirm that the survivalist was actually attacked--they could have simply walked into a grille or walked out into space by accident, and the ability gives them some leeway to hopefully be found.
 
-The Survivalist's cache provides ambiguity for other cache-bearing masks, like [Traitors](../traitors.md) or the [Veteran](./veteran.md). The cache's utility items mostly serve to provide stronger theming and direction, and the variation of what they actually get can influence how they approach surviving the round.
+The Survivalist's cache provides ambiguity for other cache-bearing masks, like Traitors or the Veteran. The cache's utility items mostly serve to provide stronger theming and direction, and the variation of what they actually get can influence how they approach surviving the round.
 
 The Survivalist's objective to survive the round is in addition to their Crew troupe objective of ensuring the station safely escapes the radstorm--they have a stronger drive to survive at all costs, disincentivizing the selfless sacrifice that other crew masks may engage in, and their ability and utility items help them in this process.
 

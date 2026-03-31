@@ -102,7 +102,6 @@
     - [Phantom](design/masks/crew/phantom.md)
     - [Pilferer](design/masks/crew/pilferer.md)
     - [Secretary](design/masks/crew/secretary.md)
-    - [Survivalist](design/masks/crew/survivalist.md)
     - [Tracker](design/masks/crew/tracker.md)
     - [Vandal](design/masks/crew/vandal.md)
     - [Veteran](design/masks/crew/veteran.md)
@@ -139,4 +138,5 @@
   - [Sacrifice](design/removed/sacrifice.md)
   - [Scapegoat](design/removed/scapegoat.md)
   - [Spy](design/removed/spy.md)
+  - [Survivalist](design/removed/survivalist.md)
   - [Wildcards](design/removed/wildcards.md)
