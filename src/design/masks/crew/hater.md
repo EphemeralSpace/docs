@@ -27,4 +27,4 @@ For masks like jesters, this might even involve making _sure_ they survive.
 
 As a result, the hater has to carefully observe their target to discover their mask before trying to foil them.
 This creates an interesting observation and targeting dynamic, encouraging the target to obscure their intentions and play carefully.
-Additionally, the hater's actions may read as antagonistic to others, prompting them to get into conflict with security and veterans.
+Additionally, the hater's actions may read as antagonistic to others, prompting them to get into conflict with security and mercenaries.

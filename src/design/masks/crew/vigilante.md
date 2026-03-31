@@ -18,7 +18,7 @@
 
 ## Concept
 The vigilante is a mask that must target and kill players who have killed other players in the round.
-Unlike the [veteran](veteran.md), which is focused solely on troupe alignment, the vigilante cares about the actions a player has taken during the round, and thus can target any troupe.
+Unlike the [mercenary](mercenary.md), which is focused solely on troupe alignment, the vigilante cares about the actions a player has taken during the round, and thus can target any troupe.
 
 ## Abilities
 Starts with a cache containing some kind of weapon.
