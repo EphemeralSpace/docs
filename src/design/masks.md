@@ -65,7 +65,7 @@ Masks are generally grouped into archetypes, strictly for the purpose of reasoni
 When designing new masks, try to come up with novel combinations or inversions of archetypes that could be interesting, or see if there are 'too few' of a certain archetype (relative to how rare it should be overall and how interesting it is) and try to come up with a new spin on the concept.
 
 Some general archetypes of masks (again, not exhaustive and new archetypes can and should be created):
-- **Jester**: Masks that have some effect on being killed by another player or dying. Examples: [phantom](masks/jester/phantom.md), [martyr](masks/jester/martyr.md).
+- **Jester**: Masks that have some effect on being killed by another player or dying. Examples: [phantom](masks/crew/phantom.md), [martyr](masks/jester/martyr.md).
 - **Swapper**: Masks that swap masks with another target on some condition. Examples: [parasite](masks/jester/parasite.md), [coveter](masks/crew/coveter.md).
 - **Guesser**: Masks which have some effect when successfully guessing another player's mask--useful for enforcing hidden role gameplay. Examples: [coveter](masks/crew/coveter.md), [angel](masks/crew/angel.md)
 - **Converter**: Masks which convert another player to a certain mask or give them additional objectives on some condition. Should be very uncommon, *especially* duplicating masks. Examples: [subverter](masks/traitor/subverter.md), [enthraller](masks/crew/enthraller.md).
@@ -76,7 +76,7 @@ Some general archetypes of masks (again, not exhaustive and new archetypes can a
 - **Guardian**: Masks which center around preventing other players from being harmed or killed. Examples: [avenger](masks/crew/avenger.md), [tracker](masks/crew/tracker.md).
 - **Freak**: Masks whose objectives interact with the simulation in a way that is strange and leads into weird interactions, but not necessarily direct conflict with others. Examples: [glutton](masks/crew/glutton.md), [guzzler](masks/crew/guzzler.md).
 - **Oracle:** Masks which can gain hidden meta-knowledge about another mask.
-- **Dud:** Masks who lack unique mechanics or goals or are instead defined by troupe affiliation or the absence of another mask. Examples: [recruit](masks/traitor/recruit.md), [fool](masks/jester/fool.md). 
+- **Dud:** Masks who lack unique mechanics or goals or are instead defined by troupe affiliation or the absence of another mask. Examples: [recruit](masks/traitor/recruit.md), [fool](masks/jester/fool.md).
 
 ## Assignment
 
