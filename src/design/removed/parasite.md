@@ -1,10 +1,10 @@
 # Parasite
 
-{{#template ../../../templates/implemented.md }}
+{{#template ../../templates/removed-implemented.md reason="Honestly one of the best of the original crew jester masks. Ended up just being fleshed out into the full parasite troupe, rendering the individual mask unnecessary."}}
 
 > **Name:** Parasite
 >
-> **Troupe:** [Jester](../jester.md)
+> **Troupe:** Jester
 >
 > **Description:** Pawn your parasite onto and swap bodies with someone in the heat of battle by having them kill you.
 >
@@ -26,9 +26,9 @@ Parasitism and adrenaline-revival as mentioned above.
 
 ## Gameplay
 
-As a mind-swapper, the Parasite can lead to a whole host of very confusing, silly, and fun situations. An [Assassin](../traitor/assassin.md) may kill you, but you now take over their body and must slide into their mask effortlessly. Maybe you reveal the predicament to the other traitors--who find it unnerving but simply accept it as a fact of reality, and abandon their old friend.
+As a mind-swapper, the Parasite can lead to a whole host of very confusing, silly, and fun situations. An Assassin may kill you, but you now take over their body and must slide into their mask effortlessly. Maybe you reveal the predicament to the other traitors--who find it unnerving but simply accept it as a fact of reality, and abandon their old friend.
 
-Parasites also have strange interactions with protective roles, as a jester-type. An [Avenger](../crew/avenger.md) may be protecting you, but will suddenly start hunting you after you swap into the body of your murderer.
+Parasites also have strange interactions with protective roles, as a jester-type. An Avenger may be protecting you, but will suddenly start hunting you after you swap into the body of your murderer.
 
 Because the murderer receives the Parasite mask after swapping, they must now pawn the Parasite off onto someone else and steal another body, leading to a chain of hilarity and obfuscation.
 
