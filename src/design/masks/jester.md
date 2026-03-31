@@ -10,7 +10,7 @@ First, due to the masks' objectives often causing the player to exit the round o
 They also ended up being poor cover for non-crew troupes, since masks like the insider were unable to target them.
 
 ## Jester's Code
-All jesters have a unified objective to not kill another player, with the action of doing so transforming them into [the fool](jester/fool.md) (the obvious exception being the fool itself).
+All jesters have a unified objective to not kill another player, with the action of doing so transforming them into the fool (the obvious exception being the fool itself).
 This imposes a somewhat interesting restriction: how do you get the crew to escalate to taking your life without having taken a life yourself?
 While you can still resort to some level of limited violence, there is a more gradual escalation into full murder that must be undertaken, creating a more interesting situation for those involved.
 

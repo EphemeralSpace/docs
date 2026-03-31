@@ -76,7 +76,7 @@ Some general archetypes of masks (again, not exhaustive and new archetypes can a
 - **Guardian**: Masks which center around preventing other players from being harmed or killed. Examples: [avenger](masks/crew/avenger.md), [tracker](masks/crew/tracker.md).
 - **Freak**: Masks whose objectives interact with the simulation in a way that is strange and leads into weird interactions, but not necessarily direct conflict with others. Examples: [glutton](masks/crew/glutton.md), [guzzler](masks/crew/guzzler.md).
 - **Oracle:** Masks which can gain hidden meta-knowledge about another mask.
-- **Dud:** Masks who lack unique mechanics or goals or are instead defined by troupe affiliation or the absence of another mask. Examples: [recruit](masks/traitor/recruit.md), [fool](masks/jester/fool.md).
+- **Dud:** Masks who lack unique mechanics or goals or are instead defined by troupe affiliation or the absence of another mask. Examples: [recruit](masks/traitor/recruit.md), [goon](masks/mafia/goon.md).
 
 ## Assignment
 

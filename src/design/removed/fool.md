@@ -1,10 +1,10 @@
 # Fool
 
-{{#template ../../../templates/implemented.md }}
+{{#template ../../templates/removed-implemented.md reason="Removed alongside the jester troupe as it's pretty much just a non-element meant as a lose condition for jesters. Even as such, it wasn't really that interesting since it's way less dramatic than something like the nobleman."}}
 
 > **Name:** Fool
 >
-> **Troupe:** [Jester](../jester.md)
+> **Troupe:** Jester
 >
 > **Archetypes:** Dud
 >
