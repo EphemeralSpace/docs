@@ -1,10 +1,10 @@
 # Scapegoat
 
-{{#template ../../../templates/slated-for-rework.md reason="largely contengient on oracles existing, which are probably not going to be a main gameplay fixture anymore. also probably not a well-realized version of its concept."}}
+{{#template ../../templates/removed-unimplemented.md reason="Suffers from the same issues as other jester masks where it's effect is not globally interesting for the state of the round. Additionally, the design is pretty much predicated on the existence of very active oracles, something which we don't have." }}
 
 > **Name:** Scapegoat
 >
-> **Troupe:** [Jester](../jester.md)
+> **Troupe:** Jester
 >
 > **Archetypes:** Jester
 >
@@ -16,7 +16,7 @@
 
 ## Concept
 
-The Scapegoat is a Jester-type mask that counts as a "member of another troupe" for the purposes of masks like the [Veteran](../crew/veteran.md) or Insider.
+The Scapegoat is a Jester-type mask that counts as a "member of another troupe" for the purposes of masks like the Veteran or Insider.
 
 ## Abilities
 
@@ -24,6 +24,6 @@ On death, the Scapegoat immediately spawns a station event, targeted on the loca
 
 ## Gameplay
 
-The Scapegoat provides a small amount of fallibility to Oracle masks, injecting some occasional intrigue into deductive situations. Furthermore, the fact that they count for objectives like the [Veteran](../crew/veteran.md)'s means there is occasionally a trade-off between killing the Scapegoat or letting them live.
+The Scapegoat provides a small amount of fallibility to Oracle masks, injecting some occasional intrigue into deductive situations. Furthermore, the fact that they count for objectives like the Veteran's means there is occasionally a trade-off between killing the Scapegoat or letting them live.
 
 The Scapegoat's on death effect provide a passive disincentive to letting people die, at least in areas where the event might matter, like Security or Medbay. Because the effect triggers on death, and not just on being killed, the Scapegoat *can* more or less trigger it when they feel like, either tactically or just for the lulz. No objective unlike other Jesters means that the Scapegoat is unlikely to run headfirst into deadly situations for the purposes of fulfilling an objective, and thus functions as a sort of reverse-Jester--avoids death, but finds it anyway.
