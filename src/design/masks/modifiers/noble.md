@@ -1,19 +1,25 @@
-# Modifier Name
+# Noble
 
 {{#template ../../../templates/unimplemented.md }}
 
-> **Description:** (A short 1-sentence summary of this modifier.)
+> **Description:** Live a noble life without killing anyone.
 >
-> **Objectives:** (List new objectives this modifier adds, if any)
+> **Objectives:** Do not kill any players during the round.
 >
-> **Masquerade/mask notes:** (Notes for mask & masquerade authorship, like if this modifier is intended to be custom-masquerade-only or what masks should roll this modifier more often, if applicable. N/A otherwise)
+> **Masquerade/mask notes:** Obviously should not be whitelisted for any masks that have kill objectives. Should also not be very common.
 >
-> *(A sentence of flavor text of character dialogue someone with this modifier might say in-character)*
+> *You simply don't understand. I'm an extremely noble and pious person. I would NEVER kill anyone. My associate, however, does not have the same qualms.*
 
 ## Concept
-Outline the holistic concept of this modifier.
+
+The Noble modifier adds an objective requiring the user to refrain from killing anyone.
+
+Upon killing someone, the Noble character will receive a martyr-esque notification that they've brought dishonor to themselves.
+After a 5-minute delay, they will kill themselves in penance.
 
 ## Gameplay
-Describe the type of social deduction gameplay this modifier is supposed to create.
-Outline how differing mask rolls can affect the intrigue of this modifier, and how it introduces ambiguity into interactions that might otherwise have none.
-There is no need to get into specific details about the implementation: just communicate the high-level ideas and interactions that are meant to happen.
+
+Any Noble character naturally tends towards being conflict-averse, which may be stark departure from how one would typically play the mask they received.
+Since any resistance on their part could result in their death, they want to ensure that there are others around them to protect and fight for them.
+This creates an interesting decision for command or security players, as they must forgo any traditional violent response, as it could almost certainly spell their doom.
+Instead, they're forced to de-escalate situations nonviolently, ensuring that their hands stay clean.
