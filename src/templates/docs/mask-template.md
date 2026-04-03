@@ -14,6 +14,8 @@
 >
 > **Masquerade notes:** (Notes for masquerade authorship, like when to use this mask, if applicable. N/A otherwise)
 >
+> **Modifier notes:** (Notes for what modifiers may be more likely or not possible to roll for this mask, if applicable. N/A otherwise)
+>
 > *(A sentence of flavor text of character dialogue someone with this mask might say in-character)*
 
 ## Concept

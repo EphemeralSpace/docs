@@ -2,6 +2,8 @@
 
 {{#template ../../../templates/implemented.md }}
 
+{{#template ../../../templates/slated-for-rework.md reason="with modifiers and ex-syndie specifically this will probably get turned back into vandal, with maybe a higher chance to roll ex-syndie"}}
+
 > **Name:** Rebel
 >
 > **Troupe:** [Crew](../crew.md)
