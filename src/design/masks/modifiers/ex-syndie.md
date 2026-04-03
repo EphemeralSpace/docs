@@ -1,19 +1,19 @@
-# Modifier Name
+# Ex-Syndie
 
 {{#template ../../../templates/unimplemented.md }}
 
-> **Description:** (A short 1-sentence summary of this modifier.)
+> **Description:** Use your cache of old syndie gear from before you left the business in pursuit of Good. Or whatever you feel like is Good.
 >
-> **Objectives:** (List new objectives this modifier adds, if any)
+> **Objectives:** N/A
 >
-> **Masquerade/mask notes:** (Notes for mask & masquerade authorship, like if this modifier is intended to be custom-masquerade-only or what masks should roll this modifier more often, if applicable. N/A otherwise)
+> **Masquerade/mask notes:** Should probably be fairly common (like, it would make sense to see one per round).
 >
-> *(A sentence of flavor text of character dialogue someone with this modifier might say in-character)*
+> *Yes, the [suicide bomb implant](../traitor/demolitionist.md) is mine. No, I don't work in that field anymore. I promise.*
 
 ## Concept
-Outline the holistic concept of this modifier.
+
+An **Ex-Syndie** gains a cache of random traitor gear, left behind from their past as an agent. They may use this gear in whatever way they see fit--generally in service of their regular mask objectives.
 
 ## Gameplay
-Describe the type of social deduction gameplay this modifier is supposed to create.
-Outline how differing mask rolls can affect the intrigue of this modifier, and how it introduces ambiguity into interactions that might otherwise have none.
-There is no need to get into specific details about the implementation: just communicate the high-level ideas and interactions that are meant to happen.
+
+Because traitor gear is often generically useful for accomplishing many goals, most masks can find a use for it. This creates ambiguity, as even a full set of some traitor mask's gear plus dubious actions isn't enough to conclusively pin someone as a traitor. It also creates an opportunity for traitors to pose as essentially any mask--if they get caught eventually, being seen drinking the entire bar and playing yourself off as an Ex-Syndie [Guzzler](../crew/guzzler.md) isn't the worst strategy.
