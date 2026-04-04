@@ -74,6 +74,7 @@
     - [Goon](design/masks/mafia/goon.md)
     - [Underboss](design/masks/mafia/underboss.md)
   - [Parasites](design/masks/parasites.md)
+    - [Barnacle](design/masks/parasite/barnacle.md)
     - [Burstworm](design/masks/parasite/burstworm.md)
     - [Hemophage](design/masks/parasite/hemophage.md)
     - [Leapleech](design/masks/parasite/leapleech.md)
