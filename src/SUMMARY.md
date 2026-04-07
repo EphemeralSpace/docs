@@ -97,6 +97,7 @@
     - [Enthraller](design/masks/crew/enthraller.md)
     - [Guzzler](design/masks/crew/guzzler.md)
     - [Hater](design/masks/crew/hater.md)
+    - [Investigator](design/masks/crew/investigator.md)
     - [Matchmaker](design/masks/crew/matchmaker.md)
     - [Mercenary](design/masks/crew/mercenary.md)
     - [Mind Reader](design/masks/crew/mind-reader.md)
