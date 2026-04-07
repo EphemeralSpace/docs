@@ -76,6 +76,7 @@
   - [Parasites](design/masks/parasites.md)
     - [Barnacle](design/masks/parasite/barnacle.md)
     - [Burstworm](design/masks/parasite/burstworm.md)
+    - [Ethomyte](design/masks/parasite/ethomyte.md)
     - [Hemophage](design/masks/parasite/hemophage.md)
     - [Leapleech](design/masks/parasite/leapleech.md)
     - [Psychid](design/masks/parasite/psychid.md)
