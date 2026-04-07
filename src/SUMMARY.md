@@ -105,6 +105,7 @@
     - [Pilferer](design/masks/crew/pilferer.md)
     - [Rebel](design/masks/crew/rebel.md)
     - [Secretary](design/masks/crew/secretary.md)
+    - [Snoop](design/masks/crew/snoop.md)
     - [Tracker](design/masks/crew/tracker.md)
     - [Vigilante](design/masks/crew/vigilante.md)
     - [VIP](design/masks/crew/vip.md)
