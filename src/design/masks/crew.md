@@ -30,9 +30,12 @@ Its arrival signals the imminent death of everyone on board, so delaying it as l
 
 The ship's movement is controlled via the **thrusters** located at the back as well as the **navigation terminal** inside of bridge.
 These machines require a combination of fuel, power, and stable atmospheric conditions to remain in working order.
-
 When all systems are operational, the radiation storm will approach slowly towards the station, giving the crew the full round's length before the radiation storm arrives.
 However, if some of the systems fail, the ship will slow down and the radiation storm will approach faster.
+
+The maintenance of the station equipment serves as a general task that is connected to the maintenance of the station itself.
+Since no one particular job houses or takes care of this equipment, everyone has an equal burden of making sure that any damage or disruption to the main system gets taken care of.
+Furthermore, the radiation storm serves as a scaling threat that can respond to the complete destruction of the station and quickly move in to end what otherwise might become a very stalled-out round.
 
 ### Ballast
 
@@ -41,18 +44,24 @@ Due to the ship's safety systems, this cannot be done until the warp drive has a
 
 The ballast is connected to the main ship through several incredibly strong fixture tunnels, which cannot typically be destroyed or cut off.
 However, with the safety system disengaged, two people can simultaneously engage the release lock to break the tunnel.
-
 Once all the tunnels have been severed, the ballast will be released from the ship and will drift off into space.
-Make sure no one is left on it when you do so!
+Make sure no one is left on it when you do so, as they'll be lost to space and certainly die.
+
+As a part of the objective, the ballast serves as a penultimate phase that calls upon all members of the crew to participate.
+Since it takes two people to uncouple a single tunnel, the crew are encouraged to pair up and tackle all the tunnels simultaneously.
+This also provides a strong opportunity for sabotage, as a traitor can more easily take out the isolated crewmembers working on the objective.
 
 ### Warp Drive
 
 The singularity warp drive is the final and central piece to the crew's objective.
 Located in the heart of the ship, it provides the capability of finally escaping the radiation storm and securing victory.
 
-It cannot simply be activated, however.
-First, the drive must be charged over a long period of time.
+In order to activate the drive, it must first be charged over a long period of time.
 This deactivates the safety system, allowing the crew to shed weight from the ship by ejecting the asteroid ballast.
-Finally, the warp drive can be activated, a process which requires it to keep consistent power for a few minutes.
+Once the ballast is gone, the warp drive can be activated, a process which requires it to keep consistent power for a few minutes.
+If the crew keeps it going through the whole activation sequence, the ship will undergo FTL travel out of danger, ending the round as a victory.
 
-Once the warp drive is charged, the station can undergo FTL travel out of danger, ending the round as a victory.
+The drive itself is a capstone event that offers one last chance of defeat by way of interference.
+If the crew are winning, then making sure power is uninterrupted will be easy.
+However, if there's still resistence, it may force any enemy troupes to go on the assault, taking out the drive in order to buy themselves some time.
+This creates a situation where players can make big moves to turn the tide of the round, as opposed to most of the crew objective, which happens largely passively in the background.
