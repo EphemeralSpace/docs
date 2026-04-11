@@ -1,6 +1,6 @@
 # Crew
 
-{{#template ../../templates/implemented.md }}
+{{#template ../../templates/partially-implemented.md }}
 
 The crew is a troupe that serves as the "default" state for typical gameplay.
 While every crew mask shares the same win condition, they are not stringently aligned like [traitors](traitors.md).
@@ -16,26 +16,43 @@ Although their secondary objectives may encourage some level of aggressive or de
 A noteworthy element about the crew troupe is that none of them are able to really "confirm" one another, at least not as readily as other troupes may be able to.
 While they are still generally trustworthy due to their high number (the average player is likely to always be a crew member) it does call into question if you can truly be sure someone is on your side.
 
-## Objective
+## Objective {.es-unimplemented}
 
-The main objective of the crew lies within the science department: the Portal Generator.
-This massive machine is capable of instantly teleporting objects across space, and it's the teams way to victory, if they can charge it up.
+In order for the crew to win and end the round, they have three objectives that must be completed:
+- Outrun the radiation storm
+- Sever the ballast
+- Charge and activate the warp drive
 
-Succeeding in telescience is meant to be a relatively-easy process.
-As the sorta gameplay default, the crew are positioned to win so long as they keep things running and prevent other troupes from winning.
-So long as minimum effort is exerted, the crew should always be able to win.
-The crew entirely failing is more of a default case in the event of something catastrophic that would otherwise stall the round.
+### Radiation Storm
 
-## Telescience
-In order to win, the crew must charge up the portal generator through several phases before the radstorm reaches the station.
-The charging is done passively through simply supplying it with constant power.
-Note that this can still be (temporarily) sabotaged: either by cutting power supply or destroying components of the portal generator.
+The radiation storm serves as the default lose condition for not just the crew, but all troupes.
+Its arrival signals the imminent death of everyone on board, so delaying it as long as possible is the shared burden of all players.
 
-Once the generator has finished charging, it can be activated.
-The activation will cause a **Portal Event** to occur, spawning various anomalies across the station. 
-Note that the next phase will bein to charge, but it can't be activated until the anomalies from the previous phase have been contained.
+The ship's movement is controlled via the **thrusters** located at the back as well as the **navigation terminal** inside of bridge.
+These machines require a combination of fuel, power, and stable atmospheric conditions to remain in working order.
 
-Portal events function as a round modifiers, interacting with each other and interesting way and changing how player's have to play while they are active.
-They can be contained through cooperation by players, done primarily by [scientists](../jobs/scientist.md), which is a requirement for completing the main objective.
+When all systems are operational, the radiation storm will approach slowly towards the station, giving the crew the full round's length before the radiation storm arrives.
+However, if some of the systems fail, the ship will slow down and the radiation storm will approach faster.
 
-Once the charge has completely filled up (taking the duration of an average round), the portal generator will be able to activate once more, teleporting the station out of danger and starting the evacuation sequence and ending the round.
+### Ballast
+
+In order to actually engage the warp drive, and escape the danger of the radiation storm, the asteroid ballast attached to the ship will need to be jettisoned.
+Due to the ship's safety systems, this cannot be done until the warp drive has actually charged, so the crew will need to wait before they can begin to do so.
+
+The ballast is connected to the main ship through several incredibly strong fixture tunnels, which cannot typically be destroyed or cut off.
+However, with the safety system disengaged, two people can simultaneously engage the release lock to break the tunnel.
+
+Once all the tunnels have been severed, the ballast will be released from the ship and will drift off into space.
+Make sure no one is left on it when you do so!
+
+### Warp Drive
+
+The singularity warp drive is the final and central piece to the crew's objective.
+Located in the heart of the ship, it provides the capability of finally escaping the radiation storm and securing victory.
+
+It cannot simply be activated, however.
+First, the drive must be charged over a long period of time.
+This deactivates the safety system, allowing the crew to shed weight from the ship by ejecting the asteroid ballast.
+Finally, the warp drive can be activated, a process which requires it to keep consistent power for a few minutes.
+
+Once the warp drive is charged, the station can undergo FTL travel out of danger, ending the round as a victory.

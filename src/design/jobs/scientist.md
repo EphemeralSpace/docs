@@ -2,6 +2,8 @@
 
 {{#template ../../templates/implemented.md}}
 
+{{#template ../../templates/slated-for-rework.md reason="The crew objective has basically been entirely rewritten from this point and thus this job as written makes no sense. This will either be cut or rolled into some new job."}}
+
 > *Gordon doesn't need to hear all this. He's a highly trained professional.*
 
 Scientist is a general purpose **Research** job focused on round progression.
