@@ -14,6 +14,7 @@
 # Guidelines
 ---
 - [Mapping](guidelines/mapping.md)
+- [Spriting](guidelines/spriting.md)
 - [Audio]()
   - [Announcement TTS](guidelines/tts.md)
 
