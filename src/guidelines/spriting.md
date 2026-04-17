@@ -76,7 +76,8 @@ Each color in your palette should have a purpose; using noise or things like the
 ### Color Usage
 Hue-shifting and saturation shifting are generally useful techniques to use to enrich the darker and brighter tones in your sprites. Colored objects without them often look dull.
 
-While useful, you should **use it in accordance to your needs** and avoid over-using it, as it can lead to objects looking fantastical, over-saturated, and drown out the object's original color. 
+While useful, you should **use it in accordance to your needs** and avoid over-using it, as it can lead to objects looking fantastical, over-saturated, and drown out the object's original color.
+
 ![](../assets/guidelines/spriting/hueshifting-dont.png)
 
 Shadows and highlights in an object should also be temperature-neutral, since the ambient light on the station can often vary.
