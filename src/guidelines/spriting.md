@@ -29,7 +29,7 @@ It's the future, but old! There are CRT terminals everywhere, the armory still u
 
 This lends the game a "grounded" feel despite being unquestionably set in the future, and helps as an element of contrast against the things that *are* more tech-y and advanced when they show up.
 
-It doesn't hurt if they have a sci-fi falir, but objects should generally reference their real-world counterparts. It helps with player understanding of the object and further reinforces the grounded element of the setting.
+It doesn't hurt if they have a sci-fi flair, but objects should generally reference their real-world counterparts. It helps with player understanding of the object and further reinforces the grounded element of the setting.
 
 ![](../../assets/guidelines/spriting/generators.png)
 
