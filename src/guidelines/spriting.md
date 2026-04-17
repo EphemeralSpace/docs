@@ -13,7 +13,7 @@ Don't overcomplicate your designs or be afraid to exaggerate certain things to h
 
 The good example of this principle in action is probably the energy gun, which is comically campy and extremely non-tactical looking, with an obvious charge meter and place for the lasers to go through. This gives the gun a kind of goofy, simplistic quality that re-affirms the setting and their intended use case (as a utilitarian gun on a space station with no "real" professional gun-users available.)
 
-![](../../assets/guidelines/spriting/lasergun.png)
+![](../assets/guidelines/spriting/lasergun.png)
 
 ## Readability
 It should be easy to tell what an item actually is at a glance; realism and spatial consistency are secondary to this (unless it is distracting.)
@@ -31,12 +31,12 @@ This lends the game a "grounded" feel despite being unquestionably set in the fu
 
 It doesn't hurt if they have a sci-fi flair, but objects should generally reference their real-world counterparts. It helps with player understanding of the object and further reinforces the grounded element of the setting.
 
-![](../../assets/guidelines/spriting/generators.png)
+![](../assets/guidelines/spriting/generators.png)
 
 ### Perspective
 There are 3 common types of perspective projections used in Ephemeral Space: Cabinet, Head-On, and 3/4ths.
 
-![](../../assets/guidelines/spriting/projections.png)
+![](../assets/guidelines/spriting/projections.png)
 
 - Mobs, items, walls, and wallmounts are generally rendered in a head-on projection.
 - Structures & storage containers are generally rendered in cabinet projection.
@@ -66,7 +66,7 @@ Most objects have little-to-no highlight color usage - or, at minimum, strong hi
 
 In other words - most objects should not have an "even" shading ramp. The majority of the ramp should be taken up by the base shade.
 
-![](../../assets/guidelines/spriting/shading-ramps.png)
+![](../assets/guidelines/spriting/shading-ramps.png)
 
 Additionally, the luster of the and texture of the material are important to consider. Cloth might have folds in it, rubber might be excessively shiny, cardboard might be largely flat, etc.
 
@@ -77,6 +77,6 @@ Each color in your palette should have a purpose; using noise or things like the
 Hue-shifting and saturation shifting are generally useful techniques to use to enrich the darker and brighter tones in your sprites. Colored objects without them often look dull.
 
 While useful, you should **use it in accordance to your needs** and avoid over-using it, as it can lead to objects looking fantastical, over-saturated, and drown out the object's original color. 
-![](../../assets/guidelines/spriting/hueshifting-dont.png)
+![](../assets/guidelines/spriting/hueshifting-dont.png)
 
 Shadows and highlights in an object should also be temperature-neutral, since the ambient light on the station can often vary.
