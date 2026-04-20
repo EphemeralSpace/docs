@@ -89,6 +89,7 @@
     - [Angel](design/masks/crew/angel.md)
     - [Angry Man](design/masks/crew/angry-man.md)
     - [Arms Dealer](design/masks/crew/arms-dealer.md)
+    - [Arsonist](design/masks/crew/arsonist.md)
     - [Avenger](design/masks/crew/avenger.md)
     - [Bomber](design/masks/crew/bomber.md)
     - [Cannibal](design/masks/crew/cannibal.md)
@@ -120,7 +121,6 @@
 ---
 - [Removed Documents](design/removed.md)
   - [Animal Hater](design/removed/animal-hater.md)
-  - [Arsonist](design/removed/arsonist.md)
   - [Connoisseur](design/removed/connoisseur.md)
   - [Daredevil](design/removed/daredevil.md)
   - [Empath](design/removed/empath.md)
