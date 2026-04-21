@@ -109,6 +109,7 @@
     - [Rebel](design/masks/crew/rebel.md)
     - [Secretary](design/masks/crew/secretary.md)
     - [Tracker](design/masks/crew/tracker.md)
+    - [Tragedian](design/masks/crew/tragedian.md)
     - [Vigilante](design/masks/crew/vigilante.md)
     - [VIP](design/masks/crew/vip.md)
 - [Masquerades](design/masquerades.md)
