@@ -106,6 +106,7 @@
     - [Mind Reader](design/masks/crew/mind-reader.md)
     - [Phantom](design/masks/crew/phantom.md)
     - [Pilferer](design/masks/crew/pilferer.md)
+    - [Protégé](design/masks/crew/protege.md)
     - [Rebel](design/masks/crew/rebel.md)
     - [Secretary](design/masks/crew/secretary.md)
     - [Tracker](design/masks/crew/tracker.md)
