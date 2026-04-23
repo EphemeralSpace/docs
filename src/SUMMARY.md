@@ -106,7 +106,7 @@
     - [Mercenary](design/masks/crew/mercenary.md)
     - [Mind Reader](design/masks/crew/mind-reader.md)
     - [Phantom](design/masks/crew/phantom.md)
-    - [Pilferer](design/masks/crew/pilferer.md)
+    - [Pickpocket](design/masks/crew/pickpocket.md)
     - [Protégé](design/masks/crew/protege.md)
     - [Rebel](design/masks/crew/rebel.md)
     - [Secretary](design/masks/crew/secretary.md)
