@@ -31,7 +31,7 @@ Roles which are usually unable to be traitors _are_ able to be sympathizers.
 None.
 
 ## Gameplay
-The Syndicate Sympathizer is a mask which introduces potential malice in what might otherwise be assumed to be malice.
+The Syndicate Sympathizer is a mask which introduces potential malice in what might otherwise be assumed to be incompetence.
 Since they are unable to see the traitors' objectives, they're unable to directly advance them.
 However, they can make it easier for traitors by weakening security, overlooking activity, and compromising areas.
 

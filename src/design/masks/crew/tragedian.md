@@ -29,6 +29,9 @@ Note that if no stagehands are present upon the Tragedian's death, their objecti
 ## Abilities
 The Tragedian will always hear cheers and boos made by stagehands.
 
+The Tragedian additionally starts with an action to call over stagehands.
+When used, stagehands will be notified that the Tragedian is about to do Something Amazing.
+
 ## Gameplay
 The role of the Tragedian is essentially a metaphysical aura farmer.
 Since their success directly depends on the attention of stagehands and other people within the round (who will in turn become stagehands), they are incentivized to play as loudly and boisterously as possible.
