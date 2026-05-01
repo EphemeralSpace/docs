@@ -18,16 +18,18 @@ The items in these caches are largely intended to be static in function, though 
 While the more powerful rare items in each cache should be immediately identifiable as traitor gear, the more common general equipment should have greater overlap.
 This is so that, while finding a core piece of someone's kit is a tell, simply seeing someone fire a gun or blow up a structure doesn't immediately identify them.
 
-## Objectives
-All players in the traitor troupe, regardless of mask type, share a pool objectives.
-These objectives generally involve extraction, including things like:
-- Kill a specific player & siphon the data from their brain chip
-- Sabotage a piece of important machinery
-- Siphon data from a piece of important machinery
-- Bug a department and activate a greytide virus
+## Objectives {.es-partially-implemented }
+All players in the traitor troupe, regardless of mask type, share a pool of objectives.
 
-While these objectives are dynamic and can vary in what they request from round-to-round, one objective is static and omni-present: the detonation of the station's nuke - the final capstone to end the syndicate's perfect heist.
-Each of these objectives should not be enough to sound the alarm bells of the presence of the syndicate, but rather when observed as a pattern, should cause the station to be wary.
+These objectives include:
+- **Kill** a specific player, testing the traitor's abilities to plan, execute, and get away with a targeted murder
+- **Sabotage** a piece of important machinery, causing an instant effect and requiring the traitor to escape quickly before they're found
+- <span class="es-unimplemented">**Siphon data** from a piece of important machinery, causing it to spark and slowly degrade, like a sabotage but over time</span>
+- <span class="es-unimplemented">**Bug a department**, activating a department-affecting virus after a time by placing a bug inside an APC</span>
+
+While these objectives are dynamic and can vary in what they request from round-to-round, two objectives are static and omni-present: hacking the nuke terminals (see below), and the detonation of the station's nuke - the final capstone to end the syndicate's perfect heist.
+
+Each individual objective should not be enough to sound the alarm bells of the presence of the syndicate, but, when observed as a pattern, should cause the station to be wary.
 
 ### Plausible Deniability
 For objectives that function on an arbitrary hacking/sabotage/interception mechanic, there's a bit of a balance that must be struck.

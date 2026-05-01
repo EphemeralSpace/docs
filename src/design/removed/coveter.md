@@ -1,10 +1,10 @@
 # Coveter
 
-{{#template ../../../templates/unimplemented.md }}
+{{#template ../../templates/removed-unimplemented.md reason="i dont think this concept is bad at all but we are unconvinced of guessers atm and it should really be something else if we want a swapper/copier like this" }}
 
 > **Name:** Coveter
 >
-> **Troupe:** [Crew](../crew.md)
+> **Troupe:** Crew
 >
 > **Archetypes:** Swapper, Guesser
 >

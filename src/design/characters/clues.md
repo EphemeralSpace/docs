@@ -17,9 +17,6 @@ Players can view their own clues through the **character menu** and can see visi
 Note that the ability to see clues is influenced by identity, so if someone is concealing their eyes, their eye color cannot be identified.
 However, you could easily deduce many aspects about someone whose face is uncovered.
 
-Masks like the (now-removed) Insider leverage clues for their core gameplay, making use of them to lead them onto potentially round-altering information.
-Others such as the [Mind Reader](../masks/crew/mind-reader.md) are capable of extracting clues from players, furthering the deductive gameplay of the round.
-
 An issue with typical evidence like DNA or fingerprints is that they are binary indicators; the presence of them leads you directly to the perpetrator.
 This is problematic for deduction, as it essentially speed-runs the investigation, leading you directly to the culprit with little effort required.
 As such, these mechanics are often balanced around being extremely easy to avoid, which creates low-information scenarios where deduction is impossible.

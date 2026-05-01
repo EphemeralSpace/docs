@@ -1,10 +1,10 @@
 # Angel
 
-{{#template ../../../templates/unimplemented.md }}
+{{#template ../../templates/removed-unimplemented.md reason="we are extremely not convinced of guessery gameplay atm and this wouldnt lead to that many interesting situations even if we were" }}
 
 > **Name:** Angel
 >
-> **Troupe:** [Crew](../crew.md)
+> **Troupe:** Crew
 >
 > **Archetypes:** Guardian, Guesser
 >
@@ -33,4 +33,4 @@ The Angel can target any player once. They must guess that player's mask, and if
 
 The Angel is a very broadly useful crew mask, centered around gaining useful knowledge about others and using that knowledge to help them when needed. In this way, it serves as a counterbalance to other more disruptive crew masks, and has a target on their back as a result. Because the Angel is a Guesser-type mask, it incentivizes and rewards basic social deduction gameplay, and a good Angel player could do a lot to help the crew in a dire situation.
 
-Angels provide a little bit of deniability for masks that also are capable of reviving players out of crit on some condition, like the [Subverter](../traitor/subverter.md).
+Angels provide a little bit of deniability for masks that also are capable of reviving players out of crit on some condition, like the Subverter.

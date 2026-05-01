@@ -1,10 +1,10 @@
 # Tracker
 
-{{#template ../../../templates/unimplemented.md }}
+{{#template ../../templates/removed-unimplemented.md reason="a targeted guardian mask is a good concept and we are missing one but this is not a great examination of it, the interplay with bomber doesnt matter at all, not surprised if it comes back though" }}
 
 > **Name:** Tracker
 >
-> **Troupe:** [Crew](../crew.md)
+> **Troupe:** Crew
 >
 > **Description:** Place hidden trackers on others using codephrases. Use these to help prevent their deaths.
 >
@@ -14,7 +14,7 @@
 
 ## Concept
 
-The Tracker is a helpful mask with mechanics very similar to the [Bomber](./bomber.md).
+The Tracker is a helpful mask with mechanics very similar to the Bomber.
 
 ## Abilities
 
@@ -26,6 +26,6 @@ Three trackers can be placed at a time, and if all are placed one must be remove
 
 Forensics can be used to detect if a tracker was placed on someone and several candidates for who could have done it, but this of course requires suspicion that one was placed to begin with. If the Tracker dies, their trackers are disabled and drop onto the ground near the targets.
 
-As a guardian-type mask, Trackers provide a strong means of locating someone who has been hurt and ensuring that they get out of the situation safely, creating interesting interactions with many masks. However, placing a tracker isn't trivial. It's hard to tell someone ahead of time that you're doing it, as they may assume you're a [Bomber](./bomber.md), whose codeword-marking functions identically and is indistinguishable until critical condition is reached. Those who suspect others are using codewords can never be positive whether it's to harm them or help them.
+As a guardian-type mask, Trackers provide a strong means of locating someone who has been hurt and ensuring that they get out of the situation safely, creating interesting interactions with many masks. However, placing a tracker isn't trivial. It's hard to tell someone ahead of time that you're doing it, as they may assume you're a Bomber, whose codeword-marking functions identically and is indistinguishable until critical condition is reached. Those who suspect others are using codewords can never be positive whether it's to harm them or help them.
 
-If a Tracker comes to someone's rescue, this could be viewed as suspicious, as they might have learned of the target's location through another means, like a [Traitor](../traitors.md) item.
+If a Tracker comes to someone's rescue, this could be viewed as suspicious, as they might have learned of the target's location through another means, like a Traitor item.
