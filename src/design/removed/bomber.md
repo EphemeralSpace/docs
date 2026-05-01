@@ -1,10 +1,10 @@
 # Bomber
 
-{{#template ../../../templates/unimplemented.md }}
+{{#template ../../templates/removed-unimplemented.md reason="this made more sense in the nascent womb of masks as a concept but this makes literally zero sense as something to exist now. the deniability doesnt matter (its probably way too deniable) and blowing people up randomly is not engaging" }}
 
 > **Name:** Bomber
 >
-> **Troupe:** [Crew](../crew.md)
+> **Troupe:** Crew
 >
 > **Description:** Secretly attach bombs that detonate in critical condition to people using code phrases.
 >
@@ -18,7 +18,7 @@ Janet brought up the idea of having the bombs be more physical items, taking the
 
 ## Concept
 
-The Bomber is a deadly mask with similar mechanics to the [Tracker](./tracker.md).
+The Bomber is a deadly mask with similar mechanics to the Tracker.
 
 ## Abilities
 
@@ -34,4 +34,4 @@ Detecting the Bomber's presence requires an already-existing suspicion that one 
 
 The intrigue comes from determining who the Bomber could be by narrowing down options from forensics or using basic logic, whether what someone is saying could potentially be a hidden code phrase, and trying to figure out if you were inflicted with a bomb so you can avoid going into crit.
 
-Additionally, the Bomber provides ambiguity with the [Tracker](./tracker.md)'s gameplay, as their codeword-marking functions identically. Those who suspect others are using codewords can never be positive whether it's to harm them or help them.
+Additionally, the Bomber provides ambiguity with the Tracker's gameplay, as their codeword-marking functions identically. Those who suspect others are using codewords can never be positive whether it's to harm them or help them.

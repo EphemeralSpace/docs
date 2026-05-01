@@ -1,10 +1,10 @@
 # Enthraller
 
-{{#template ../../../templates/unimplemented.md }}
+{{#template ../../templates/removed-unimplemented.md reason="the general idea of guy that gives people objectives unrelated to their mask is a good core to build off of but this is not a super interesting examination of the concept. i dont think this is bad though" }}
 
 > **Name:** Enthraller
 >
-> **Troupe:** [Crew](../crew.md)
+> **Troupe:** Crew
 >
 > **Archetypes:** Converter
 >

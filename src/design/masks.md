@@ -66,15 +66,14 @@ When designing new masks, try to come up with novel combinations or inversions o
 
 Some general archetypes of masks (again, not exhaustive and new archetypes can and should be created):
 - **Jester**: Masks that have some effect on being killed by another player or dying. Examples: [phantom](masks/crew/phantom.md), [hemophage](masks/parasite/hemophage.md).
-- **Swapper**: Masks that swap masks with another target on some condition. Examples: [coveter](masks/crew/coveter.md).
-- **Guesser**: Masks which have some effect when successfully guessing another player's mask--useful for enforcing hidden role gameplay. Examples: [coveter](masks/crew/coveter.md), [angel](masks/crew/angel.md)
-- **Converter**: Masks which convert another player to a certain mask or give them additional objectives on some condition. Should be very uncommon, *especially* duplicating masks. Examples: [subverter](masks/traitor/subverter.md), [enthraller](masks/crew/enthraller.md).
+- **Swapper**: Masks that swap masks with another target on some condition. Examples: none atm.
+- **Converter**: Masks which convert another player to a certain mask or give them additional objectives on some condition. Should be very uncommon, *especially* duplicating masks. Examples: [subverter](masks/traitor/subverter.md), [parasites in general](masks/parasites.md).
 - **Copier**: Masks which copy other masks on some condition. Examples: [cannibal](masks/crew/cannibal.md).
 - **Giver**: Masks which center around creating and disseminating items to others for some purpose. Examples: [arms dealer](masks/crew/arms-dealer.md), [drug dealer](masks/crew/drug-dealer.md).
 - **Sabotager**: Masks whose objectives revolve around engaging in some kind of malicious activity that generally harms others and leads to direct conflict and has deniability with troupe masks. Examples: [rebel](masks/crew/rebel.md).
 - **Murderer**: Masks which center around directly engaging in conflict with and killing other players. Examples: [assassin](masks/traitor/assassin.md), [mercenary](masks/crew/mercenary.md).
-- **Guardian**: Masks which center around preventing other players from being harmed or killed. Examples: [avenger](masks/crew/avenger.md), [tracker](masks/crew/tracker.md).
-- **Freak**: Masks whose objectives interact with the simulation in a way that is strange and leads into weird interactions, but not necessarily direct conflict with others. Examples: [guzzler](masks/crew/guzzler.md).
+- **Guardian**: Masks which center around preventing other players from being harmed or killed. Examples: [avenger](masks/crew/avenger.md), [secretary](masks/crew/secretary.md).
+- **Freak**: Masks whose objectives interact with the simulation in a way that is strange and leads into weird interactions, but not necessarily direct conflict with others. Examples: [guzzler](masks/crew/guzzler.md), [arsonist](masks/crew/arsonist.md).
 - **Oracle:** Masks which can gain hidden meta-knowledge about another mask.
 - **Dud:** Masks who lack unique mechanics or goals or are instead defined by troupe affiliation or the absence of another mask. Examples: [recruit](masks/traitor/recruit.md), [goon](masks/mafia/goon.md).
 
