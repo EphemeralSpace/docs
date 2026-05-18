@@ -1,6 +1,6 @@
 # Syndicate Sympathizer
 
-{{#template ../../../templates/unimplemented.md }}
+{{#template ../../../templates/implemented.md }}
 
 > **Name:** Syndicate Sympathizer
 >
