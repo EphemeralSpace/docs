@@ -1,6 +1,6 @@
 # Tragedian
 
-{{#template ../../../templates/unimplemented.md }}
+{{#template ../../../templates/implemented.md }}
 
 > **Name:** Tragedian
 >
