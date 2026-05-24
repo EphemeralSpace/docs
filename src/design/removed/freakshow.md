@@ -1,6 +1,6 @@
 # Freakshow
 
-{{#template ../../templates/removed-unimplemented.md reason="The idea of a crew-only masquerade is mildly interesting but in practice, maximizing all the most disruptive crew masks tends to just make a round that goes to shit extremely quickly and doesn't end, since there's no troupe to snatch a win before the radstorm timer." }}
+{{#template ../../templates/removed-implemented.md reason="The idea of a crew-only masquerade is mildly interesting but in practice, maximizing all the most disruptive crew masks tends to just make a round that goes to shit extremely quickly and doesn't end, since there's no troupe to snatch a win before the radstorm timer." }}
 
 > **Name:** Freakshow
 >
