@@ -2,6 +2,8 @@
 
 {{#template ../../../templates/unimplemented.md }}
 
+{{#template ../../../templates/slated-for-rework.md reason="still interesting as a targeted-copier but the specifics should probably be rethought a bit and maybe made deniable with ling husking etc, theres something more to be done here" }}
+
 > **Name:** Cannibal
 >
 > **Troupe:** [Crew](../crew.md)
