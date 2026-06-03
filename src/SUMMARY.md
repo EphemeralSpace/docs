@@ -66,7 +66,6 @@
     - [Recruit](design/masks/traitor/recruit.md)
     - [Subverter](design/masks/traitor/subverter.md)
     - [Syndicate Sympathizer](design/masks/traitor/syndicate-sympathizer.md)
-    - [Turncoat](design/masks/traitor/turncoat.md)
     - [Sleeper Agent](design/masks/traitor/sleeper-agent.md)
   - [Mafia](design/masks/mafia.md)
     - [Consigliere](design/masks/mafia/consigliere.md)
