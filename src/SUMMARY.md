@@ -78,7 +78,7 @@
     - [Ethomyte](design/masks/parasite/ethomyte.md)
     - [Hemophage](design/masks/parasite/hemophage.md)
     - [Leapleech](design/masks/parasite/leapleech.md)
-    - [Psychid](design/masks/parasite/psychid.md)
+    - [Corpsychid](design/masks/parasite/corpsychid.md)
   - [Crew](design/masks/crew.md)
     - [Angry Man](design/masks/crew/angry-man.md)
     - [Arms Dealer](design/masks/crew/arms-dealer.md)
