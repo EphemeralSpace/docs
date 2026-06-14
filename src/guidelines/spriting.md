@@ -82,3 +82,10 @@ While useful, you should **use it in accordance to your needs** and avoid over-u
 ![](../assets/guidelines/spriting/hueshifting-dont.png)
 
 Shadows and highlights in an object should also be temperature-neutral, since the ambient light on the station can often vary.
+
+## Specific Assets
+This should probably be split in to its own doc eventually, but I need to document these things quickly so whatever.
+
+### Wall Sprites
+**Use the SS14 tileset tool for generating wall sprites,** it will save you a lot of time. can find it in your repo in ``Tools/SS14 Aseprite Templates``. You will need Aseprite to use it.
+When copy pasting sprites over to use for the wall template, make sure to **convert the original layer you are copy pasting from to a tileset layer,** or it won't work. You can do this by right clicking the layer you want to convert and then going to Convert To > Tileset.
