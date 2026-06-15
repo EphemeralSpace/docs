@@ -47,7 +47,6 @@
 - [Clothing](design/clothing.md)
 - [Lathe](design/lathe.md)
 - [Reincarnation](design/reincarnation.md)
-- [Stagehands](design/stagehands.md)
 - [Stats]()
 ---
 - [Jobs](design/jobs.md)
