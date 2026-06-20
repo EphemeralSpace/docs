@@ -1,4 +1,6 @@
-# Reincarnation {.es-unimplemented}
+# Reincarnation
+
+{{#template ../templates/unimplemented.md}}
 
 Reincarnation is a mechanic designed to reintroduce players that die in potentially unsatisfying ways into the round, with a strange twist for variety.
 
