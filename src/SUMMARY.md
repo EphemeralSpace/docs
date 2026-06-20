@@ -125,6 +125,7 @@
   - [Martyr](design/removed/martyr.md)
   - [Mercenary (Old)](design/removed/mercenary-old.md)
   - [Parasite](design/removed/parasite.md)
+  - [Psychid](design/removed/psychid.md)
   - [Sacrifice](design/removed/sacrifice.md)
   - [Survivalist](design/removed/survivalist.md)
   - [Vandal](design/removed/vandal.md)
