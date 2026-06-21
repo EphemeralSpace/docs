@@ -42,7 +42,7 @@
   - [Rust](design/decay/rust.md)
 - [Power]()
   - [Antimatter Engine](design/power/antimatter-engine.md)
-- [Access]()
+- [Access](design/access.md)
 - [Armory]()
 - [Clothing](design/clothing.md)
 - [Lathe](design/lathe.md)
