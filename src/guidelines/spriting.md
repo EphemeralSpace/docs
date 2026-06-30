@@ -87,5 +87,16 @@ Shadows and highlights in an object should also be temperature-neutral, since th
 This should probably be split in to its own doc eventually, but I need to document these things quickly so whatever.
 
 ### Wall Sprites
-**Use the SS14 tileset tool for generating wall sprites,** it will save you a lot of time. can find it in your repo in ``Tools/SS14 Aseprite Templates``. You will need Aseprite to use it.
+Wall sprites look incredibly daunting and incomprehensible at first, but are much easier then they appear. You only really need to make 5 sprites:
+
+![](../assets/guidelines/spriting/wall-sprites.png)
+
+If you can, **use the SS14 tileset tool for generating wall sprites.** It will save you a lot of time. You can find it in your repo at``Tools/SS14 Aseprite Templates``. You will need Aseprite to use it.
+
 When copy pasting sprites over to use for the wall template, make sure to **convert the original layer you are copy pasting from to a tileset layer,** or it won't work. You can do this by right clicking the layer you want to convert and then going to Convert To > Tileset.
+
+To make the tiles automatically replace the existing patches on the wall sheet, you will also need to select the Manual option in the top left, right above your palette display.
+
+If you do not have Aseprite, you can still work out what tiles need to go where manually by using a reference image. Here is a flattened version of the aseprite template:
+
+![](../assets/guidelines/spriting/aseprite-template.png)
