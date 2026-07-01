@@ -50,7 +50,7 @@ The addition of the accent while worn also gives it an extra comedic mechanical 
 - **Bad |** Touhou Clothes: The theme of the outfit is not broadly usable and the reference does not provide value
 - **Good |** Cardborg: Pretending to be a fake robot is a funny idea which integrates will with science and robotics.
 Additionally, the outfit is good for hiding one's identity, which is an interesting niche
-- **Bad |** Animal Masks: Comedic/fluff masks are a role generally already filled by the clown and mime clothing options.
-The theming of the masks are also generally pretty weak, not providing anything novel that isn't accomplished better by existing items
+- **Bad |** Animal Masks: Comedic/fluff secret identities are a role generally already filled by the clown and mime clothing options.
+The theming of the secret identities are also generally pretty weak, not providing anything novel that isn't accomplished better by existing items
 - **Good |** Colored Caps: Despite being a relatively large and similar array of clothing options, the caps are generally usable for a variety of outfits.
 Additionally, the capacity to recolor the caps is an interesting mechanic that reduces the specific issue of color bloat.

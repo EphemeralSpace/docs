@@ -7,7 +7,7 @@
 > *Gordon doesn't need to hear all this. He's a highly trained professional.*
 
 Scientist is a general purpose **Research** job focused on round progression.
-Their primary task is the management of the [Portal Generator](../masks/crew.md) and the general completion of telescience research.
+Their primary task is the management of the [Portal Generator](../secret-identities/crew.md) and the general completion of telescience research.
 
 ## True Crew?
 The interesting part about the scientist's dynamic on the station is how it plays into the greater crew objective of telescience.
@@ -17,7 +17,7 @@ This situation starts to unfold once science *stops* doing their job: what does 
 Are the scientists evil? Have they been intercepted and killed off?
 
 The scientist, more than most other roles, is defined by the completion of their job and their dedication to that purpose.
-While there is certainly leeway with constantly being on the grind, the abandonment of their post is usually a sign pointing to secretly being a member of another troupe.
+While there is certainly leeway with constantly being on the grind, the abandonment of their post is usually a sign pointing to secretly being a member of another organization.
 
 ## Suited for Research
 Scientists are immediately geared for completing research through a variety of tools, like anomaly devices and radiation suits..

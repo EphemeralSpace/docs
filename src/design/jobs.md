@@ -51,9 +51,9 @@ The game is about our relationships and social dependencies on others, and by ma
 
 ## Deduction
 
-As a deductive element, jobs can be thought of as the mirror image of [masks](masks.md).
+As a deductive element, jobs can be thought of as the mirror image of [secret identities](secret identities.md).
 
-While a mask defines your goals and intentions on a _personal level_, a job offers you _default behavior_ as part of the [crew](masks/crew.md).
+While a secret identity defines your goals and intentions on a _personal level_, a job offers you _default behavior_ as part of the [crew](secret-identities/crew.md).
 This is extremely important to deduction, as it creates indirect methods of aiding the station, the completion of which can arouse or quell suspicion.
 
 The most immediate comparison would be tasks in the game Among Us.

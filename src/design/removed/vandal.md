@@ -1,10 +1,10 @@
 # Vandal
 
-{{#template ../../templates/removed-implemented.md reason="Combined into the rebel mask. The objectives were a good element for deniability but lacking gear makes vandals often extremely obvious and easy to discern. The mask just ended up being a bit too one-note and simplistic."}}
+{{#template ../../templates/removed-implemented.md reason="Combined into the rebel secret identity. The objectives were a good element for deniability but lacking gear makes vandals often extremely obvious and easy to discern. The secret identity just ended up being a bit too one-note and simplistic."}}
 
 > **Name:** Vandal
 >
-> **Troupe:** Crew
+> **Organization:** Crew
 >
 > **Archetypes:** Sabotager
 >
@@ -16,7 +16,7 @@
 
 ## Concept
 
-The Vandal is a mask centered around breaking into and sabotaging machines around the station.
+The Vandal is a secret identity centered around breaking into and sabotaging machines around the station.
 
 ## Abilities
 
@@ -24,6 +24,6 @@ The Vandal has the ability to sabotage targeted machines, the same way traitors 
 
 ## Gameplay
 
-Claiming to be a Vandal, and the supposed existence of a Vandal, can go a long way in giving traitors avenues to get out of being arrested for sabotaging stuff and getting caught. Furthermore, once more than just the traitor troupe exists, it means that a surplus of sabotaged machines or a directly-witnessed sabotager are not smoking guns for the existence of traitors onboard the station.
+Claiming to be a Vandal, and the supposed existence of a Vandal, can go a long way in giving traitors avenues to get out of being arrested for sabotaging stuff and getting caught. Furthermore, once more than just the traitor organization exists, it means that a surplus of sabotaged machines or a directly-witnessed sabotager are not smoking guns for the existence of traitors onboard the station.
 
 More directly, the Vandal's objective, and relative lack of tools to accomplish it, leads them into generic potential conflict with many people around the station.

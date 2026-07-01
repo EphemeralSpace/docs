@@ -6,7 +6,7 @@ The lathe is a large immovable structure that functions as the main source of ne
 
 Having a solitary source of items makes the lathe and cargo by extension very special; the station is relying on cargo to keep this machine running to have components to maintain the station. Simultaneously, cargo must battle the station degradation on their own front. This applies mounting pressure onto cargo as the round progresses due to the degradation of the station, which increases demand for the products.
 
-The lathe is a lynchpin for every troupe, as controlling the lathe means controlling the sole ammo source, so crew will naturally want to help and or defend cargo. Engi is more involved in keeping the lathe room sealed because if it bursts then they'll need to repair a whole lot more, and vent a corridor or two.
+The lathe is a lynchpin for every organization, as controlling the lathe means controlling the sole ammo source, so crew will naturally want to help and or defend cargo. Engi is more involved in keeping the lathe room sealed because if it bursts then they'll need to repair a whole lot more, and vent a corridor or two.
 
 ## Heat Regulation
 The idea behind this is to apply pressure to the station while the lathe is running; on top of the simple demand increasing, the lathe and its room degrading means cargo has to balance keeping the lathe within safe bounds and creating the required materials for the station. Overstepping the bounds and releasing the superheated gas requires help from engi, or help from engi throughout the round to keep the room intact.

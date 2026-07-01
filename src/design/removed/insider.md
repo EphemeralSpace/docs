@@ -4,11 +4,11 @@
 
 > **Name:** Insider
 >
-> **Troupe:** Crew
+> **Organization:** Crew
 >
 > **Archetypes:** Oracle
 >
-> **Description:** Use your cache of bought information to deduce other's masks.
+> **Description:** Use your cache of bought information to deduce other's secret identities.
 >
 > **Objectives:** Ensure at least 1-2 of the people you learned information about survive.
 >
@@ -21,7 +21,7 @@ The "clues" mechanic should be very generic and usable for many other things in 
 
 ## Concept
 
-The Insider is an oracle mask that receives information about others in a cache, the same as many other cache-spawning masks. Once attained and used to find the targeted characters, the information in the cache tells you some people who are definitely of the crew troupe, and one person who is definitely of another troupe.
+The Insider is an oracle secret identity that receives information about others in a cache, the same as many other cache-spawning secret identities. Once attained and used to find the targeted characters, the information in the cache tells you some people who are definitely of the crew organization, and one person who is definitely of another organization.
 
 ## Abilities
 
@@ -35,10 +35,10 @@ Male
 Not crew
 ```
 
-Information about a person always states whether they are part of the crew or a different troupe.
+Information about a person always states whether they are part of the crew or a different organization.
 
 ## Gameplay
 
-The Insider is an incredibly useful crew-sided Oracle mask, receiving some of the best information in the game, with the caveat that they must do the work to case out targets in order to actually utilize it. This means keeping track of names, keeping track of apperances, keeping track of ages & genders, and even personality traits--maybe try asking the Bartender if they've heard anything recently.
+The Insider is an incredibly useful crew-sided Oracle secret identity, receiving some of the best information in the game, with the caveat that they must do the work to case out targets in order to actually utilize it. This means keeping track of names, keeping track of apperances, keeping track of ages & genders, and even personality traits--maybe try asking the Bartender if they've heard anything recently.
 
 Because the information is stored in a cache, it can't be used to immediately case out the arrivals shuttle and everyone on it. Furthermore, since it's just on paper, anyone can learn the information if they steal it from the Insider, and maybe even pose as an Insider themselves.

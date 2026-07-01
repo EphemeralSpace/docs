@@ -4,7 +4,7 @@
 
 > **Name:** Mercenary
 >
-> **Troupe:** Crew
+> **Organization:** Crew
 >
 > **Description:** Get sent a traitor goods cache. Use it to help the crew. Try not to get the blame pinned on yourself.
 >
@@ -13,7 +13,7 @@
 > *Silenced Pistol? I'm the assassin? What are you talking about, I found it in maintenance!*
 
 ## Concept
-At the beginning of the round, the mercenary gets a random traitor gear cache, corresponding to an existing traitor mask.
+At the beginning of the round, the mercenary gets a random traitor gear cache, corresponding to an existing traitor secret identity.
 
 ## Abilities
 The mercenary has no other special abilities or objectives other then their round-start traitor cache.

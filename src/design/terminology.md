@@ -30,7 +30,7 @@ An area for players to explore between rounds.
 
 **Show:** Round
 
-**Masks:** Special roles that players are assigned outside of jobs.
+**Secret Identities:** Special roles that players are assigned outside of jobs.
 Each gives objectives and potential special abilities.
 
 **Pheem:** It's pheemy, man. You know what this means.

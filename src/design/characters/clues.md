@@ -40,11 +40,11 @@ This creates a gradient of clue "difficulty," where more revealing and personal 
 Thus, it can be used as a balancing lever to reward more involved investigative play.
 
 For example, eye color is a trait that is immediately evident when examining someone.
-However, it is also equally easy to obscure, as any mask or dark pair of glasses will obscure their eyes.
+However, it is also equally easy to obscure, as any secret identity or dark pair of glasses will obscure their eyes.
 Consequently, eye color as a clue ends up being fairly weak not only because it's common to have repeated eyes colors among crew, but also because they are easy to hide from view.
 This creates a type of clue which, while it helps narrow down deduction, requires extended investigation on the account of people in the round, creating lengthy interaction between many players as the details are found out.
 
 On the other hand, something like someone's star sign may be much harder to find.
 Truly knowing it may be impossible short of it being told directly or gaining access to secure personnel records.
 This creates a much more lucrative clue, however, as hunting it down and deducing it gives you significantly more useful information than something like age.
-As such, people might be incentivized to take further reaches to learn it, seeking out [oracle masks](../masks.md) or employing the help of roles like the [bartender](../jobs/bartender.md).
+As such, people might be incentivized to take further reaches to learn it, seeking out [oracle secret identities](../secret identities.md) or employing the help of roles like the [bartender](../jobs/bartender.md).

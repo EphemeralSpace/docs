@@ -4,7 +4,7 @@
 
 > **Name:** Sacrifice
 >
-> **Troupe:** Crew
+> **Organization:** Crew
 >
 > **Archetypes:** Jester, Guardian
 >
@@ -16,7 +16,7 @@
 
 ## Concept
 
-The Sacrifice is a Jester-type mask that heals mobs in a 5-tile radius around themselves on death, and has an objective to heal people this way in order to incentivize doing so.
+The Sacrifice is a Jester-type secret identity that heals mobs in a 5-tile radius around themselves on death, and has an objective to heal people this way in order to incentivize doing so.
 
 ## Abilities
 

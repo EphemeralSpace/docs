@@ -1,10 +1,10 @@
 # Parasite
 
-{{#template ../../templates/removed-implemented.md reason="Honestly one of the best of the original crew jester masks. Ended up just being fleshed out into the full parasite troupe, rendering the individual mask unnecessary."}}
+{{#template ../../templates/removed-implemented.md reason="Honestly one of the best of the original crew jester secret identities. Ended up just being fleshed out into the full parasite organization, rendering the individual secret identity unnecessary."}}
 
 > **Name:** Parasite
 >
-> **Troupe:** Jester
+> **Organization:** Jester
 >
 > **Description:** Pawn your parasite onto and swap bodies with someone in the heat of battle by having them kill you.
 >
@@ -18,7 +18,7 @@ This is kind of a confusing concept to read but I swear it makes sense. I will d
 
 ## Concept
 
-Parasite is a jester-type mind-swapper. If they're killed by someone else, the Parasite uses the opportunity to swap minds with the murderer. This process shunts the murderer's mind into the Parasite's old body, while also swapping masks--i.e., the murderer is now a Parasite and the old Parasite takes on the mask and body of their murderer. Once the swap happens, the Parasite-body's death is cancelled and given an adrenaline boost to allow them to escape the situation, while the murderer-body is stunned for a small amount of time.
+Parasite is a jester-type mind-swapper. If they're killed by someone else, the Parasite uses the opportunity to swap minds with the murderer. This process shunts the murderer's mind into the Parasite's old body, while also swapping secret identities--i.e., the murderer is now a Parasite and the old Parasite takes on the secret identity and body of their murderer. Once the swap happens, the Parasite-body's death is cancelled and given an adrenaline boost to allow them to escape the situation, while the murderer-body is stunned for a small amount of time.
 
 ## Abilities
 
@@ -26,10 +26,10 @@ Parasitism and adrenaline-revival as mentioned above.
 
 ## Gameplay
 
-As a mind-swapper, the Parasite can lead to a whole host of very confusing, silly, and fun situations. An Assassin may kill you, but you now take over their body and must slide into their mask effortlessly. Maybe you reveal the predicament to the other traitors--who find it unnerving but simply accept it as a fact of reality, and abandon their old friend.
+As a mind-swapper, the Parasite can lead to a whole host of very confusing, silly, and fun situations. An Assassin may kill you, but you now take over their body and must slide into their secret identity effortlessly. Maybe you reveal the predicament to the other traitors--who find it unnerving but simply accept it as a fact of reality, and abandon their old friend.
 
 Parasites also have strange interactions with protective roles, as a jester-type. An Avenger may be protecting you, but will suddenly start hunting you after you swap into the body of your murderer.
 
-Because the murderer receives the Parasite mask after swapping, they must now pawn the Parasite off onto someone else and steal another body, leading to a chain of hilarity and obfuscation.
+Because the murderer receives the Parasite secret identity after swapping, they must now pawn the Parasite off onto someone else and steal another body, leading to a chain of hilarity and obfuscation.
 
 The Parasite's existence disincentivizes murdering random people if you don't have to, while not being a completely black-and-white fail condition like normal jester-type roles.

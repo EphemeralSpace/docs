@@ -1,14 +1,14 @@
 # Fool
 
-{{#template ../../templates/removed-implemented.md reason="Removed alongside the jester troupe as it's pretty much just a non-element meant as a lose condition for jesters. Even as such, it wasn't really that interesting since it's way less dramatic than something like the nobleman."}}
+{{#template ../../templates/removed-implemented.md reason="Removed alongside the jester organization as it's pretty much just a non-element meant as a lose condition for jesters. Even as such, it wasn't really that interesting since it's way less dramatic than something like the nobleman."}}
 
 > **Name:** Fool
 >
-> **Troupe:** Jester
+> **Organization:** Jester
 >
 > **Archetypes:** Dud
 >
-> **Description:** Revel in failure as a lose state for the jester troupe.
+> **Description:** Revel in failure as a lose state for the jester organization.
 >
 > **Objectives:** None.
 >
@@ -17,7 +17,7 @@
 > *Okay, so you thought me murdering the captain wasn't very funny. But hey you're gonna execute me kn-- Wait. Oh no.*
 
 ## Concept
-The fool is not a commonly accessible mask and instead serves as the fail state of the jester troupe.
+The fool is not a commonly accessible secret identity and instead serves as the fail state of the jester organization.
 Unlike other jesters, their death does not impart any ill effects on their killer or the station at large, making them easily punishable for their transgressions.
 
 ## Abilities
