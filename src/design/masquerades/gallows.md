@@ -4,7 +4,7 @@
 
 > **Name:** Gallows
 >
-> **Troupes:** [Crew](../masks/crew.md), [Traitors](../masks/traitors.md)
+> **Organizations:** [Crew](../secret-identities/crew.md), [Traitors](../secret-identities/traitors.md)
 >
 > **Description:** A variant of [Traitors](traitors.md) with a lynch mechanic.
 

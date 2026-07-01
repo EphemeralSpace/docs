@@ -10,7 +10,7 @@ Players spawn into the lobby as soon as they connect to the server and are shown
 ## The Theater
 
 The lobby map is a theater, featuring a foyer area and the theater itself, with a stage and seating.
-The goal of this is to frame the entire round as an "immersive play" that is occurring within the theater, synergizing very well with the established design of randomized characters and relations, 'mask' roles, and focus on improvisational roleplay.
+The goal of this is to frame the entire round as an "immersive play" that is occurring within the theater, synergizing very well with the established design of randomized characters and relations, 'secret identity' roles, and focus on improvisational roleplay.
 Theatergoers can chat amongst themselves about anything they like.
 
 The players within the lobby are "theatergoers", who are visiting the theater with the goal of starring in one of the plays. The theatergoers are not human, and the theater as a map is in a sort of "void" of indeterminate quality. 
@@ -49,4 +49,4 @@ Others who simply wish to observe can melt into the theater's lush seating, and 
 
 ## Starting the Play
 
-Once the play begins, the curtains are drawn and all ready are taken into the other world. Roles are selected based on the theatergoer's preferences (see [here](./roundstart-arrivals-latejoining.md) for more), each theatergoer receives a random Mask, and they are expected to fully act in character, including not mentioning the theater from now on. Those who fail to uphold kayfabe may find themselves ousted by the other actors.
+Once the play begins, the curtains are drawn and all ready are taken into the other world. Roles are selected based on the theatergoer's preferences (see [here](./roundstart-arrivals-latejoining.md) for more), each theatergoer receives a random Secret Identity, and they are expected to fully act in character, including not mentioning the theater from now on. Those who fail to uphold kayfabe may find themselves ousted by the other actors.

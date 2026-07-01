@@ -4,7 +4,7 @@
 
 Reincarnation is a mechanic designed to reintroduce players that die in potentially unsatisfying ways into the round, with a strange twist for variety.
 
-When a player dies, their **soul will be weighed**. If they die very early into a round (<15 minutes), if they were killed by someone else (especially of their own troupe), if they were the last remaining member of their troupe, or if they haven't killed anyone, their "karma" increases. If they have killed others, especially of their own troupe, their "karma" decreases.
+When a player dies, their **soul will be weighed**. If they die very early into a round (<15 minutes), if they were killed by someone else (especially of their own organization), if they were the last remaining member of their organization, or if they haven't killed anyone, their "karma" increases. If they have killed others, especially of their own organization, their "karma" decreases.
 
 This "karma" heavily affects the chance that a player will reincarnate. If they are chosen for reincarnation, their soul will instead be transferred... into **any living pet on the station**!
 
@@ -15,7 +15,7 @@ Pets have some gameplay features that make them distinct from (and generally les
 - Cannot hear the speech of others--simply appears garbled.
 - Movement speed decently faster than even a completely unburdened human, to aid with escapes
 - One item slot (generally rationalized as like, being in the pet's mouth or something), albeit with a doafter to pick anything up, and the ability to do basic interactions
-- Different abilities depending on the specific pet: Polly with the ability to speak random sentences from your memory, Ian with same action as the [Avenger](masks/crew/avenger.md) for sensing your killer if you had one, etc.
+- Different abilities depending on the specific pet: Polly with the ability to speak random sentences from your memory, Ian with same action as the [Avenger](secret-identities/crew/avenger.md) for sensing your killer if you had one, etc.
 
 There are a few gameplay goals with reincarnation:
 - To reward players who may have died in unsatisfying or narratively unfulfilling ways with a final chance to enact their story

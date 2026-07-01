@@ -5,7 +5,7 @@
 Stagehands are an OOC role that players can take after they die.
 They take the place of the conventional observer/ghost, and they share a lot of the same properties.
 Stagehands are able to invisibly observe the show, flying around the station and watching events unfold.
-Additionally, they're given strong metaknowledge tools like players' masks and objectives, which help them follow along with peoples' motivations.
+Additionally, they're given strong metaknowledge tools like players' secret identities and objectives, which help them follow along with peoples' motivations.
 
 However, players do not automatically become stagehands upon death.
 Instead, they are first returned to the [lobby](lobby-readying-up.md), where they can then choose to opt into playing as a stagehand, which locks them into that role for the remainder of the round.
@@ -31,7 +31,7 @@ These observers, by virtue of being equal parts spectators and participants in t
 Additionally, it creates a situation where, even though stagehands are not part of the physical round, they are still capable of having an impact on things as a group.
 Stagehands can freely talk with each other and coordinate votes to create interesting decisions, which helps lessen the feeling of being "excluded" from the round after death.
 
-Some masks interact with voting as a concept, like the [Tragedian](../masks/crew/tragedian.md).
+Some secret identities interact with voting as a concept, like the [Tragedian](../secret-identities/crew/tragedian.md).
 
 ## Possession {.es-unimplemented}
 

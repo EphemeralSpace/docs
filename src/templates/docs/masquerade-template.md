@@ -4,11 +4,11 @@
 
 > **Name:** 
 >
-> **Troupes:** (Add links, there's probably more than one.)
+> **Organizations:** (Add links, there's probably more than one.)
 >
 > **Description:** (1-2 sentence description of what this masquerade does in terms of design.)
 >
-> **Specialties:** (Masks or gamerules of note that this masquerade uses in a special way. Optional and can be omitted.)
+> **Specialties:** (Secret identities or gamerules of note that this masquerade uses in a special way. Optional and can be omitted.)
 
 ## Concept
 Outline the holistic concept of this masquerade.

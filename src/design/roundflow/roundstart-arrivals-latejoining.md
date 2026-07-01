@@ -24,12 +24,12 @@ The arrivals flow may be varied by round modifiers/"station traits". Some exampl
 The motivation for this arrivals flow is generally clear IMO, but to reiterate what kind of gameplay experience is intended:
 - The crew should feel more tight-knit, since they're forced to take in the face of everyone on board before entering the station--additionally it just helps you understand what the makeup of the crew is like without having to check the manifest or anything
 - An opportunity to connect and converse means working relationships can start to take shape, and people can start working their background and character into their improv. Some semi-secretive spaces on the ship should be mapped to help facilitate sneakier alliances, if possible
-- Time to ponder your role and mask without much worry about timing lets people strategize better and come up with more interesting gameplay for when they do arrive at the station
+- Time to ponder your role and secret identity without much worry about timing lets people strategize better and come up with more interesting gameplay for when they do arrive at the station
 - New players should feel a little less lost than they would if they were placed directly in the department--they can just see who their coworkers are, and follow them to the department if necessary, familiarizing themselves with the station's layout
 
 ## Latejoining {.es-unimplemented}
 
-For a couple reasons, it's necessary to discincentivize latejoining as an alternative to readying up. It's better for gameplay if the logic for roundstart has more players in the round to work with for assigning masks and roles and such, and it's also better for social deductioncoin if the crew you see at the start of the round is pretty much exclusively who you can expect to see for the entire round, instead of having to account for everyone new that joins.
+For a couple reasons, it's necessary to discincentivize latejoining as an alternative to readying up. It's better for gameplay if the logic for roundstart has more players in the round to work with for assigning secret identities and roles and such, and it's also better for social deductioncoin if the crew you see at the start of the round is pretty much exclusively who you can expect to see for the entire round, instead of having to account for everyone new that joins.
 
 However, it's simply unreasonable not to have latejoining in some form--rounds are too long, and telling people "wait an hour and a half to play" is a little silly and would just lead to people not playing ever. There's a couple ways latejoining is integrated into the game, more restricted than normal:
 

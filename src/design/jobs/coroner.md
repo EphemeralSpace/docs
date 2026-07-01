@@ -5,17 +5,17 @@
 The Coroner is a **Medical** job centered around the handling of dead bodies.
 They guard the morgue, handle the interment of bodies, and make sure nobody gets their grubby little hands all over the corpseloot (at least not before the Coroner takes a peek). When necessary, the Coroner can take on the role of an undertaker and help make sure dead bodies actually find their way to medbay to help counteract <span class="es-unimplemented">filth</span>.
 
-The Coroner *also* handles autopsies, which can reveal extremely important information about those who have passed on--including their cause of death, and even their mask.
+The Coroner *also* handles autopsies, which can reveal extremely important information about those who have passed on--including their cause of death, and even their secret identity.
 
 ## Dead Men Tell Tall Tales
 
 The Coroner spawns with two unique items: a black briefcase intended to contain autopsy readouts, and an autopsy scalpel. Upon interacting with a dead body on top of an operating table using the autopsy scalpel, an autopsy readout paper will spawn on top of the body after a medium delay.
 
-This paper contains several pieces of incredibly useful information: a best-guess at what weapon caused the most damage to the body, if one exists, and a brain scan listing **two masks from the current masquerade set: one is the dead body's true mask, and one is randomly selected.** If either the true or random mask is non-crew, it will be listed abstractly as simply "enemy of the crew".
+This paper contains several pieces of incredibly useful information: a best-guess at what weapon caused the most damage to the body, if one exists, and a brain scan listing **two secret identities from the current masquerade set: one is the dead body's true secret identity, and one is randomly selected.** If either the true or random secret identity is non-crew, it will be listed abstractly as simply "enemy of the crew".
 
 This process removes the brain from the body, which may then be used for any purpose the Coroner sees fit. An autopsy cannot be performed on a body without a brain, and a non-Coroner cannot perform an autopsy.
 
-The gameplay impact of this is significant: a non-hidden information role means the Coroner is implicitly trustable, and it also means that the Coroner might have an actual reason to lie--such as being a [Traitor](../masks/traitors.md). It also means that the Coroner's ability is more consistent round-to-round, and can be relied upon to an extent, which is useful for encouraging deductive gameplay. Since the autopsy is exclusively post-death, the Coroner's ability cannot be used to gain especially advantageous information to use against others--only to confirm deductions which were otherwise unconfirmable.
+The gameplay impact of this is significant: a non-hidden information role means the Coroner is implicitly trustable, and it also means that the Coroner might have an actual reason to lie--such as being a [Traitor](../secret-identities/traitors.md). It also means that the Coroner's ability is more consistent round-to-round, and can be relied upon to an extent, which is useful for encouraging deductive gameplay. Since the autopsy is exclusively post-death, the Coroner's ability cannot be used to gain especially advantageous information to use against others--only to confirm deductions which were otherwise unconfirmable.
 
 Because the Coroner's readout is on a piece of paper, this can be used to confirm their autopsies--assuming you actually saw the autopsy happen. The paper is forgeable otherwise, and editable.
 

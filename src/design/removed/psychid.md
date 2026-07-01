@@ -4,7 +4,7 @@
 
 > **Name:** Psychid
 >
-> **Troupe:** Parasite
+> **Organization:** Parasite
 >
 > **Archetypes:** Jester, Converter
 >
@@ -17,7 +17,7 @@
 > *That's a nice corporeal form you have there. Would be a shame if someone stole it from you.*
 
 ## Concept
-The psychid is a stealthy parasite mask that is focused on stealing bodies and pretending to be others in order to slowly spread the infection.
+The psychid is a stealthy parasite secret identity that is focused on stealing bodies and pretending to be others in order to slowly spread the infection.
 
 ## Abilities
 On death, the psychid will be revived and swap bodies with their killer.

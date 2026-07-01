@@ -1,10 +1,10 @@
 # Glutton
 
-{{#template ../../templates/removed-implemented.md reason="The less-interesting sibling of the Guzzler. This is more of a general design lesson about freaks, but as we've developed masks and moved away from more explicit social deduction elements within the gameplay itself, the idea of costuming a mask as a specific action to drive away suspicion never became a thing. In general, people just engage in far more normal deceit and subterfuge rather than playing 4-D chess and emptying snack vendors in order to give themselves cover which doesn't hold up under scrutiny."}}
+{{#template ../../templates/removed-implemented.md reason="The less-interesting sibling of the Guzzler. This is more of a general design lesson about freaks, but as we've developed secret identities and moved away from more explicit social deduction elements within the gameplay itself, the idea of costuming a secret identity as a specific action to drive away suspicion never became a thing. In general, people just engage in far more normal deceit and subterfuge rather than playing 4-D chess and emptying snack vendors in order to give themselves cover which doesn't hold up under scrutiny."}}
 
 > **Name:** Glutton
 >
-> **Troupe:** Crew
+> **Organization:** Crew
 >
 > **Description:** There's a lot of food in this world, and someone's gotta eat it. Dig in.
 >
@@ -22,4 +22,4 @@ N/A.
 
 ## Gameplay
 
-It's difficult to tell for certain if someone is a Glutton, since everyone needs to eat. Their need for new foods will probably lead them into strange interactions, especially since it doesnt have be a cooked meal. Eating organs is an obvious avenue--which may make them appear like a Cannibal. Trawling through maintenance for weird foods and for exotic fauna to eat may lead them into conflict with any number of masks. The chef might be happy that someone appreciates their cooking, but they're unlikely to be happy for long with someone who essentially operates like a human mouse eating everything in sight.
+It's difficult to tell for certain if someone is a Glutton, since everyone needs to eat. Their need for new foods will probably lead them into strange interactions, especially since it doesnt have be a cooked meal. Eating organs is an obvious avenue--which may make them appear like a Cannibal. Trawling through maintenance for weird foods and for exotic fauna to eat may lead them into conflict with any number of secret identities. The chef might be happy that someone appreciates their cooking, but they're unlikely to be happy for long with someone who essentially operates like a human mouse eating everything in sight.
