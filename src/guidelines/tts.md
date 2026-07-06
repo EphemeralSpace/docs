@@ -5,6 +5,7 @@ The following is a set of instructions on how to create announcement TTS audio f
 ## Tools
 
 - Copy of **Fruity Loops Studio** (FL Studio 2025 Producer Edition was used for this guide)
+- Audacity
 - Free FL Studio plugin **Krush**
 - **VOX** voice lines (either downloaded from the [/tg/station repo](https://github.com/tgstation/tgstation/tree/master/sound/announcer/vox_fem) or [generated yourself](https://github.com/N3X15/ss13-vox))
 
@@ -34,5 +35,22 @@ Once you have your voice lines ready, you need to arrange them in the playlist.
 I recommend using the Draw tool (_pencil_), Paint tool (_paint brush_), and slice tool (_box cutter_).
 Your voice lines will automatically snap into place on the grid of the playlist, but if you need to move them more finely, you can hold ALT to disable snapping.
 
+Some guidelines for the actual arrangement of voice lines:
+- Announcement lines should almost never be longer than one sentence, and almost never longer than ~10 seconds.
+- Ensure that the sentence mixed voiceline roughly follows the flow and cadence of regular speech (with regards to pause length etc), unless you're making the announcement deliberately sound stilted.
+- Don't worry about fitting *directly* to the announcement text as written. Make whatever sounds the cleanest in audio, as long as it has a roughly equivalent meaning and connotation.
+
 Once you've successfully put the voice lines together, you can export the file in the top left of FL studio.
 Click File -> Export -> OGG file -> Start.
+
+## Postprocessing
+
+In addition to the actual mixing and arrangement of the voicelines, announcement audio has an additional postprocessing step done using Audacity.
+
+After importing the previously exported ogg into Audacity, perform the following steps:
+- Select all of the audio in the track (Ctrl+A)
+- Apply a **filter curve EQ** (Effect -> EQ and Filters -> Filter Curve EQ) with the preset **Bass Cut**.
+- Apply reverb (Effect -> Delay and Reverb -> Reverb) with the preset **Medium Room**, with the room size & reverberance altered to taste.
+- Export to OGG.
+
+When you do this, ensure that the reverb tail created actually fades out properly rather than cutting off with the end of the sound. If you think a given announcement would sound better with a slightly different EQ or reverb, feel free to deviate from the exact presets listed here.
