@@ -1,10 +1,10 @@
 # Vigilante
 
-{{#template ../../../templates/implemented.md }}
+{{#template ../../templates/removed-implemented.md reason="Wasn't the worst, but had generally kinda bad incentives. Vigilantes didn't really prevent murder in a real way, but rather just watched people die then murdered in retaliation. It very often led to cycles of people killing each other and dying, which undermines the crew to an unreasonable degree."}}
 
 > **Name:** Vigilante
 >
-> **Organization:** [Crew](../crew.md)
+> **Organization:** Crew
 >
 > **Archetypes:** Murderer
 >
@@ -18,13 +18,13 @@
 
 ## Concept
 The vigilante is a secret identity that must target and kill players who have killed other players in the round.
-Unlike the [mercenary](mercenary.md), which is focused solely on organization alignment, the vigilante cares about the actions a player has taken during the round, and thus can target any organization.
+Unlike the mercenary, which is focused solely on organization alignment, the vigilante cares about the actions a player has taken during the round, and thus can target any organization.
 
 ## Abilities
 Starts with a cache containing some kind of weapon.
 
 ## Gameplay
-The vigilante provides ambiguity for other secret identities with weapons that try to kill others, such as [avenger](avenger.md) or [traitors](../traitors.md).
+The vigilante provides ambiguity for other secret identities with weapons that try to kill others, such as avenger or traitors.
 However, their condition of the target needing to have killed someone introduces an interesting dillema: directly interfering with an attack does not necessarily fulfill their objective.
 Targeting secret identities like traitors also doesn't even guarantee completion either, as its highly likely that an individual traitor may have not killed anyone.
 

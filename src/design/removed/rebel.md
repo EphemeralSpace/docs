@@ -1,12 +1,10 @@
 # Rebel
 
-{{#template ../../../templates/implemented.md }}
-
-{{#template ../../../templates/slated-for-rework.md reason="with modifiers and ex-syndie specifically this will probably get turned back into vandal, with maybe a higher chance to roll ex-syndie"}}
+{{#template ../../templates/removed-implemented.md reason="Essentially just a powercreeped vandal. This would benefit significantly by just being a modifier, and by always tying the gear to the traitor objectives, there's just a loss in deniability that makes this less interesting to reason around."}}
 
 > **Name:** Rebel
 >
-> **Organization:** [Crew](../crew.md)
+> **Organization:** Crew
 >
 > **Archetypes:** Sabotager
 >
