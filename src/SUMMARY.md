@@ -37,7 +37,7 @@
   - [Warp Drive]()
   - [Stagehands & After-Death Gameplay](design/roundflow/stagehands.md)
 - [Decay]()
-  - [Filth]()
+  - [Filth](design/decay/filth.md)
   - [Fire]()
   - [Rust](design/decay/rust.md)
 - [Power]()
