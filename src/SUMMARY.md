@@ -110,6 +110,7 @@
   - [Valentines](design/masquerades/valentines.md)
 - [Station Events](design/station-events.md)
 - [Machine Degradation](design/machine-degradation.md)
+- [Necroflora](design/necroflora.md)
 ---
 - [Removed Documents](design/removed.md)
   - [Daredevil](design/removed/daredevil.md)
