@@ -32,7 +32,7 @@ If the animated corpse enters crit, it will husk and burst into a cloud of gaseo
 
 Non-infectious spore gas will also exist elsewhere in the game--as a result of gas leaks, other mechanics like plants, etc. Non-infectious gas has a litany of random low-medium severity negative effects on those who inhale it. If a Corpsychid inhales spore gas, they will get dizzy and begin hallucinating.
 
-If the Corpsychid is killed by someone else, they will burst into spores. If the Corpsychid is killed by an environmental source or themselves, they gain the option to reanimate themselves after a moment: reviving with full control, but unable to speak and husking after a certain amount of time like a regular corpse.
+If the Corpsychid is killed by someone else, they will burst into spores. If the Corpsychid is killed by an environmental source or themselves, they gain the option to reanimate themselves after a moment: reviving with full control, but unable to speak, and appearing as as a [cryohusk](../../cryohusks.md), and dying again after a short-medium duration.
 
 ## Gameplay
 
