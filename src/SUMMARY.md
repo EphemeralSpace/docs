@@ -45,6 +45,7 @@
 - [Access](design/access.md)
 - [Armory]()
 - [Clothing](design/clothing.md)
+- [Cryohusks](design/cryohusks.md)
 - [Lathe](design/lathe.md)
 - [Reincarnation](design/reincarnation.md)
 - [Stats]()

@@ -8,7 +8,7 @@
 >
 > **Archetypes:** Freak, Jester
 >
-> **Description:** See the fruits of your expensive designer surgeries. Question if it's actually worth living life as a cryonic zombie.
+> **Description:** Bear the fruits of your expensive designer surgeries. Question if it's actually worth living life as a cryonic zombie.
 >
 > **Objectives:** None.
 >
