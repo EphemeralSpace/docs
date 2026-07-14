@@ -22,6 +22,7 @@ The presence and amount of miasma in a room is a measuring stick for how filthy 
 
 When enough miasma builds up in a room, the room will become covered in dirt decals.
 Players inhaling miasma will also gain a sickly status effect for a time, not making them ill but increasing the chances that they gain an infection.
+Additionally pests like flies and roaches may spontaneously generate in areas with high miasma.
 
 ## Disease Clouds
 
