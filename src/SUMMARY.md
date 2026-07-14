@@ -90,6 +90,7 @@
     - [Avenger](design/secret-identities/crew/avenger.md)
     - [Cannibal](design/secret-identities/crew/cannibal.md)
     - [Crewmember](design/secret-identities/crew/crewmember.md)
+    - [Cryojunkie](design/secret-identities/crew/cryojunkie.md)
     - [Drug Dealer](design/secret-identities/crew/drug-dealer.md)
     - [Eavesdropper](design/secret-identities/crew/eavesdropper.md)
     - [Guzzler](design/secret-identities/crew/guzzler.md)

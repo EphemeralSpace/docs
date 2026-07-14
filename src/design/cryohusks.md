@@ -1,6 +1,6 @@
 # Cryohusks {.es-unimplemented}
 
-Cryohusks are aberrated humans that are unidentifiable, move slightly slower, are especially weak to heat damage, and have a little bit of difficutly speaking. They can enter the round through a variety of methods, but most involve some variation of a person being exposed to cold temperatures for far too long--e.g., from hypersleep or from cryogas.
+Cryohusks are aberrated humans that are unidentifiable, move slightly slower, are especially weak to heat damage, and have a little bit of difficulty speaking. They can enter the round through a variety of methods, but most involve some variation of a person being exposed to cold temperatures for far too long--e.g., from hypersleep or from cryogas.
 
 When a cryohusk is created--unless it's at player-spawn-time--the cryohusk's clothing disintegrates from the cold into tatters, and their ID card is replaced with an unrecognizable 'frozen ID', which has a chance to have randomized or additional accesses different to their old job. Cryohusks retain the personality, secret identity, and objectives of the person they were created from--only their visuals and speech are altered.
 
