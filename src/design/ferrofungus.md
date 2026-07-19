@@ -8,7 +8,6 @@ It slowly spreads over tiles as it grows over them, eroding away metal to fuel i
 # The Ferrofungus Threat
 
 Ferrofungus is a map component suited for larger, 32 player maps. It aims to act as a more interesting obstacle to be used in map design and an actively progressing threat in rounds.
-During the midround, stagehands will have the opportunity to vote to make the Ferrofungus into a much more impactful threat to the crew and enemy organizations alike.
 For Map Design, Ferrofungus is a way to make parts of the map more interesting and threatening to traverse, adding a cost to exploring deep maints locations and navigating to key utilities or high grade loot zones. It slows down the process of looting maints, making deep maints loot no longer "first come, first served".
 For Roundflow, Ferrofungus personifies the threat of the radstorm by itself becoming more dangerous as the radstorm approaches. Working to keep it contained adds another reactive crew task which requires more engaged coordination and intervention, while also rewarding crew for proactively organizing expeditions deep into Ferrofungus territory.
 The design of the Fungal Organs is intended to encourage working as a team to clear rooms out, and planning the method of clearing rooms carefully. Traversing into creep without a plan should feel like "bullet hell". You can dodge and weave, rewarding high skill, but one slip up can be very dangerous.
