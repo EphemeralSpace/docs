@@ -2,7 +2,7 @@
 
 {{#template ../templates/unimplemented.md}}
 
-Originating from a planet with incredibly iron rich soil, Ferrofungus is a invasive plant colony which can rapidly infect a unsuspecting ship, station, or planet, easily growing over anything made of Iron and breaking it down to grow further. It developed radiotrophic and zero atmosphere adaptations as the atmosphere of the planet it originated on was slowly eroded by solar winds, since then, it has survived on ejecta from meteor impacts and hibernates on meteors and debris in space until it comes into contact with anything it can spread on. A single spore attaching to a ship can be enough to cause the rapid degeneration of the ship's hull and systems.
+Originating from a planet with incredibly iron rich soil, Ferrofungus is a invasive fungal colony which can rapidly infect a unsuspecting ship, station, or planet, easily growing over anything made of Iron and breaking it down to grow further. It developed radiotrophic and zero atmosphere adaptations as the atmosphere of the planet it originated on was slowly eroded by solar winds, since then, it has survived on ejecta from meteor impacts and hibernates on meteors and debris in space until it comes into contact with anything it can spread on. A single spore attaching to a ship can be enough to cause the rapid degeneration of the ship's hull and systems.
 It slowly spreads over tiles as it grows over them, eroding away metal to fuel its growth. As a radiotrophic organism, the radstorm is amplifying the speed of its growth. As the radstorm approaches closer, the Ferrofungus's spread, speed and potency increase.
 
 # The Ferrofungus Threat
