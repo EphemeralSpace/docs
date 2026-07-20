@@ -1,6 +1,6 @@
 # Filth
 
-{{#template ../../templates/unimplemented.md}}
+{{#template ../../templates/partially-implemented.md}}
 
 Filth is a general label encompassing the spread of miasma as well as disease transmission.
 Like other decay vectors, it serves as a progressive threat that the crew must mitigate over the course of the round.
@@ -35,7 +35,7 @@ The disease clouds serve as a more tangible and skill-based expression of the tr
 However, due to the conditions that filth and bodies often pile up in (small enclosed areas, dark hallways), they can still be quite difficult to avoid.
 Additional mitigating equipment gives players a tradeoff with dealing with filthy areas while not putting themselves at risk for being infected.
 
-## Infections
+## Infections {.es-unimplemented }
 
 Infections are non-transmissible ailments that players can receive when coming into contact with disease clouds.
 Unlike typical wounds or injuries, infections do not directly harm players and do not have the capacity to kill them.
