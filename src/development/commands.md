@@ -91,7 +91,8 @@ Most of these are useful in live servers, too!
 
 ``fixgridatmos [grid ID]`` Makes every tile on the grid have a roundstart gas mix. When updating maps, sure to run this after adding new rooms or changing map geometry.
 
-``colornetwork [entity ID] Pipe [color]``: Colors all pipes in the network of the specified pipe to the specified color. All default pipe colors can be found in ``Resources/Prototypes/Entities/Objects/Tools/spray_painter.yml``, but blue ``#0055CC`` for distro and crimson ``#990000`` for waste are probably the ones you are going to want to use most.
+``colornetwork [entity ID] Pipe [color]``: Colors all pipes in the network of the specified pipe to the specified color. Any color is accepted, but the default pipe colors (i.e the ones in the spraypainter) are as follows:
+<span color="#FF1212">red</span> ``#FF1212``, <span color="#B3A234">yellow</span> ``#B3A234``, <span color="#947507">brown</span> ``#947507``, <span color="#3AB334">green</span> ``#3AB334``, <span color="#03fCD3">cyan</span> ``#03fCD3``, <span color="#0055CC">blue</span>  ``#0055CC``,  <span color="#333333">black</span> ``#333333``, and <span color="#990000">crimson</span> ``#990000``.
 
 ``toggledecals``: Toggles decal visibility.
 
