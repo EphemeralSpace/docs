@@ -87,6 +87,7 @@ Most of these are useful in live servers, too!
 ``savemap [map ID]``: Saves the specified map. By default, saved maps can be found in ``bin/Content.Server/data``.
 
 ``savegrid [grid ID]``: Saves the specified grid. You need to use this for shuttles and other extraneous things, usually. By default, saved maps can be found in ``bin/Content.Server/data``.
+
 ``lsgrid``: Lists all current grid and map IDs.
 
 ``fixgridatmos [grid ID]`` Makes every tile on the grid have a roundstart gas mix. When updating maps, sure to run this after adding new rooms or changing map geometry.
