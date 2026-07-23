@@ -1,6 +1,6 @@
 # Hoarder
 
-{{#template ../templates/partially-implemented.md}}
+{{#template ../../../templates/partially-implemented.md}}
 
 > **Name:** Hoarder
 >
