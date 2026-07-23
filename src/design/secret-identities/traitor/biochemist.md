@@ -6,7 +6,7 @@
 >
 > **Organization:** [Traitor](../traitors.md)
 >
-> **Description:** Throw your gas grenades in to medbay to cause panic and disease. Die when you inevitably get caught after doing something so obvious. Revive anyways thanks to your cryojunkie implant.
+> **Description:** Throw your gas grenades into medbay to cause panic and disease. Die when you inevitably get caught after doing something so obvious. Revive anyways thanks to your cryojunkie implant.
 >
 > **Objectives:** The same ones every traitor gets
 >
