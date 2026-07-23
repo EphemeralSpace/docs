@@ -26,6 +26,8 @@ The Warp Disciple is a zealot that seems to have their wavelength tuned to the e
 
 Once per round, the Warp Disciple can use an ability to teleport them inside the Warp Drive from anywhere and inject them with mild painkillers.
 
+If the Warp Disciple spends too long without entering the warp drive (~15 min?) they begin to get dizzy and become unable to speak properly.
+
 ## Gameplay
 
 The Warp Disciple is an anchor for the Crew: an objective that directly incentivizes engaging with the Crew's main win condition (even if that might involve making sure others don't), and an ability that's powerful enough to get them out of almost any bad situation they find themselves in at least once. This creates a high-value target for Traitors, as well as a rallying point for any crewmembers that are truly serious about getting off of that deathtrap.
