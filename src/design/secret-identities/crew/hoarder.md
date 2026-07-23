@@ -14,9 +14,7 @@
 >
 > *Some people on this station are too rich for their own good. Lucky they have me to give them a hand. Yup.. just me and my mountain of lighters and pocket lint and assorted fruits. I'll keep the revolver on me for personal use.*
 
-{{#template ../../../templates/renamed.md name="Pilferer"}}
-
-{{#template ../../../templates/renamed.md name="Pickpocket"}}
+{{#template ../../../templates/renamed.md name="Pilferer, Pickpocket"}}
 
 ```admonish warning "Notes"
 It might be good to have a generic delay for this ability, and the abilities of other secret identities, to avoid stuff happening instantly on arrivals, since it can be a little too easy to go unnoticed. Not that it'd be very useful to steal stuff from people on arrivals anyway, though.
