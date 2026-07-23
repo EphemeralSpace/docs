@@ -1,0 +1,2 @@
+- 1 clue + someones identity from whitelist
+- go beat them up or kill them
