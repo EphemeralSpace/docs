@@ -35,6 +35,10 @@ Some secret identities interact with voting as a concept, like the [Tragedian](.
 
 ## Possession {.es-unimplemented}
 
+```admonish warning
+this shit is not going to be called possession or ectoplasm i just didnt want to come up with a better name
+```
+
 Voting on events not enough intervention in the round for you? How about directly affecting objects ingame with your ghostly backstage powers?
 
 Stagehands have a resource called *ectoplasm*. Ectoplasm can be spent to possess an object (a variable amount depending on the object), and it recharges over time. Some possessable objects will refund the ectoplasm spent if a condition is met while they are being possessed. The earlier in the round one becomes a stagehand (either from roundstart or dying early), the more base ectoplasm a stagehand has--in effect, giving them more backstage power in compensation for having spent less time in the actual round.
