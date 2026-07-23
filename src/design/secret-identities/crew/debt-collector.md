@@ -28,7 +28,7 @@ The Debt Collector receives a cache containing two things: a random weapon--eith
 
 The Debt Collector has an action which they can use on an incapacitated player (either crit or sleeping, same as the [Subverter](../traitor/subverter.md)) which will begin the.. "debt collection" process. If the player in question was the Debt Collector's target, a mass of blood and gore will spawn, and the Debt Collector will receive a random highly valuable item spawned from the chest cavity of their target. If the player in question was not the correct target, the extraction process will backfire due to the lack of anything valuable to latch onto: the Debt Collector will randomly either be knocked unconscious, stunned for a while and [cryohusked](../../cryohusks.md), or rarely simply explode into viscera.
 
-In any case, the player the debt extractor is used on will be injected with painkillers and healing meds and their restrains broken, if they were in any.
+In any case, the player the debt extractor is used on will be injected with painkillers and healing meds and their restraints broken, if they were in any.
 
 Once the valuable item has been extracted, it will have its name and description changed to note it's status as a debtor's treasure, and the Debt Collector must hold onto it for the duration of the round.
 
