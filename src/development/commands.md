@@ -18,8 +18,6 @@ This is a non-comprehensive list of console commands useful for development / us
 
 ``electrocute [entity ID] [seconds] [damage]``: Electrocutes the given entity.
 
-``faxui``: Opens the admin fax UI, allowing faxes to be sent to any fax machine.
-
 ## Feature Testing
 ``showatmos``: Toggles the atmos debug overlay, showing most atmos-related values wherever the mouse is.
 
@@ -60,7 +58,7 @@ Most of these are useful in live servers, too!
 
 ``mq:force [masquerade name]``: Forces the specified masquerade to be selected next round.
 
-``mq:unforce:`` Unsets the forced masquerade, if there is one.
+``mq:unforce`` Unsets the forced masquerade, if there is one.
 
 ``cinematic:playAll [cinematic type]``: Plays a cinematic for all players.
 
