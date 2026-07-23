@@ -14,7 +14,7 @@
 >
 > **Masquerade notes:** N/A
 >
-> **Modifier notes:** (Notes for what modifiers may be more likely or not possible to roll for this secret identity, if applicable. N/A otherwise)
+> **Modifier notes:** N/A
 >
 > *Me? I work in insurance. Have I ever told you your chest cavity is looking awfully $100,000-shaped today?*
 
