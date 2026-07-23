@@ -12,9 +12,11 @@ This is a non-comprehensive list of console commands useful for development / us
 
 ``golobby``: Restarts the round and enables the lobby, if it was disabled.
 
-``toast``: Forces the map to toast instead of devmap and immediately restarts the round.
+``delaystart [seconds]``: Delays the round by the set amount of seconds. If used on its own, it will delay indefinitely. Negative numbers are accepted.
 
 ``lobby:toggleclosed``: Toggles whether the lobby is currently open or closed.
+
+``toast``: Forces the map to toast instead of devmap and immediately restarts the round.
 
 ``electrocute [entity ID] [seconds] [damage]``: Electrocutes the given entity.
 
