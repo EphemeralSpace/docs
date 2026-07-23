@@ -2,6 +2,8 @@
 
 {{#template ../../../templates/unimplemented.md }}
 
+{{#template ../../templates/slated-for-rework.md reason="Recon is an ancient concept made back in the original batch of 3 traitors, and with hindsight, the items here pretty obviously would not synergize well together or be very fun to use. An info-based traitor is probably still a good idea to have, but it shouldn't take this form."}}
+
 > **Name: Recon**
 >
 > **Organization:** [Traitor](../traitors.md)
