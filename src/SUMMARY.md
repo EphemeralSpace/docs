@@ -11,6 +11,10 @@
 - [Conventions](coding/code-conventions.md)
 - [Masquerade Implementation](coding/masquerade-implementation.md)
 
+## Development
+---
+- [Console Commands](development/commands.md)
+
 # Guidelines
 ---
 - [Mapping](guidelines/mapping.md)
