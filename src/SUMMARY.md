@@ -63,6 +63,7 @@
     - [Noble](design/secret-identities/modifiers/noble.md)
   - [Traitors](design/secret-identities/traitors.md)
     - [Assassin](design/secret-identities/traitor/assassin.md)
+    - [Biochemist](design/secret-identities/traitor/biochemist.md)
     - [Demolitionist](design/secret-identities/traitor/demolitionist.md)
     - [Infiltrator](design/secret-identities/traitor/infiltrator.md)
     - [Marauder](design/secret-identities/traitor/marauder.md)
