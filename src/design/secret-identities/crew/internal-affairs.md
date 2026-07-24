@@ -26,11 +26,10 @@ Internal Affairs is a secret identity centered around keeping something working 
 
 Internal Affairs receives 1-2 random objectives from a set including the following:
 - Prevent the armory from being opened during the round, or ensure that no one is carrying the guns from it if it does
-- Ensure that fewer than X people die outside of medbay
+- Ensure that no more than X crewmembers are killed by other crewmembers
 - Ensure that X objective is not sabotaged, or Deal With anyone who does
 - Ensure that fewer than X fires are on the station by round end
-
-If an Internal Affairs crewmember is killed by another member of the crew, and the warp drive successfully teleports the station to Central Command, their killer will be vaporized and their objective completion nullified, if they had any.
+- and other stuff idk.
 
 ## Gameplay
 
