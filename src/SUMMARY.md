@@ -95,7 +95,6 @@
     - [Arsonist](design/secret-identities/crew/arsonist.md)
     - [Avenger](design/secret-identities/crew/avenger.md)
     - [Cannibal](design/secret-identities/crew/cannibal.md)
-    - [Crewmember](design/secret-identities/crew/crewmember.md)
     - [Cryojunkie](design/secret-identities/crew/cryojunkie.md)
     - [Debt Collector](design/secret-identities/crew/debt-collector.md)
     - [Drug Dealer](design/secret-identities/crew/drug-dealer.md)
@@ -124,6 +123,7 @@
 - [Machine Degradation](design/machine-degradation.md)
 ---
 - [Removed Documents](design/removed.md)
+  - [Crewmember](design/removed/crewmember.md)
   - [Daredevil](design/removed/daredevil.md)
   - [Empath](design/removed/empath.md)
   - [Fool](design/removed/fool.md)

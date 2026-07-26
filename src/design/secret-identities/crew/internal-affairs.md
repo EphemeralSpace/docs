@@ -33,7 +33,7 @@ Internal Affairs receives 1-2 random objectives from a set including the followi
 
 ## Gameplay
 
-Internal Affairs is an identity that interacts with a large portion of often job-centered mechanics around the station, with special incentives that are far more interesting than the general "be a good crewmember" of [Crewmember](crewmember.md). Because these objectives sometimes run counter to the crew's actual incentives (opening the armory might genuinely be useful to combat Traitors), it naturally creates social conflict--not to mention the conflict created with actual bad actors.
+Internal Affairs is an identity that interacts with a large portion of often job-centered mechanics around the station, with special incentives that are far more interesting than the general "be a good crewmember" of more basic roles. Because these objectives sometimes run counter to the crew's actual incentives (opening the armory might genuinely be useful to combat Traitors), it naturally creates social conflict--not to mention the conflict created with actual bad actors.
 
 This identity function somewhat as a "tutorial" for what kind of things might advantage the crew by default: not allowing sabotage freely, keeping track of bodies, putting out fires, etc.
 
