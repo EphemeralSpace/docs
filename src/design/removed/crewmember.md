@@ -1,10 +1,10 @@
 # Crewmember
 
-{{#template ../../../templates/implemented.md }}
+{{#template ../../templates/removed-implemented.md reason="Rolling crewmember always felt abjectly terrible compared to the myriad of other basic low-impact crew roles in the game. Other roles fill a similar purpose of being highly-ambiguous while not strongly driving the round. Also as an side, fake-claiming crewmember was always horrifically ass and basically was never done. Other roles like vandal serve that niche way better since they offer plausible deniability for evil-ish actions rather than just being a word to throw out."}}
 
 > **Name:** Crewmember
 >
-> **Organization:** [Crew](../crew.md)
+> **Organization:** Crew
 >
 > **Archetypes:** Dud
 >
