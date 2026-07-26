@@ -22,7 +22,7 @@ The foundation of Ferrofungus is the Fungal Creep, a carpet which grows across f
 and converted into water vapor while accelerating creep growth. Standing on Fungal Creep isn't slowing or damaging, but its presence is a sign of danger.
 Ferrofungus can't spread through walls or closed doors. Crew can take advantage of this to contain and limit its spread.
 Fungal Creep and Fungal Organs are immune to cold, suffocation and radiation, being adapted to survive in space. It can, however, be destroyed. Slashing it to pieces suffices, but fire, high temperatures and caustic chemicals can rapidly clear it from a room.
-Stagehands can <span class="es-unimplemented">[Possess](../roundflow/stagehands.md)</span> Fungal Creep tiles to instantly spawn a Fungal Organ of their choice on that tile. Organs spawned this way have a visual effect and drop the Ectoplasm used when defeated.
+Stagehands can <span class="es-unimplemented">[Possess](roundflow/stagehands.md)</span> Fungal Creep tiles to instantly spawn a Fungal Organ of their choice on that tile. Organs spawned this way have a visual effect and drop the Ectoplasm used when defeated.
 
 
 # Fungal Organs
