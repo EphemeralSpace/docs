@@ -57,6 +57,7 @@
 - [Jobs](design/jobs.md)
   - [Bartender](design/jobs/bartender.md)
   - [Coroner](design/jobs/coroner.md)
+  - [Peacekeeper](design/jobs/peacekeeper.md)
   - [Quartermaster](design/jobs/quartermaster.md)
   - [Scientist](design/jobs/scientist.md)
 - [Secret Identities](design/secret-identities.md)
