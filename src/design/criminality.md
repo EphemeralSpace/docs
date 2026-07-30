@@ -2,15 +2,13 @@
 
 {{#template ../templates/unimplemented.md}}
 
-Criminality is a largely automated system that tracks player threat levels and restricts access to various areas on the station accordingly.
-Its purpose is to discourage behavior that, while advantageous to advancing personal gamestates, introduces chaos or conflict which is harmful to the crew.
+Criminality is an automated system that tracks player threat levels and restricts access to various areas on the station accordingly.
+Its purpose is to encourage alternative strategies for accomplishing goals without always being able to resort to bringing the most powerful tool available straight to the location where it can be best used.
 
-For example, manufacturing explosives and then bringing them to the bridge may be an effective way to accomplish your goals, but being able to do so unimpeded (especially by allied crew who may have confirmed you) can unintentionally allow overly chaotic actions.
-
-Criminality addresses this by making the enforcement of the station's laws an automated affair.
-However, this is *intentionally* not a perfect system, and is not meant to be a perfect blockade.
-Every action shouldn't be catalogued and every area shouldn't be perfectly fortified.
-The purpose is to _discourage_, not prevent.
+Additionally, the system creates a more applicable way to restrict suspicious players without resorting to something as singularly uninteresting as brigging.
+Since the threat level has multiple states, players caught doing somewhat suspicious behavior that isn't necessarily worthy of permanent confinement or death (sabotaging machines, killing random people) can have a proportional raise in threat level.
+This still allows them to continue pursuing their objectives, albeit with a handicap due to the increased scrutiny and restrictions on where they can go.
+Criminality itself being an automated system also means that it's significantly more reliable and equally applied to the station, which curbs issues with the traditional Security Department where the enforcement itself can be corrupt and thus ineffective.
 
 ## Security Levels and Threat
 
@@ -33,7 +31,7 @@ Areas have various systems which respond to a player's threat level.
 
 The most basic of these take the form of _security airlocks_.
 These airlocks are usually placed solely at the entrance of a general region, typically at security checkpoints.
-Having a high enough threat level (or being unidentifiable in threat) will prevent access to the location, forcing alternative entry through space, disposals, or even dangerous maintenance pathways.
+Having a high enough threat level (or being unidentifiable in threat) will prevent access to the location, forcing alternate paths.
 
 More secure areas may have alarms, turrets, or even robots which automatically respond to players with a high enough threat level.
 Naturally, more secure areas with higher security levels will feature more of these (the Low Security bar doesn't need a turret at the door).
@@ -48,3 +46,7 @@ If someone passes through the scanner while holding contraband (as defined by th
 
 These checkpoints all function based on ID.
 Thus, a stolen ID card can be used to spoof the scanner and potentially raise the threat on an unsuspecting player.
+
+Since contraband checkpoints divide key areas of the station, they serve as a way to discourage taking the most direct paths to locations while carrying weapons or explosives.
+So if people want to utilize these stronger tools to complete their goals, they're forced to make plans, construct alternate paths, or even venture out through space in order to reach these areas.
+This naturally forces more suspicious and effortful behavior correlating to the relative dangerousness of the action, giving normal crew a better chance to notice and respond to it.
