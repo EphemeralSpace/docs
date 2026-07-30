@@ -25,6 +25,7 @@ A character's threat can range from 0 to 3, with each increase in threat restric
 For example, a threat level of 2 would only allow access to **Low Security** and **Prison** areas.
 
 Threat can either increase automatically through **contraband detection** or be manually adjusted at the [Overseer's terminal](jobs/overseer.md).
+Whenever someone's threat level changes, it's communicated through a small station broadcast.
 
 ## Security Systems
 

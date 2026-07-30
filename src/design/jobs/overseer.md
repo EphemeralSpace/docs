@@ -12,7 +12,7 @@ This introduces a bit of a equalizing force to command, since it creates a role 
 ## I AM THE LAW!
 
 The Overseer's main tool for managing criminality is the **Threat Assessment Terminal** located within their office.
-While the Overseer's specific ID is inside the console's primary slot, they can manually set the threat level of the ID card placed inside the secondary slot.
+While the Overseer's specific ID is inside the console's primary slot, they can remotely set the threat level of anyone on the station.
 Note that to facilitate this, a spare Overseer ID card will spawn in their office in the event that the role is not assigned.
 
 Compared to previous security implementations where all members of security can modify the status of a suspect, the Overseer being the single central control point of Criminality means that system is much more authoritative and reliable.

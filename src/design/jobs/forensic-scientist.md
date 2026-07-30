@@ -26,6 +26,7 @@ Some of this evidence includes:
 - Hair strands (hair color)
 - Skin cells (skin color)
 - Sweat particles (sex)
+- Fingernail material (age)
 
 When collected, the evidence manifests as a small physical item which can be collated alongside other evidence in the forensics lab.
 Additionally, this means that the forensic scientist's clues are much more reliable than the Detective's internal hunches, better suiting them to their more cooperative role.
