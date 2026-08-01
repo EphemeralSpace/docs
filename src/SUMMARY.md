@@ -121,6 +121,7 @@
   - [Valentines](design/masquerades/valentines.md)
 - [Station Events](design/station-events.md)
 - [Machine Degradation](design/machine-degradation.md)
+- [Ferrofungus](design/ferrofungus.md)
 ---
 - [Removed Documents](design/removed.md)
   - [Crewmember](design/removed/crewmember.md)
