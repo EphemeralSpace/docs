@@ -56,6 +56,7 @@
 - [Stats]()
 ---
 - [Jobs](design/jobs.md)
+  - [Acolyte](design/jobs/acolyte.md)
   - [Bartender](design/jobs/bartender.md)
   - [Coroner](design/jobs/coroner.md)
   - [Detective](design/jobs/detective.md)
