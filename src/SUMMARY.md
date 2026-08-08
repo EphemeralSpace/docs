@@ -57,10 +57,14 @@
 - [Station Events](design/station-events.md)
 ---
 - [Jobs](design/jobs.md)
-  - [Bartender](design/jobs/bartender.md)
+  - [Animal Control](design/jobs/animal-control.md)
+  - [Bartender](design/jobs/bartender.md)animal-control.md
+  - [Bionic Surgeon](design/jobs/bionic-surgeon.md)
   - [Coroner](design/jobs/coroner.md)
+  - [Cryogenicist](design/jobs/cryogenicist.md)
   - [Detective](design/jobs/detective.md)
   - [Forensic Scientist](design/jobs/forensic-scientist.md)
+  - [Hazardous Materials Responder](design/jobs/hazmat.md)
   - [Overseer](design/jobs/overseer.md)
   - [Peacekeeper](design/jobs/peacekeeper.md)
   - [Quartermaster](design/jobs/quartermaster.md)
