@@ -58,7 +58,8 @@
 ---
 - [Jobs](design/jobs.md)
   - [Animal Control](design/jobs/animal-control.md)
-  - [Bartender](design/jobs/bartender.md)animal-control.md
+  - [Bartender](design/jobs/bartender.md)
+  - [Botanist](design/jobs/botanist.md)
   - [Bionic Surgeon](design/jobs/bionic-surgeon.md)
   - [Coroner](design/jobs/coroner.md)
   - [Cryogenicist](design/jobs/cryogenicist.md)
