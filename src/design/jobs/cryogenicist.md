@@ -1,6 +1,6 @@
 # Cryogenicist
 
-{{#template ../../templates/implemented.md}}
+{{#template ../../templates/unimplemented.md}}
 
 The Cryogenicist is a **Medical** job who has access to cryogas and cryonics equipment. They manage cryosleep and the cryopods in medical. As part of their expertise, they're also permitted to work in atmospherics.
 

@@ -1,6 +1,6 @@
 # Bionic Surgeon
 
-{{#template ../../templates/implemented.md}}
+{{#template ../../templates/unimplemented.md}}
 
 The Bionic Surgeon is a **Medical** job who excels in quick surgical procedures and is the only one who can safely operate on patients to install their Bionic Transplants.
 As well as this, the Bionic Surgeon can attempt to surgically remove worms from a patient. This process is always fatal to the subject.

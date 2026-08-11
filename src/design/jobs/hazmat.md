@@ -1,6 +1,6 @@
 # Hazardous Materials Responder
 
-{{#template ../../templates/implemented.md}}
+{{#template ../../templates/unimplemented.md}}
 
 The Hazardous Materials Responder is a **Custodial** job who has access to the custodial equipment room and the supply rooms.
 Their Hazmat suit is rated against radiation, disease and corrosion, making them the go to for responding to issues like Miasma and Ferrofungus. Other than that, they're generally expected to keep the station clean.

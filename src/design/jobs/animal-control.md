@@ -1,6 +1,6 @@
 # Animal Control
 
-{{#template ../../templates/implemented.md}}
+{{#template ../../templates/unimplemented.md}}
 
 Animal Control is a **Custodial** job who has access to the custodial equipment room and the supply rooms.
 Tasked with keeping the station clean, especially of the various pests and occasional escaped experiment from the monkey experimentation program.

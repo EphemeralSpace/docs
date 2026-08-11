@@ -1,6 +1,6 @@
 # Ecologist
 
-{{#template ../../templates/implemented.md}}
+{{#template ../../templates/unimplemented.md}}
 
 The Ecologist is a **Custodial** and **Science** job that manages the station's artificial habitats, including the public gardens, experiment enclosures and offworld ecology research.
 Their duties involve tidying, trimming, weeding, caring for animals, and maintaining the fine balance of the stations ecosystems. They're somewhat of a jack of all trades around the station.
