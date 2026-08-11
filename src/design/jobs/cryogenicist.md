@@ -18,6 +18,9 @@ Unscrupulous Cryogenicists can run the scrubber in reverse, spewing out gas from
 
 ## Cryogenics Safety Overrides
 
-The Cryogenicist has an ability which can be used on a cryopod with a patient inside. This ability overrides all safeties on the therapeutic cryopods, husking the patient, but recovering them from any condition.
-This last ditch move can be used to save someone who is otherwise in a state beyond saving, but doing so irreparably changes the patient forever more.
+The Cryogenicist has an ability which can be used on a cryopod with a patient inside. This ability overrides all safeties on the therapeutic cryopods, husking the patient, but temporarily recovering them from any condition.
 Overriding the safety like this is damaging to the cryopod equipment itself, and can't be done more than one time per round.
+
+This last ditch move can be used to save someone who is otherwise in a state beyond saving, but doing so irreparably dooms the patient.
+After being husked in this way, the patient has three minuites to answer questions and dictate their last wishes. Beyond those three minuites, their husked body begins to melt and decay, dealing genetic damage.
+Remaining in a room filled with Cryogas can prevent this decay, but the condition itself is fatal as the body was not augmented to be preserved and survive in the same way a Cryojunkie's would be.

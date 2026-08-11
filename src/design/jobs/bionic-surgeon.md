@@ -19,9 +19,9 @@ The Bionic Surgeon's portable freezer contains the following:
 - Iron Stomach. Removes un-metabolized chemicals when transplanted. Having an Iron Stomach allows you to swallow items into an internal inventory, or retch them back out. When you go into a critical state, you spew out everything in your internal storage involuntarily.
 
 
-## Risky Surgery
+## Surgical Malpractice
 
-Someone as expert at surgeries and the body as the Bionic Surgeon can not just add to the body, but attempt to remove from it.
-If a patient has worm parasites, or specific death-activated implants, the Bionic Surgeon can attempt to guess which one is present in the body they are operating on the surgical table, and attempt to defuse the biological mechanisms which make them functional in the way that a bomb squad might defuse a bomb.
-Right or wrong, this process is fatal to the patient, but guessing correctly will stop a burrowed worm, implanted bomb or cryonics mechanism from triggering on that death.
-Guessing wrong is VERY bad for the surgeon, giving no delay before activating the death effect and putting them directly in the area of effect.
+A few cuts in the wrong places can leave a patient far worse off than before.
+As an action, the Bionic Surgeon can choose a type of injury and then operate on a patient who is in a critical state, restrained on a bed, or laying on a surgery table.
+If the doafter is successful, the Surgeon inflicts their chosen injury on the patient.
+This can be used to hobble someone to keep them on a short leash, cause the rapid deterioration of health in someone who was seeking helpful treatment... Whatever you think justifies making Hippocrates hang his head in shame.
