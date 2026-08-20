@@ -8,6 +8,8 @@ This is a non-comprehensive list of console commands useful for development / us
 
 ## General Use
 
+``respawn [username] [jobId]``: Respawns the specified player (if none is specified, defaults to yourself) as a new character. If `[jobId]` isn't specified, will choose a random overflow job.
+
 ``restartroundnow``: Restarts the round immediately.
 
 ``golobby``: Restarts the round and enables the lobby, if it was disabled.
