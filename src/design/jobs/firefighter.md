@@ -6,13 +6,13 @@ Additionally, their fireaxe (specialized for breaching) and light repair tools g
 
 ## Hot Fashion
 
-The firefighter's clothes consist of soot-gray overalls with red and yellow accents.
-Unlike a proper engineer, they are less of a handyman and more of a rough-and-tumble thrill seeker ready to throw themselves into an inferno.
-They also keep a firesuit inside their locker, although this is more of a convenience and isn't distinguished from other firesuits littered around the station.
+Their clothes consist of a loose-fitting brown workman jumpsuit with big Tobi trousers.
+Fire-red sneakers adorn their feet and a bandana wraps their hair back to keep it from burning.
+Unlike other jobs, they additionally spawn wearing a full gas mask that hides their face, giving them a uniquely threatening and suspicious aura.
 
-The most striking part of the firefighter's appearance is their gas mask, being directly on their face at the start of the shift.
-Due to the lingering trauma from lifelong smoke inhalation, the firefighter gains a moderate amount of [fear](../emotions/fear.md) when not wearing a gas mask of some kind.
-This gives them a suspicious and threatening appearance, since the gas mask obscures their features and hides their voice.
+Inside their locker, they also receive a full firesuit.
+Worn debuffs from the firesuit or gas mask will be nullified when worn by the firefighter, restoring normal move speed and vision radius.
+This encourages them to remain geared and vigilant in the event of a fire while simultaneously aligning them with the outfit.
 
 ## Pyroeuphoria
 
