@@ -5,8 +5,6 @@
 The Detective is a job focused on leveraging [Clues](../characters/clues.md) and investigative skill to hunt down criminals and killers on the station.
 They directly engage with the deduction of the round by trying to find and ~~shoot dead~~ detain various [killers](../secret-identities/crew/stalker.md) or members of other [organizations](../secret-identities.md).
 
-The [Forensic Scientist](forensic-scientist.md) serves as the counterpart to the Detective, sharing responsibilities of investigation while being less focused on the chase.
-
 ## Hard-Boiled
 
 Detective's characterization is less "modern CSI investigator" and a lot more Columbo or Dick Tracy.

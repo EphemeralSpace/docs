@@ -8,7 +8,7 @@
 >
 > **Masquerade/secret identity notes:** Should probably be fairly common (like, it would make sense to see one per round).
 >
-> *Yes, the [suicide bomb implant](../traitor/demolitionist.md) is mine. No, I don't work in that field anymore. I promise.*
+> *Yes, the suicide bomb implant is mine. No, I don't work in that field anymore. I promise.*
 
 ## Concept
 

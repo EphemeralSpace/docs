@@ -2,6 +2,8 @@
 
 {{#template ../../templates/partially-implemented.md}}
 
+{{#template ../../templates/slated-for-rework.md reason="Disease clouds as a game element feel really silly and turn what should be an ambient threat into what is essentially an awkward QTE. I also don't think I'd enjoy how diseases function as written here and it would benefit from something more generic interwoven with other systems."}}
+
 Filth is a general label encompassing the spread of miasma as well as disease transmission.
 Like other decay vectors, it serves as a progressive threat that the crew must mitigate over the course of the round.
 Unlike fires or rust, filth is both created and affects solely living creatures, giving it a unique mechanical area.

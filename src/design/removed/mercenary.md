@@ -1,10 +1,10 @@
 # Mercenary
 
-{{#template ../../../templates/implemented.md }}
+{{#template ../../templates/removed-implemented.md reason="A design that has just kinda worsened as the meta developed. As deduction becomes more difficult, it's harder to actually track down a traitor in a one-on-one environment where you could actually fight them and secure a personal kill. Oftentimes the best strategy is just to randomly kill people who seem even the slightest bit suspicious, which not only flattens the actual meta deduction of the game but is also just incredibly frustrating for players."}}
 
 > **Name:** Mercenary
 >
-> **Organization:** [Crew](../crew.md)
+> **Organization:** Crew
 >
 > **Description:** Keep your trusty sidearm safe and loaded. You're not past the old days of killing some bad guys.
 >
@@ -12,7 +12,7 @@
 >
 > *I EARNED this firearm as a keepsake after being HONORABLY discharged from the Space Border Patrol. You think my medals look fake? I didn't serve three tours on Kuiper-86b in the Ice Wars just for your punk ass to DISRESPECT ME! **BLAM BLAM BLAM***
 
-{{#template ../../../templates/renamed.md name="Veteran"}}
+{{#template ../../templates/renamed.md name="Veteran"}}
 
 ## Concept
 
@@ -24,7 +24,7 @@ Starts with a small sidearm and a good amount of spare ammo.
 
 ## Gameplay
 
-The Mercenary provides ambiguity for other secret identities with weapons or that seek to murder others, like the [Avenger](./avenger.md) or various [Traitor](../traitors.md) secret identities.
+The Mercenary provides ambiguity for other secret identities with weapons or that seek to murder others, like the Avenger or various Traitor secret identities.
 
 Mercenaries are unlikely to be particularly lenient with usage of their weapon, as they have a bunch of ammo and no reason not to just fire indiscriminately on people they're suspicious of, beyond that they might get caught doing it. This makes them a frequent instigator of conflict, as well as a deterrent for evildoer organizations and an incentive for would-be murderers to scope out what their target is capable of doing before jumping them.
 

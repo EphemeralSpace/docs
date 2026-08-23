@@ -1,10 +1,10 @@
 # Demolitionist
 
-{{#template ../../../templates/implemented.md }}
+{{#template ../../templates/removed-implemented.md reason="Highly destructive and impactful in a way that doesn't actually benefit the organization as a whole. Being limited to only bombs creates this awkward middle-point where they both suck at any kind of assassination attempts while also not being able to pursue minor objectives competently. Creating huge explosions also just causes structural damage and disrupts power, often blocking traitors from actually doing objectives."}}
 
 > **Name:** Demolitionist
 >
-> **Organization:** [Traitor](../traitors.md)
+> **Organization:** Traitor
 >
 > **Archetypes:** Jester
 >
