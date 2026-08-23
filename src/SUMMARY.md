@@ -68,7 +68,6 @@
   - [Overseer](design/jobs/overseer.md)
   - [Peacekeeper](design/jobs/peacekeeper.md)
   - [Psychologist](design/jobs/psychologist.md)
-  - [Quartermaster](design/jobs/quartermaster.md)
 - [Secret Identities](design/secret-identities.md)
   - [Modifiers](design/secret-identities/modifiers.md)
     - [Amnesiac](design/secret-identities/modifiers/amnesiac.md)
@@ -150,3 +149,4 @@
   - [Scientist](design/removed/scientist.md)
   - [Survivalist](design/removed/survivalist.md)
   - [Vigilante](design/removed/vigilante.md)
+  - [Quartermaster](design/removed/quartermaster.md)
