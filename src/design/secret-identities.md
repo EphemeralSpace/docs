@@ -71,7 +71,7 @@ Some general archetypes of secret identities (again, not exhaustive and new arch
 - **Copiers** copy other secret identities on some condition. Examples: [cannibal](secret-identities/crew/cannibal.md).
 - **Givers** center around creating and disseminating items to others for some purpose. Examples: [arms dealer](secret-identities/crew/arms-dealer.md), [drug dealer](secret-identities/crew/drug-dealer.md).
 - **Sabotagers** have objectives which revolve around engaging in some kind of malicious activity that generally harms others and leads to direct conflict and has deniability with organization secret identities. Examples: [vandal](secret-identities/crew/vandal.md).
-- **Murderers** try to directly engage in conflict with and kill other players. Examples: [assassin](secret-identities/traitor/assassin.md), [mercenary](secret-identities/crew/mercenary.md).
+- **Murderers** try to directly engage in conflict with and kill other players. Examples: [assassin](secret-identities/traitor/assassin.md), [stalker](secret-identities/crew/stalker.md).
 - **Guardians** try to prevent other players from being harmed or killed. Examples: [avenger](secret-identities/crew/avenger.md), [secretary](secret-identities/crew/secretary.md).
 - **Freaks** have objectives which interact with the simulation in a way that is strange and leads into weird interactions, but not necessarily direct conflict with others. Examples: [guzzler](secret-identities/crew/guzzler.md), [arsonist](secret-identities/crew/arsonist.md).
 - **Duds** lack unique mechanics or goals or are instead defined by organization or the absence of another secret identity. Examples: [recruit](secret-identities/traitor/recruit.md), [goon](secret-identities/mafia/goon.md).
