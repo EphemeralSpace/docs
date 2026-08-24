@@ -61,10 +61,12 @@
 - [Station Events](design/station-events.md)
 ---
 - [Jobs](design/jobs.md)
+  - [Animal Control](design/jobs/animal-control.md)
   - [Bartender](design/jobs/bartender.md)
   - [Coroner](design/jobs/coroner.md)
   - [Detective](design/jobs/detective.md)
   - [Forensic Scientist](design/jobs/forensic-scientist.md)
+  - [Hazardous Materials Responder](design/jobs/hazmat.md)
   - [Overseer](design/jobs/overseer.md)
   - [Peacekeeper](design/jobs/peacekeeper.md)
   - [Psychologist](design/jobs/psychologist.md)
