@@ -67,7 +67,6 @@
   - [Coroner](design/jobs/coroner.md)
   - [Detective](design/jobs/detective.md)
   - [Firefighter](design/jobs/firefighter.md)
-  - [Forensic Scientist](design/jobs/forensic-scientist.md)
   - [Hazardous Materials Responder](design/jobs/hazmat.md)
   - [Overseer](design/jobs/overseer.md)
   - [Peacekeeper](design/jobs/peacekeeper.md)
