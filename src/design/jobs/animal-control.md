@@ -10,7 +10,8 @@ Tasked with keeping the station clean, especially of the various pests and occas
 
 Mousetraps, Beartraps, these are the essential tools of the job. Shakers of rat poison can be used to contaminate food that pests might try to eat.
 A tranquilizer rifle can put to sleep rogue experiments or station pets that are causing trouble without needing to kill them outright.
-This rifle is air powered and comes with a box of Animal Tranquilizer darts. Animal Tranquilizer will near-instantly put to sleep animals, but also raises the [Calm](../emotions/calm.md) level of humans hit by one, potentially putting them to sleep if they are already at maximum calm.
+This rifle is air powered and comes with a box of Animal Tranquilizer darts. Animal Tranquilizer will near-instantly put to sleep animals.
+It also raises the [Calm](../emotions/calm.md) level of humans hit by one while the chemicals are in their blood stream, potentially putting them to sleep if they are already at maximum calm from other sources.
 As part of the custodial team, the Animal Control job also has access to the same basic janitorial cleaning tools to make themselves busy while no animals are about, or clean up after the animals.
 
 
