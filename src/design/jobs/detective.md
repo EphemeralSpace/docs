@@ -1,6 +1,6 @@
 # Detective
 
-{{#template ../../templates/partially-implemented.md}}
+{{#template ../../templates/implemented.md}}
 
 The Detective is a job focused on leveraging [Clues](../characters/clues.md) and investigative skill to hunt down criminals and killers on the station.
 They directly engage with the deduction of the round by trying to find and ~~shoot dead~~ detain various [killers](../secret-identities/crew/stalker.md) or members of other [organizations](../secret-identities.md).
@@ -14,7 +14,7 @@ Similarly, their gear is not suited for much besides chasing down potential thre
 Their lack of protective armor distinguishes them from more nonlethal-oriented jobs like [Peacekeepers](peacekeeper.md) and their trusty sidearm means that they can often pursue and engage in combat with [dangerous individuals](../secret-identities/traitor/marauder.md) much more effectively than the baseline job.
 While they still have basic forensics equipment for taking fingerprints and DNA samples, they are much more oriented for the standoff or catching the criminal at the perfect time.
 
-## Hunches {.es-unimplemented }
+## Hunches
 
 The strongest tool the Detective has for pursuing killers are **Hunches**.
 When in front of a dead body, the Detective can examine it to gain a "hunch" about the killer.
