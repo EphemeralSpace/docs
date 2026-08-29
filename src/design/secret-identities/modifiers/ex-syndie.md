@@ -1,6 +1,6 @@
 # Ex-Syndie
 
-{{#template ../../../templates/unimplemented.md }}
+{{#template ../../../templates/implemented.md }}
 
 > **Description:** Use your cache of old syndie gear from before you left the business in pursuit of Good. Or whatever you feel like is Good.
 >
