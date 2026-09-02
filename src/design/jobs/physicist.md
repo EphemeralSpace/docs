@@ -11,7 +11,7 @@ Due to their commanding knowledge of physics, the Physicist has a unique agility
 Not only will they never slam into walls, but they also have better acceleration and can move slightly faster than the other crew.
 
 Additionally, the Physicist also gains access to the "push off" ability when in low-gravity.
-When used, they tactfully harness Newton's 2nd Law, stunning the target and sending them flying while also launching themselves in the opposite direction.
+When used, they tactfully harness Newton's third law, stunning the target and sending them flying while also launching themselves in the opposite direction.
 This serves both as a combo maneuver for combat as well as an escape tool for getting away from potential threats.
 
 Alongside their natural affinity, the Physicist also receives a variety of tools suited to low-gravity environments.
