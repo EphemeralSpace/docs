@@ -68,6 +68,7 @@
   - [Detective](design/jobs/detective.md)
   - [Firefighter](design/jobs/firefighter.md)
   - [Hazardous Materials Responder](design/jobs/hazmat.md)
+  - [Operator](design/jobs/operator.md)
   - [Overseer](design/jobs/overseer.md)
   - [Peacekeeper](design/jobs/peacekeeper.md)
   - [Psychologist](design/jobs/psychologist.md)
