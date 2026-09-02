@@ -1,6 +1,6 @@
 # Ex-Syndie
 
-{{#template ../../../templates/unimplemented.md }}
+{{#template ../../../templates/implemented.md }}
 
 > **Description:** Use your cache of old syndie gear from before you left the business in pursuit of Good. Or whatever you feel like is Good.
 >
@@ -8,7 +8,7 @@
 >
 > **Masquerade/secret identity notes:** Should probably be fairly common (like, it would make sense to see one per round).
 >
-> *Yes, the [suicide bomb implant](../traitor/demolitionist.md) is mine. No, I don't work in that field anymore. I promise.*
+> *Yes, the suicide bomb implant is mine. No, I don't work in that field anymore. I promise.*
 
 ## Concept
 

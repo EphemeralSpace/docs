@@ -32,11 +32,11 @@ If you just want to make a basic edit of a page, simply follow these steps--you 
 If you want to locally build the docs, the necessary dependencies are Rust and some binaries installed using `cargo`. It's recommended that you use `cargo install` or `cargo quickinstall`, as building can take a while.
 
 From cargo, install:
-- `mdbook`
-- `mdbook-pagetoc`
-- `mdbook-admonish`
-- `mdbook-linkcheck`
-- `mdbook-template`
+- `mdbook@0.4.51`
+- `mdbook-pagetoc@0.2.0`
+- `mdbook-admonish@1.20.0`
+- `mdbook-linkcheck@0.7.7`
+- `mdbook-template@1.1.0`
 
 Alternatively, this repo supports nix flakes. If you have nix installed, you can run `nix develop github:EphemeralSpace/docs` to enter a dev shell with all necessary binaries, or just run `nix develop` in the main directory if you have it cloned.
 

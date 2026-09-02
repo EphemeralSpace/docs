@@ -1,12 +1,12 @@
 # Quartermaster
 
-{{#template ../../templates/partially-implemented.md}}
+{{#template ../../templates/removed-implemented.md reason="Predicated on material supply and production gameplay that both doesn't exist and doesn't have a logical pathway to exist. Runs pretty much directly counter to all of our thoughts on station decay over a round so I don't know what I expected. Cargo has been shot dead like 3 times by now."}}
 
 The Quartermaster is a job on station tasked with managing the supply of materials and tools on the station.
 They are not aligned with any particular departments and function independently of any traditional departments.
 While they do not have a strong reactive task, their role is reinforced by their control over supplies that other members of the crew want to use.
 
-## Manufacturing {.es-partially-implemented }
+## Manufacturing
 
 The primary source of manufacturing and new items on the station is the **Autolathe,** a large immovable machine located inside the Quartermaster's area.
 
@@ -15,7 +15,7 @@ This is mostly balanced out by the lathe's speed and prominence on the map.
 Since it's located front and center inside Cargo, players wanting to take advantage of it either need to cooperate with the Quartermaster or noisily break in, drawing attention to themselves.
 Anything they make can also be plainly seen by other people in the area, potentially drawing further attention to themselves.
 
-## Crates {.es-unimplemented }
+## Crates
 
 Alongside their Autolathe, the Quartermaster also receives a large supply of various crates.
 All the crates are relatively sturdy, requiring any ne'er-do-wells (including the Quartermaster themselves) to either acquire the correct access or a sufficiently dangerous breaching tool.

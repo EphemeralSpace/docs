@@ -1,13 +1,11 @@
 # Scientist
 
-{{#template ../../templates/implemented.md}}
-
-{{#template ../../templates/slated-for-rework.md reason="The crew objective has basically been entirely rewritten from this point and thus this job as written makes no sense. This will either be cut or rolled into some new job."}}
+{{#template ../../templates/removed-implemented.md reason="Just a really poor design that felt cumbersome to play. Since they were primarily tasked with science and the crew objective, it felt like an obligatory role that always had to be present or else the crew was majorly debuffed. Even if one wasn't there, someone would always end up assuming a default science role, which felt bad. The increased scrutiny from being a scientist not doing the crew objective is basically nonexistent, since there's a million highly deniable ways to explain why you weren't sitting around inside science all shift. Just a really miserable role without a lot going for it."}}
 
 > *Gordon doesn't need to hear all this. He's a highly trained professional.*
 
 Scientist is a general purpose **Research** job focused on round progression.
-Their primary task is the management of the [Portal Generator](../secret-identities/crew.md) and the general completion of telescience research.
+Their primary task is the management of the Portal Generator and the general completion of telescience research.
 
 ## True Crew?
 The interesting part about the scientist's dynamic on the station is how it plays into the greater crew objective of telescience.

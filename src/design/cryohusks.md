@@ -1,4 +1,4 @@
-# Cryohusks {.es-unimplemented}
+# Cryohusks
 
 Cryohusks are aberrated humans that are unidentifiable, move slightly slower, are especially weak to heat damage, and have a little bit of difficulty speaking. They can enter the round through a variety of methods, but most involve some variation of a person being exposed to cold temperatures for far too long--e.g., from hypersleep or from cryogas.
 
