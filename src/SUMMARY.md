@@ -70,6 +70,7 @@
   - [Hazardous Materials Responder](design/jobs/hazmat.md)
   - [Overseer](design/jobs/overseer.md)
   - [Peacekeeper](design/jobs/peacekeeper.md)
+  - [Physicist](design/jobs/physicist.md)
   - [Psychologist](design/jobs/psychologist.md)
 - [Secret Identities](design/secret-identities.md)
   - [Modifiers](design/secret-identities/modifiers.md)
