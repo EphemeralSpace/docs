@@ -19,6 +19,7 @@ Alongside their natural affinity, the Physicist also receives a variety of tools
 - A force gun which can grab and throw around various objects
 - Several **antigravity field generators**. When active, anything in their radius will become weightless
 - Several attachable **weight nullifiers**. These are small devices that can be stuck onto items or structures to make them weightless
+- Several **concussion grenades** which physically launch nearby players away from the grenade itself. Can be used while weightless to propel oneself with great speed 
 
 ## Gravity Girl
 
