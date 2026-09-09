@@ -64,6 +64,7 @@
 - [Jobs](design/jobs.md)
   - [Animal Control](design/jobs/animal-control.md)
   - [Bartender](design/jobs/bartender.md)
+  - [Clown](design/jobs/clown.md)
   - [Coroner](design/jobs/coroner.md)
   - [Detective](design/jobs/detective.md)
   - [Firefighter](design/jobs/firefighter.md)
