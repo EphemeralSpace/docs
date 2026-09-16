@@ -2,6 +2,8 @@
 
 {{#template ../templates/unimplemented.md}}
 
+{{#template ../templates/slated-for-rework.md reason="Basic idea is good but the primary vector being contraband is really silly. I don't even disagree with having contraband scanners maybe, I just think that it barely pushes the mechanic in terms of how people will engage with it. I think it's also unlikely we will have a prison security level as it would be really weird on the map and also just cuckbox-y."}}
+
 Criminality is an automated system that tracks player threat levels and restricts access to various areas on the station accordingly.
 Its purpose is to encourage alternative strategies for accomplishing goals without always being able to resort to bringing the most powerful tool available straight to the location where it can be best used.
 
