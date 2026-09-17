@@ -58,6 +58,7 @@
 - [Ferrofungus](design/ferrofungus.md)
 - [Lathe](design/lathe.md)
 - [Machine Degradation](design/machine-degradation.md)
+- [Piloting](design/piloting.md)
 - [Reincarnation](design/reincarnation.md)
 - [Station Events](design/station-events.md)
 ---
