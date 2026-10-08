@@ -1,4 +1,4 @@
-<img alt="Ephemeral Space Logo" src="assets/misc/esicon.svg" width=256 style="margin-right:auto;display:block"/>
+<img alt="Ephemeral Space Logo" src="assets/misc/esicon.svg" width=256 style="margin-left:auto;margin-right:auto;display:block"/>
 
 This is the development wiki for the **Ephemeral Space** project.
 If you're looking for information on game mechanics and guides, seek out the guidebook, accessible on the live server.
