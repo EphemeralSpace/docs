@@ -17,6 +17,7 @@
 }
 
 .menu-title {
+    margin-top: 20px !important;
     /* hides the text visually, keeps it for screen readers */
     font-size: 0;
     display: block;
