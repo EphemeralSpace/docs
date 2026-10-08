@@ -19,8 +19,9 @@
 .menu-title {
     /* hides the text visually, keeps it for screen readers */
     font-size: 0;
+    display: block;
     height: var(--menu-bar-height, 50px);
-    background: url("../src/assets/misc/esicon.svg") center / contain no-repeat;
+    background: url("../assets/misc/esicon.svg") center / contain no-repeat;
 }
 
 @media only screen and (min-width: 1366px) {
