@@ -48,6 +48,7 @@
   - [Calm](design/emotions/calm.md)
   - [Euphoria](design/emotions/euphoria.md)
   - [Fear](design/emotions/fear.md)
+  - [Guilt](design/emotiosn/guilt.md)
   - [Rage](design/emotions/rage.md)
 - [Power]()
   - [Antimatter Engine](design/power/antimatter-engine.md)
